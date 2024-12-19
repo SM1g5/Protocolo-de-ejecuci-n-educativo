@@ -1853,3 +1853,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Dec2024 06:22:05.218] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
 [19Dec2024 06:22:41.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
 [19Dec2024 06:22:41.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[19Dec2024 06:30:02.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.112.73.149:34775] logged in with entity id 1720 at (121.86893747989723, 95.5, -141.19031554412436)
+[19Dec2024 06:30:02.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[19Dec2024 06:30:02.206] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[19Dec2024 06:30:02.206] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Dec2024 06:30:02.207] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[19Dec2024 06:30:11.330] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[19Dec2024 06:30:16.021] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[19Dec2024 06:30:37.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[19Dec2024 06:33:38.711] [Server thread/INFO] [Scaling Health/]: Blight Slug was killed by AkujinPas
+[19Dec2024 06:36:30.525] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
