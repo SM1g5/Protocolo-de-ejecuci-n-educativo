@@ -1946,3 +1946,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Dec2024 08:18:54.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! 4.712383867061931,-9.914318861301197,-14.148532604224329
 [19Dec2024 08:18:57.780] [Server thread/INFO] [Scaling Health/]: Blight Piglin has died
 [19Dec2024 08:18:58.574] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
+[19Dec2024 08:19:15.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! -14.951663917676626,-2.014414759155386,10.013874336093181
+[19Dec2024 08:19:38.681] [Server thread/INFO] [Scaling Health/]: Blight Imp has died
+[19Dec2024 08:21:37.667] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/276, l='ServerLevel[world]', x=143.00, y=76.41, z=-93.96] died: Undead Knight suffocated in a wall
+[19Dec2024 08:22:06.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=38, z=382} BlockPos{x=181, y=37, z=382}
+[19Dec2024 08:22:06.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=183, y=38, z=382} BlockPos{x=181, y=37, z=382}
+[19Dec2024 08:22:14.349] [Server thread/INFO] [Scaling Health/]: Blight Piglin has died
+[19Dec2024 08:22:22.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:22.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:22.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:22.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:22.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:22.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:22.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:22.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:22.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:22.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:23.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:23.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:23.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:23.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:23.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:23.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:23.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:23.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:23.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=382} BlockPos{x=186, y=36, z=382}
+[19Dec2024 08:22:54.882] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[19Dec2024 08:23:27.588] [Server thread/INFO] [Scaling Health/]: Blight Strider has died
+[19Dec2024 08:24:51.782] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin has died
+[19Dec2024 08:27:06.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[19Dec2024 08:27:25.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[19Dec2024 08:28:32.796] [Server thread/INFO] [Scaling Health/]: Blight Doom Hunter was killed by AkujinPas
+[19Dec2024 08:32:07.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! -18.13907627081744,-2.0813108398723443,-4.231338202150937
+[19Dec2024 08:33:55.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Disconnected
+[19Dec2024 08:33:55.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[19Dec2024 08:39:17.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[19Dec2024 08:39:17.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[19Dec2024 08:39:33.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.112.73.149:34589] logged in with entity id 76718 at (128.946906876232, 92.0, -136.68425496050946)
+[19Dec2024 08:39:33.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[19Dec2024 08:39:33.579] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[19Dec2024 08:39:33.580] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Dec2024 08:39:33.581] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
