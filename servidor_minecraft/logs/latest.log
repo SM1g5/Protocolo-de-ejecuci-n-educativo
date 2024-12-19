@@ -1863,3 +1863,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Dec2024 06:30:37.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
 [19Dec2024 06:33:38.711] [Server thread/INFO] [Scaling Health/]: Blight Slug was killed by AkujinPas
 [19Dec2024 06:36:30.525] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[19Dec2024 06:37:42.524] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[19Dec2024 06:39:38.299] [Server thread/INFO] [Scaling Health/]: Blight Squid was killed by AkujinPas
+[19Dec2024 06:42:45.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[19Dec2024 06:42:45.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
