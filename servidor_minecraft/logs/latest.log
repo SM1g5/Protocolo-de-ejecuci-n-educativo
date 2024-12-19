@@ -1793,3 +1793,55 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Dec2024 06:00:12.959] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
 [19Dec2024 06:00:34.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
 [19Dec2024 06:00:34.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[19Dec2024 06:01:05.915] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6ce91eda[id=<null>,name=Lex_Ssuid,properties={},legacy=false] (/127.160.159.167:44201): Took too long to log in
+[19Dec2024 06:01:05.917] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ce91eda[id=<null>,name=Lex_Ssuid,properties={},legacy=false] (/127.160.159.167:44201) lost connection: Took too long to log in
+[19Dec2024 06:01:05.962] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 06:01:29.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.160.159.167:54813] logged in with entity id 447 at (108.28736671864533, 77.0, 131.43630137469665)
+[19Dec2024 06:01:29.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[19Dec2024 06:01:30.032] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[19Dec2024 06:01:30.032] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Dec2024 06:01:30.033] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[19Dec2024 06:01:30.551] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[19Dec2024 06:01:33.632] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[19Dec2024 06:01:57.203] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/su5ed/mffs/util/Fortron$Action
+[19Dec2024 06:01:57.214] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/silentchaos512/lib/advancements/UseItemTrigger$Target
+[19Dec2024 06:01:57.246] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[19Dec2024 06:01:57.247] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md5779fa$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[19Dec2024 06:02:03.166] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[19Dec2024 06:02:07.519] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
+[19Dec2024 06:02:08.058] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[19Dec2024 06:02:08.107] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Dec2024 06:02:08.107] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[19Dec2024 06:02:08.108] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 6 gunpowder
+[19Dec2024 06:02:08.108] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[19Dec2024 06:02:08.108] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 0
+[19Dec2024 06:02:08.336] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Dec2024 06:02:08.337] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[19Dec2024 06:02:08.337] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 6 gunpowder
+[19Dec2024 06:02:08.337] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[19Dec2024 06:02:08.337] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 0
+[19Dec2024 06:03:44.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/24, l='ServerLevel[world]', x=99.50, y=78.00, z=121.70] was struck by lightning LightningBolt['Lightning Bolt'/762, l='ServerLevel[world]', x=98.50, y=81.00, z=123.50].
+[19Dec2024 06:03:44.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/98, l='ServerLevel[world]', x=98.47, y=77.94, z=124.51] was struck by lightning LightningBolt['Lightning Bolt'/762, l='ServerLevel[world]', x=98.50, y=81.00, z=123.50].
+[19Dec2024 06:03:49.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=97, y=81, z=124} BlockPos{x=97, y=80, z=123}
+[19Dec2024 06:03:50.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=97, y=81, z=124} BlockPos{x=97, y=80, z=123}
+[19Dec2024 06:04:24.015] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[19Dec2024 06:06:07.306] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[19Dec2024 06:06:39.259] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/Tiers$SlotType
+[19Dec2024 06:07:16.844] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[19Dec2024 06:09:00.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Timed out
+[19Dec2024 06:09:00.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[19Dec2024 06:09:20.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.160.159.167:40731] logged in with entity id 1308 at (100.78206202028225, 80.0, 121.24989139449559)
+[19Dec2024 06:09:20.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[19Dec2024 06:09:21.050] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[19Dec2024 06:09:21.050] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Dec2024 06:09:21.050] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[19Dec2024 06:10:07.174] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[19Dec2024 06:10:36.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Timed out
+[19Dec2024 06:10:36.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[19Dec2024 06:10:52.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.160.159.167:55835] logged in with entity id 1460 at (101.28088451956073, 80.08497923329004, 121.34854063906452)
+[19Dec2024 06:10:52.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[19Dec2024 06:10:52.095] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[19Dec2024 06:10:52.096] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Dec2024 06:10:52.096] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[19Dec2024 06:11:22.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Timed out
+[19Dec2024 06:11:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
