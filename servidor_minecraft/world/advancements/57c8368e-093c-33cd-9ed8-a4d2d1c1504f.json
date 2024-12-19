@@ -2489,6 +2489,7 @@
       "minecraft:spider": "2024-11-23 06:42:26 +0000",
       "minecraft:piglin_brute": "2024-12-14 06:58:13 +0000",
       "minecraft:creeper": "2024-11-24 05:12:01 +0000",
+      "minecraft:wither": "2024-12-19 07:29:49 +0000",
       "minecraft:evoker": "2024-11-24 11:46:25 +0000",
       "minecraft:slime": "2024-12-10 05:42:31 +0000",
       "minecraft:zombified_piglin": "2024-11-23 11:33:28 +0000",
@@ -2577,9 +2578,10 @@
   },
   "enigmaticlegacy:recipes/generic/heaven_scroll": {
     "criteria": {
-      "has_parent_recipe": "2024-11-22 07:22:19 +0000"
+      "has_parent_recipe": "2024-11-22 07:22:19 +0000",
+      "has_items": "2024-12-19 07:29:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
@@ -10359,9 +10361,10 @@
   },
   "enigmaticlegacy:recipes/generic/fabulous_scroll": {
     "criteria": {
+      "has_parent_recipe": "2024-12-19 07:29:51 +0000",
       "has_items": "2024-11-28 09:54:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/ender_rod": {
     "criteria": {
@@ -13207,6 +13210,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/nether_star_decomposing": {
+    "criteria": {
+      "has_nether_star": "2024-12-19 07:29:51 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/heaven_scroll": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 07:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-12-19 07:11:54 +0000"
@@ -13225,15 +13240,52 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-19 07:29:43 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/salmon_decomposing": {
     "criteria": {
       "has_salmon": "2024-12-19 07:11:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-19 07:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-12-19 07:11:54 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_star": {
+    "criteria": {
+      "has_item_nether_star": "2024-12-19 07:29:51 +0000",
+      "has_forge_nether_stars": "2024-12-19 07:29:51 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2024-12-19 07:29:51 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/fabulous_scroll": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 07:29:51 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/wither_rose_decomposing": {
+    "criteria": {
+      "has_wither_rose": "2024-12-19 07:29:43 +0000"
     },
     "done": true
   },
