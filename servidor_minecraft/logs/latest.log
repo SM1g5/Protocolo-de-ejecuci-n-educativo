@@ -1845,3 +1845,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Dec2024 06:10:52.096] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
 [19Dec2024 06:11:22.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Timed out
 [19Dec2024 06:11:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[19Dec2024 06:16:37.812] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a00efcb[id=<null>,name=Lex_Ssuid,properties={},legacy=false] (/127.160.159.167:46549) lost connection: Disconnected
+[19Dec2024 06:22:05.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.112.73.149:48879] logged in with entity id 1547 at (110.7864281648262, 95.5, -148.38014310187575)
+[19Dec2024 06:22:05.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[19Dec2024 06:22:05.217] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[19Dec2024 06:22:05.217] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Dec2024 06:22:05.218] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[19Dec2024 06:22:41.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[19Dec2024 06:22:41.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
