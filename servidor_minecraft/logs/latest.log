@@ -1867,3 +1867,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Dec2024 06:39:38.299] [Server thread/INFO] [Scaling Health/]: Blight Squid was killed by AkujinPas
 [19Dec2024 06:42:45.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
 [19Dec2024 06:42:45.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[19Dec2024 07:06:21.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.112.73.149:54335] logged in with entity id 4306 at (9.489617752281777, 62.0, 140.68076507970883)
+[19Dec2024 07:06:21.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[19Dec2024 07:06:21.840] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[19Dec2024 07:06:21.841] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Dec2024 07:06:21.842] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
