@@ -323,6 +323,7 @@
       "muskeg": "2024-11-24 08:11:00 +0000",
       "woodland": "2024-11-28 07:03:38 +0000",
       "shrubland": "2024-11-25 01:58:44 +0000",
+      "snowblossom_grove": "2024-12-19 08:09:29 +0000",
       "rocky_shrubland": "2024-11-25 01:59:11 +0000",
       "scrubland": "2024-11-25 02:56:03 +0000",
       "bayou": "2024-12-14 06:02:15 +0000",
@@ -362,7 +363,8 @@
       "glowing_grotto": "2024-11-25 07:20:02 +0000",
       "origin_valley": "2024-12-19 07:53:54 +0000",
       "rainforest": "2024-11-28 07:13:07 +0000",
-      "crag": "2024-11-25 03:18:33 +0000"
+      "crag": "2024-11-25 03:18:33 +0000",
+      "snowy_maple_woods": "2024-12-19 08:10:23 +0000"
     },
     "done": false
   },
@@ -1251,6 +1253,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-11-24 09:34:57 +0000",
       "minecraft:mushroom_fields": "2024-12-19 07:52:41 +0000",
+      "minecraft:taiga": "2024-12-19 08:15:39 +0000",
       "minecraft:frozen_river": "2024-11-24 08:10:26 +0000",
       "minecraft:cherry_grove": "2024-11-25 03:11:53 +0000",
       "minecraft:sunflower_plains": "2024-12-14 06:38:17 +0000",
@@ -1266,6 +1269,7 @@
       "minecraft:stony_shore": "2024-11-24 05:52:39 +0000",
       "minecraft:snowy_plains": "2024-11-24 08:10:19 +0000",
       "minecraft:dripstone_caves": "2024-11-27 05:18:23 +0000",
+      "minecraft:snowy_taiga": "2024-12-19 08:09:42 +0000",
       "minecraft:swamp": "2024-11-27 04:58:44 +0000",
       "minecraft:jagged_peaks": "2024-12-19 07:34:50 +0000",
       "minecraft:cold_ocean": "2024-11-24 09:20:01 +0000",
@@ -13336,9 +13340,99 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-19 08:17:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2024-12-19 08:17:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_blinds": {
+    "criteria": {
+      "has_log": "2024-12-19 08:17:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2024-12-19 08:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 08:17:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-19 08:17:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-19 08:17:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-19 08:17:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-19 08:17:05 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-19 08:17:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-19 08:17:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2024-12-19 08:17:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-19 08:17:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2024-12-19 07:35:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2024-12-19 08:17:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-19 08:17:05 +0000"
     },
     "done": true
   },

@@ -1928,3 +1928,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Dec2024 08:02:47.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> xF
 [19Dec2024 08:03:52.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! 14.255810662997646,8.83155692993978,7.34789482195481
 [19Dec2024 08:07:04.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has completed the challenge [Factory-Ready]
+[19Dec2024 08:08:09.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[19Dec2024 08:09:02.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! 15.275901397905272,6.649425161883585,-6.99661325736588
+[19Dec2024 08:09:03.888] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49358, l='ServerLevel[world]', x=649.37, y=94.00, z=1514.72] died, message: 'Villager suffocated in a wall'
+[19Dec2024 08:09:19.604] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[19Dec2024 08:11:38.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> si le pones una estrella del nether a un spawner, no es necesario que haya un jugador cerca del spawner
+[19Dec2024 08:13:55.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[19Dec2024 08:14:49.438] [Server thread/INFO] [Scaling Health/]: Blight Wither Skeleton was killed by Draconic Evolution Grinder
+[19Dec2024 08:15:24.195] [Server thread/INFO] [Scaling Health/]: Blight Wither Skeleton was killed by Draconic Evolution Grinder
+[19Dec2024 08:15:35.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! 11.073258512064513,-1.8901609203187775,-13.497822994824219
+[19Dec2024 08:15:36.675] [Server thread/INFO] [Scaling Health/]: Blight Wither Skeleton was killed by Draconic Evolution Grinder
+[19Dec2024 08:16:16.946] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/azure/azurelib/core/object/PlayState
+[19Dec2024 08:16:22.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[19Dec2024 08:16:56.047] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[19Dec2024 08:16:56.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3304ms or 66 ticks behind
+[19Dec2024 08:17:04.438] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[19Dec2024 08:18:54.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! 4.712383867061931,-9.914318861301197,-14.148532604224329
+[19Dec2024 08:18:57.780] [Server thread/INFO] [Scaling Health/]: Blight Piglin has died
+[19Dec2024 08:18:58.574] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex

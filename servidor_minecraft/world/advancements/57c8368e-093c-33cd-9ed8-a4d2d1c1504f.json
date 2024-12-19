@@ -13277,6 +13277,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/players": {
+    "criteria": {
+      "modifier": "2024-12-19 08:07:04 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/fabulous_scroll": {
     "criteria": {
       "has_the_recipe": "2024-12-19 07:29:51 +0000"
