@@ -1811,3 +1811,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Dec2024 21:58:26.901] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
 [22Dec2024 21:58:55.614] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
 [22Dec2024 22:02:13.221] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[22Dec2024 22:10:01.691] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
