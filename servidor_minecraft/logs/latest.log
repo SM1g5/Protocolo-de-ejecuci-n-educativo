@@ -1823,3 +1823,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Dec2024 22:18:31.703] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [22Dec2024 22:18:31.705] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [22Dec2024 22:23:05.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Who is Cutting Onions?]
+[22Dec2024 22:37:28.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Free the End]
+[22Dec2024 22:37:38.125] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=62, z=0}

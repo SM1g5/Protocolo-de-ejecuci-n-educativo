@@ -2496,6 +2496,7 @@
       "minecraft:witch": "2024-11-23 09:54:36 +0000",
       "minecraft:wither_skeleton": "2024-11-26 07:24:49 +0000",
       "minecraft:husk": "2024-11-29 06:55:52 +0000",
+      "minecraft:ender_dragon": "2024-12-22 22:37:28 +0000",
       "minecraft:shulker": "2024-11-28 09:50:43 +0000",
       "minecraft:cave_spider": "2024-11-26 04:50:55 +0000",
       "minecraft:piglin": "2024-11-24 03:27:51 +0000",
@@ -13376,6 +13377,18 @@
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2024-12-22 22:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-12-22 22:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2024-12-22 22:40:25 +0000"
     },
     "done": true
   },
