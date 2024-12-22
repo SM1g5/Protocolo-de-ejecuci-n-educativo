@@ -1827,3 +1827,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Dec2024 22:37:38.125] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=62, z=0}
 [22Dec2024 23:02:08.138] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
 [22Dec2024 23:04:27.940] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/deposit/DepositFilterType
+[22Dec2024 23:07:15.638] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[22Dec2024 23:07:44.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Derrick the AC Rizzlord'/14346, l='ServerLevel[world]', x=-132.03, y=36.00, z=66.12] died: Derrick the AC Rizzlord was slain by AkujinPas
+[22Dec2024 23:10:31.286] [Server thread/INFO] [Scaling Health/]: Blight Doom Hunter was killed by AkujinPas
+[22Dec2024 23:13:31.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Reverend Rosa the Dragonborn'/15355, l='ServerLevel[world]', x=93.34, y=80.00, z=74.13] died: Reverend Rosa the Dragonborn was slain by His Holiness Patrice the Ghost Hunter
+[22Dec2024 23:15:52.683] [Server thread/INFO] [Scaling Health/]: Blight Possessed Scientist has died
