@@ -1832,3 +1832,36 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Dec2024 23:10:31.286] [Server thread/INFO] [Scaling Health/]: Blight Doom Hunter was killed by AkujinPas
 [22Dec2024 23:13:31.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Reverend Rosa the Dragonborn'/15355, l='ServerLevel[world]', x=93.34, y=80.00, z=74.13] died: Reverend Rosa the Dragonborn was slain by His Holiness Patrice the Ghost Hunter
 [22Dec2024 23:15:52.683] [Server thread/INFO] [Scaling Health/]: Blight Possessed Scientist has died
+[22Dec2024 23:18:27.190] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:27.283] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:27.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:27.482] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:27.583] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:27.684] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:27.782] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:27.882] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:27.981] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:28.085] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:28.183] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:28.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:28.381] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:28.484] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:28.581] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:28.681] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:28.783] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:28.883] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:28.983] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:29.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:29.182] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:29.283] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:29.381] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:29.480] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:29.580] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:29.680] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:29.783] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:29.882] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:29.982] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:30.081] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:18:30.181] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 23:20:02.415] [Server thread/INFO] [Scaling Health/]: Blight Doom Hunter was killed by AkujinPas
+[22Dec2024 23:24:56.185] [Server thread/INFO] [Scaling Health/]: Blight Mecha Zombie has died
