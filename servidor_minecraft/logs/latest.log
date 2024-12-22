@@ -1812,3 +1812,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Dec2024 21:58:55.614] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
 [22Dec2024 22:02:13.221] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
 [22Dec2024 22:10:01.691] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[22Dec2024 22:16:04.706] [Server thread/INFO] [betterendisland/]: Found all crystals, respawning dragon.
+[22Dec2024 22:16:04.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/betterendisland/world/DragonRespawnStage
+[22Dec2024 22:16:34.886] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[22Dec2024 22:16:34.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has reached the goal [The End... Again...]
+[22Dec2024 22:16:34.890] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=62, z=0}
+[22Dec2024 22:16:35.976] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=62, z=0}
+[22Dec2024 22:18:30.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
+[22Dec2024 22:18:31.703] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[22Dec2024 22:18:31.703] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[22Dec2024 22:18:31.705] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[22Dec2024 22:23:05.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Who is Cutting Onions?]
