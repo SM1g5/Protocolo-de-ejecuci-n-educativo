@@ -1866,3 +1866,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Dec2024 23:20:02.415] [Server thread/INFO] [Scaling Health/]: Blight Doom Hunter was killed by AkujinPas
 [22Dec2024 23:24:56.185] [Server thread/INFO] [Scaling Health/]: Blight Mecha Zombie has died
 [22Dec2024 23:33:46.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Ricky the Alien'/22843, l='ServerLevel[world]', x=95.48, y=66.00, z=-106.11] died: Ricky the Alien was slain by AkujinPas
+[22Dec2024 23:37:13.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
+[22Dec2024 23:37:46.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
