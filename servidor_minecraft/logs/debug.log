@@ -10051,3 +10051,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Dec2024 23:24:56.185] [Server thread/INFO] [Scaling Health/]: Blight Mecha Zombie has died
 [22Dec2024 23:25:30.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 23:25:30.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 23:30:30.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 23:30:30.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 23:33:46.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Ricky the Alien'/22843, l='ServerLevel[world]', x=95.48, y=66.00, z=-106.11] died: Ricky the Alien was slain by AkujinPas
+[22Dec2024 23:35:30.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 23:35:30.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
