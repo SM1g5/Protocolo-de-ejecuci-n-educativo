@@ -9947,3 +9947,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Dec2024 02:10:38.488] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
 [23Dec2024 02:10:50.183] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/12161, l='ServerLevel[world]', x=103.07, y=112.05, z=-116.18] died: Honeyed Archer burned to death
 [23Dec2024 02:11:35.746] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
+[23Dec2024 02:12:15.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 02:12:15.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 02:15:38.388] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
+[23Dec2024 02:17:15.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 02:17:15.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
