@@ -10756,3 +10756,59 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Dec2024 07:21:47.365] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=35, y=78, z=5} in ResourceKey[minecraft:dimension / minecraft:the_nether]
 [23Dec2024 07:22:16.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 07:22:16.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 07:27:15.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 07:27:16.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 07:29:18.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Disconnected
+[23Dec2024 07:29:18.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[23Dec2024 07:31:49.871] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:ender_pearl" - querying recipes to get these
+[23Dec2024 07:32:15.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 07:32:16.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 07:33:35.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved too quickly! -0.04432903436560309,-10.221069856431782,0.0
+[23Dec2024 07:33:52.483] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/115551, l='ServerLevel[world]', x=163.75, y=75.41, z=-135.93] died: Undead Knight suffocated in a wall
+[23Dec2024 07:34:30.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[23Dec2024 07:34:31.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[23Dec2024 07:34:31.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[23Dec2024 07:34:31.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[23Dec2024 07:34:31.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[23Dec2024 07:34:31.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[23Dec2024 07:34:31.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[23Dec2024 07:34:31.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[23Dec2024 07:34:31.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[23Dec2024 07:34:31.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[23Dec2024 07:34:31.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[23Dec2024 07:34:31.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_1
+[23Dec2024 07:34:31.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[23Dec2024 07:34:31.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[23Dec2024 07:34:31.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[23Dec2024 07:34:31.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[23Dec2024 07:34:31.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[23Dec2024 07:34:31.084] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_4
+[23Dec2024 07:34:31.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[23Dec2024 07:34:31.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_10
+[23Dec2024 07:34:31.086] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[23Dec2024 07:34:31.086] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[23Dec2024 07:34:31.086] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[23Dec2024 07:34:31.086] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[23Dec2024 07:34:31.087] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[23Dec2024 07:34:31.088] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_0
+[23Dec2024 07:34:31.088] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[23Dec2024 07:34:31.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[23Dec2024 07:34:31.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[23Dec2024 07:34:31.090] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_6
+[23Dec2024 07:34:31.090] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[23Dec2024 07:34:31.091] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[23Dec2024 07:34:31.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[23Dec2024 07:34:31.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[23Dec2024 07:34:31.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/tower_bottom
+[23Dec2024 07:34:31.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[23Dec2024 07:35:01.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[23Dec2024 07:35:01.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[23Dec2024 07:35:01.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[23Dec2024 07:35:01.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[23Dec2024 07:35:02.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[23Dec2024 07:35:02.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[23Dec2024 07:35:06.013] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[23Dec2024 07:35:06.013] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[23Dec2024 07:35:07.285] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/apotheosis:mythic/ABILITY/0.3!
+[23Dec2024 07:35:25.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[23Dec2024 07:35:25.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
