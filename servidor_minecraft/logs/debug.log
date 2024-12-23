@@ -10672,3 +10672,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Dec2024 06:10:09.815] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=35, y=78, z=5} in ResourceKey[minecraft:dimension / minecraft:the_nether]
 [23Dec2024 06:12:16.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 06:12:16.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 06:15:48.251] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[23Dec2024 06:15:48.253] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=160, y=69, z=118} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[23Dec2024 06:15:48.253] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=160, y=69, z=118} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[23Dec2024 06:16:12.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=86, z=125} BlockPos{x=31, y=85, z=126}
+[23Dec2024 06:16:12.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=86, z=125} BlockPos{x=31, y=85, z=126}
+[23Dec2024 06:16:12.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=86, z=125} BlockPos{x=31, y=85, z=126}
+[23Dec2024 06:16:12.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=86, z=125} BlockPos{x=31, y=85, z=126}
+[23Dec2024 06:16:12.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=86, z=125} BlockPos{x=31, y=85, z=126}
+[23Dec2024 06:16:12.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=86, z=125} BlockPos{x=31, y=85, z=126}
+[23Dec2024 06:17:16.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 06:17:16.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 06:18:45.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Mr. President Laquisha the Morbius'/89565, l='ServerLevel[world]', x=79.79, y=78.00, z=174.64] died: Mr. President Laquisha the Morbius was slain by Marauder
+[23Dec2024 06:18:49.578] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[23Dec2024 06:21:08.058] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[23Dec2024 06:21:08.072] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=35, y=78, z=5} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[23Dec2024 06:21:08.073] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=35, y=78, z=5} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[23Dec2024 06:22:16.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 06:22:16.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
