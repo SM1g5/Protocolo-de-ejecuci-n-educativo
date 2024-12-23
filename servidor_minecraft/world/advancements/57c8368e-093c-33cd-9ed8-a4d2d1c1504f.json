@@ -6157,7 +6157,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2024-11-23 05:33:26 +0000"
+      "sugar_cane": "2024-11-23 05:33:26 +0000",
+      "nether_wart": "2024-12-23 06:03:34 +0000"
     },
     "done": false
   },
@@ -13398,6 +13399,12 @@
   "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_nether_wart_block": {
     "criteria": {
       "has_nether_wart_block": "2024-12-23 02:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2024-12-23 06:03:34 +0000"
     },
     "done": true
   },
