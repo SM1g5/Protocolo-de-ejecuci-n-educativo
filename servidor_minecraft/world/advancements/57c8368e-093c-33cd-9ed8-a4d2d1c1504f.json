@@ -13395,5 +13395,11 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_nether_wart_block": {
+    "criteria": {
+      "has_nether_wart_block": "2024-12-23 02:38:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
