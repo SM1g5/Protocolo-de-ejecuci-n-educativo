@@ -1869,3 +1869,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Dec2024 23:37:13.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
 [22Dec2024 23:37:46.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
 [22Dec2024 23:49:22.637] [Server thread/INFO] [Scaling Health/]: Blight Stone Imp has died
+[22Dec2024 23:57:51.675] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:wall_double_compressed_torcherino at 123, 91, -160.
