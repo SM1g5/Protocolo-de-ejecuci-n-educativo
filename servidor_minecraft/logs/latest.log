@@ -1916,3 +1916,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Dec2024 05:14:41.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=92, z=149} BlockPos{x=52, y=93, z=148}
 [23Dec2024 05:14:41.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=92, z=149} BlockPos{x=52, y=93, z=148}
 [23Dec2024 05:14:41.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=54, y=92, z=149} BlockPos{x=52, y=93, z=148}
+[23Dec2024 05:26:05.658] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
