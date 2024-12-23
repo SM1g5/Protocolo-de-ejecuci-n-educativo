@@ -9931,3 +9931,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Dec2024 01:58:00.037] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
 [23Dec2024 02:00:43.336] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
 [23Dec2024 02:01:11.937] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
+[23Dec2024 02:02:15.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 02:02:16.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 02:02:41.235] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[23Dec2024 02:03:34.688] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
+[23Dec2024 02:03:55.840] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
+[23Dec2024 02:06:00.843] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
+[23Dec2024 02:07:15.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 02:07:15.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 02:08:30.837] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
+[23Dec2024 02:09:01.336] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
+[23Dec2024 02:09:26.438] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
+[23Dec2024 02:10:06.428] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[23Dec2024 02:10:21.342] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[23Dec2024 02:10:38.488] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
+[23Dec2024 02:10:50.183] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/12161, l='ServerLevel[world]', x=103.07, y=112.05, z=-116.18] died: Honeyed Archer burned to death
+[23Dec2024 02:11:35.746] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
