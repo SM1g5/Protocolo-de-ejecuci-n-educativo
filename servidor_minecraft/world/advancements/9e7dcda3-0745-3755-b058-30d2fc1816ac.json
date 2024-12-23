@@ -13340,6 +13340,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2024-12-19 07:35:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-19 08:17:05 +0000"
@@ -13415,12 +13421,6 @@
   "cfm:recipes/decorations/spruce_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-19 08:17:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sniper_duel": {
-    "criteria": {
-      "killed_skeleton": "2024-12-19 07:35:28 +0000"
     },
     "done": true
   },

@@ -1864,3 +1864,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Dec2024 04:15:05.738] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Draconic Evolution Grinder
 [23Dec2024 04:29:49.186] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Draconic Evolution Grinder
 [23Dec2024 04:33:04.488] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Draconic Evolution Grinder
+[23Dec2024 04:35:40.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.15.17.81:58551] logged in with entity id 52905 at (103.80160381147678, 77.0, 120.32421780984622)
+[23Dec2024 04:35:40.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[23Dec2024 04:35:40.488] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[23Dec2024 04:35:40.489] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Dec2024 04:35:40.489] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[23Dec2024 04:35:40.915] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[23Dec2024 04:36:25.088] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[23Dec2024 04:37:37.932] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[23Dec2024 04:37:59.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[23Dec2024 04:39:43.697] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[23Dec2024 04:39:43.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> Ah chinga
+[23Dec2024 04:39:53.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> No vi cuando entraste xd
+[23Dec2024 04:40:07.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> acabop de llegar
+[23Dec2024 04:40:12.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> ah
+[23Dec2024 04:40:26.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> ya consegui hacer el escudo protector
+[23Dec2024 04:40:32.497] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[23Dec2024 04:41:13.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> excelente
+[23Dec2024 04:41:31.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> pegame
+[23Dec2024 04:41:41.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> con espada
+[23Dec2024 04:42:16.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> se acaba xd
+[23Dec2024 04:42:25.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> que?
+[23Dec2024 04:42:29.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> ds
+[23Dec2024 04:42:31.417] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[23Dec2024 04:42:32.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> el escudo
+[23Dec2024 04:42:38.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> usa energia
+[23Dec2024 04:42:42.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> aguanta
