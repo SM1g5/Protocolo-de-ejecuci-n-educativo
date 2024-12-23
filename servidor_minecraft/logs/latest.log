@@ -1890,3 +1890,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Dec2024 04:42:32.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> el escudo
 [23Dec2024 04:42:38.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> usa energia
 [23Dec2024 04:42:42.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> aguanta
+[23Dec2024 04:43:37.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> ya
+[23Dec2024 04:44:48.230] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[23Dec2024 04:53:01.139] [Server thread/INFO] [Scaling Health/]: Blight Slug has died
