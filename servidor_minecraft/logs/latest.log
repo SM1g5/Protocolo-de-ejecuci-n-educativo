@@ -1841,3 +1841,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 01:23:46.176] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/shadowsoffire/apotheosis/adventure/affix/effect/RadialAffix$RadialState
 [26Dec2024 01:43:54.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Timed out
 [26Dec2024 01:43:54.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[26Dec2024 01:44:47.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.123.16.168:41511] logged in with entity id 16528 at (-878.5, 110.5625, 242.5)
+[26Dec2024 01:44:47.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[26Dec2024 01:44:47.431] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[26Dec2024 01:44:47.431] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Dec2024 01:44:47.432] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[26Dec2024 01:49:50.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Disconnected
+[26Dec2024 01:49:50.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[26Dec2024 01:50:20.461] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@552e9c88[id=<null>,name=claosgamer,properties={},legacy=false] (/127.245.80.255:43785) lost connection: Disconnected
+[26Dec2024 01:50:22.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.123.16.168:40801] logged in with entity id 17227 at (-869.5675123539417, 110.0, 245.10556329229564)
+[26Dec2024 01:50:22.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[26Dec2024 01:50:22.353] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[26Dec2024 01:50:22.354] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Dec2024 01:50:22.354] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
