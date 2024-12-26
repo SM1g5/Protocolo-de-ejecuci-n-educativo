@@ -13755,5 +13755,11 @@
     },
     "done": true
   },
+  "fluidtank:recipes/tank/tank_emerald": {
+    "criteria": {
+      "has_forge_gems/emerald": "2024-12-26 03:31:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
