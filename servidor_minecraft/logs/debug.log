@@ -9914,3 +9914,112 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 00:59:49.864] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [26Dec2024 00:59:49.865] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md0082f1$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
 [26Dec2024 01:00:15.012] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[26Dec2024 01:02:55.028] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[26Dec2024 01:02:56.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[26Dec2024 01:02:57.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/streets/straight_01
+[26Dec2024 01:02:57.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/streets/straight_02
+[26Dec2024 01:02:57.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/streets/crossroad_02
+[26Dec2024 01:02:57.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/streets/straight_03
+[26Dec2024 01:02:57.381] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/streets/straight_04
+[26Dec2024 01:02:57.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/streets/straight_05
+[26Dec2024 01:02:57.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/professions_misc/rustic_butcher_1
+[26Dec2024 01:02:57.393] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/professions_misc/rustic_cartographer_1
+[26Dec2024 01:02:57.396] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/terminators/terminator_02
+[26Dec2024 01:02:57.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/terminators/terminator_01
+[26Dec2024 01:02:59.284] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[26Dec2024 01:03:09.057] [Server thread/DEBUG] [mixin/]: Mixing AxolotlAiMixin from domesticationinnovation.mixins.json into net.minecraft.world.entity.animal.axolotl.AxolotlAi
+[26Dec2024 01:03:18.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[26Dec2024 01:03:30.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:03:30.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:06:25.714] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[26Dec2024 01:06:25.726] [Server thread/DEBUG] [mixin/]: Mixing PistonStructureResolverMixin from botania_xplat.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[26Dec2024 01:06:25.728] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_handler.PistonHandlerMixin from lithium.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[26Dec2024 01:06:25.728] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[26Dec2024 01:06:55.366] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[26Dec2024 01:06:59.625] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[26Dec2024 01:06:59.633] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting lolcroc/craftingautomat/CraftingAutomatBlockEntity$CraftingFlag
+[26Dec2024 01:06:59.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/kotori316/fluidtank/fluids/PotionType
+[26Dec2024 01:06:59.688] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[26Dec2024 01:07:00.577] [Server thread/DEBUG] [com.kotori316.fluidtank.FluidTankCommon/Tank]: Connection will be loaded in onLoading. At=(114, 96, -150), tank=Tank{content=GenericAmount{content=fluidtank:potion_normal, amount=0, nbt=Some({Potion:"minecraft:strong_strength"})}, capacity=324000}
+[26Dec2024 01:08:30.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:08:30.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:08:36.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[26Dec2024 01:08:36.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[26Dec2024 01:08:36.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[26Dec2024 01:08:36.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[26Dec2024 01:08:36.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[26Dec2024 01:08:36.199] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[26Dec2024 01:08:36.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[26Dec2024 01:08:36.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[26Dec2024 01:08:36.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[26Dec2024 01:08:36.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[26Dec2024 01:08:36.444] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[26Dec2024 01:08:36.448] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[26Dec2024 01:08:36.672] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict/derelict_tower_bottom
+[26Dec2024 01:08:36.673] [Server thread/DEBUG] [ModernFix/]: Structure totw_modded:derelict/waystone_derelict_tower_top is being run through DFU (hash 92eaa54a712193f1b50d7d9567a88af029e5587d36540a5ee5442c2d99ada374), this will cause launch time delays
+[26Dec2024 01:08:38.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[26Dec2024 01:08:44.955] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
+[26Dec2024 01:08:45.016] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[26Dec2024 01:08:45.017] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[26Dec2024 01:08:45.022] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[26Dec2024 01:08:45.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[26Dec2024 01:10:06.053] [Server thread/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit is being run through DFU (hash f1c61aee919af5b4328b00946297488c1ae6298e8368899493ef1e2f912cd68d), this will cause launch time delays
+[26Dec2024 01:10:06.082] [Server thread/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthi_throne is being run through DFU (hash fe56ff13945da4037a3304881f981a2d446bd3d8011f0673dd029d88bd38d2d7), this will cause launch time delays
+[26Dec2024 01:10:06.371] [Server thread/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_1 is being run through DFU (hash 761c6ed2072fe7e2915febc169f20d4b644f8695f5e9dd9719bcab1cbe1e4127), this will cause launch time delays
+[26Dec2024 01:10:06.429] [Server thread/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_2 is being run through DFU (hash 760dec3596d4f025d1c5cf7f2641193f29d165e4ae8fcc344d06435c6a32ac58), this will cause launch time delays
+[26Dec2024 01:10:06.451] [Server thread/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_extend is being run through DFU (hash 02ee3988b5d2680529a144e8cf8abc69d71a674c8feb16925c671e0fedbca653), this will cause launch time delays
+[26Dec2024 01:10:06.456] [Server thread/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_2 is being run through DFU (hash 1379096a7a49bd6673e2d616c0bdfceedaa1ac4f8e60238437a7fb0d90ea3111), this will cause launch time delays
+[26Dec2024 01:10:06.495] [Server thread/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_1 is being run through DFU (hash adaed3887d364fa75eefd197e87cd281605ab4caec4441c9abadf64eb3836771), this will cause launch time delays
+[26Dec2024 01:10:06.510] [Server thread/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_2 is being run through DFU (hash 442197eb9b8936253bfa6786eb8731c4c7825592357132b3ea17461b5971b58c), this will cause launch time delays
+[26Dec2024 01:10:06.512] [Server thread/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_1 is being run through DFU (hash c0a2ab40feea0429b2fdd2197c7dc7726ed142ffae8b437e57614aeb5118cd53), this will cause launch time delays
+[26Dec2024 01:10:06.513] [Server thread/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_2 is being run through DFU (hash f994a4d00e2db8d208572e9f72e67c3379bbabfd99dbd8865046ffe941573796), this will cause launch time delays
+[26Dec2024 01:10:06.516] [Server thread/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_1 is being run through DFU (hash 592b09a6abd24a3d4c7e68dbe797dff2bf244aff6ec0e07d398fac23d00f5c49), this will cause launch time delays
+[26Dec2024 01:10:06.520] [Server thread/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_3 is being run through DFU (hash 4322167294d5c4acf589da61f48b80c66fc3b43657a11d1f1ca8a1004f7b0a19), this will cause launch time delays
+[26Dec2024 01:10:06.522] [Server thread/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_4 is being run through DFU (hash 83cbc6cdf72ab1b09f2ca868d918388ed6e0d35f8da2161960420f5d37c03bbd), this will cause launch time delays
+[26Dec2024 01:10:07.640] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[26Dec2024 01:10:07.673] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[26Dec2024 01:10:07.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[26Dec2024 01:10:09.163] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[26Dec2024 01:10:17.656] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[26Dec2024 01:10:32.879] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[26Dec2024 01:10:35.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[26Dec2024 01:10:40.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[26Dec2024 01:10:40.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[26Dec2024 01:10:40.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[26Dec2024 01:10:40.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[26Dec2024 01:10:51.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[26Dec2024 01:10:52.565] [Server thread/DEBUG] [mixin/]: Mixing CrashReportSectionMixin from neruina.mixins.json into net.minecraft.CrashReportCategory
+[26Dec2024 01:11:09.964] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[26Dec2024 01:11:49.393] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[26Dec2024 01:11:49.395] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_03
+[26Dec2024 01:11:49.396] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_01
+[26Dec2024 01:11:49.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_02
+[26Dec2024 01:11:49.400] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_04
+[26Dec2024 01:11:49.400] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[26Dec2024 01:11:49.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_03
+[26Dec2024 01:11:49.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_01
+[26Dec2024 01:11:49.405] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_03
+[26Dec2024 01:11:49.408] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_02
+[26Dec2024 01:11:49.408] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/meadow_lamp_1
+[26Dec2024 01:11:49.409] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_02
+[26Dec2024 01:11:49.409] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_04
+[26Dec2024 01:11:49.412] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_03
+[26Dec2024 01:11:49.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_01
+[26Dec2024 01:11:49.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_02
+[26Dec2024 01:11:49.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_05
+[26Dec2024 01:11:49.434] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_01
+[26Dec2024 01:11:49.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/animals/dog
+[26Dec2024 01:12:01.993] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[26Dec2024 01:12:02.081] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[26Dec2024 01:12:02.386] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[26Dec2024 01:12:03.069] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/azure/azurelib/core/object/PlayState
+[26Dec2024 01:12:03.074] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[26Dec2024 01:12:04.535] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[26Dec2024 01:12:04.537] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[26Dec2024 01:12:04.537] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[26Dec2024 01:12:05.185] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[26Dec2024 01:12:27.853] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-113, y=105, z=27} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[26Dec2024 01:12:28.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[26Dec2024 01:12:28.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[26Dec2024 01:12:28.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[26Dec2024 01:12:36.492] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
