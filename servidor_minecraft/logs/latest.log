@@ -1866,3 +1866,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 02:17:09.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [26Dec2024 02:37:21.498] [Server thread/INFO] [torcherino-api/]: [Torcherino] ica_1016(c4e96bd7-43f8-31c7-8531-05cfe9d24729) placed a torcherino:compressed_torcherino at -869, 110, 287.
 [26Dec2024 02:39:12.849] [Server thread/INFO] [torcherino-api/]: [Torcherino] ica_1016(c4e96bd7-43f8-31c7-8531-05cfe9d24729) placed a torcherino:compressed_torcherino at -871, 110, 287.
+[26Dec2024 02:45:57.742] [Server thread/INFO] [torcherino-api/]: [Torcherino] ica_1016(c4e96bd7-43f8-31c7-8531-05cfe9d24729) placed a torcherino:compressed_torcherino at -867, 110, 275.
+[26Dec2024 02:50:08.049] [Server thread/INFO] [torcherino-api/]: [Torcherino] ica_1016(c4e96bd7-43f8-31c7-8531-05cfe9d24729) placed a torcherino:compressed_torcherino at -871, 109, 274.
+[26Dec2024 02:52:23.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: ica_1016
+[26Dec2024 02:54:27.505] [Server thread/INFO] [torcherino-api/]: [Torcherino] ica_1016(c4e96bd7-43f8-31c7-8531-05cfe9d24729) placed a torcherino:compressed_torcherino at -871, 109, 274.
