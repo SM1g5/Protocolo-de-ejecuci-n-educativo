@@ -12385,3 +12385,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 05:42:40.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
 [26Dec2024 05:43:30.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 05:43:30.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 05:48:30.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 05:48:30.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 05:53:30.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 05:53:30.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 05:56:31.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Disconnected
+[26Dec2024 05:56:31.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game

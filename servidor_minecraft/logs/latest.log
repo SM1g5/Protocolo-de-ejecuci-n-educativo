@@ -1898,3 +1898,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 05:26:41.232] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: -118.90463646043308, Y: 29.97873021651234, Z: 79.46220167059987
 [26Dec2024 05:26:44.556] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [26Dec2024 05:26:44.556] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Dec2024 05:56:31.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Disconnected
+[26Dec2024 05:56:31.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
