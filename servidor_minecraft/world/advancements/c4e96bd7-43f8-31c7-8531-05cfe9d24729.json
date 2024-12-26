@@ -13519,15 +13519,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "twilightforest:recipes/decorations/cicada_jar": {
     "criteria": {
-      "has_blaze_powder": "2024-12-07 06:25:42 +0000"
+      "has_item": "2024-12-07 06:08:06 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/fancy_painting": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_fancy_painting": "2024-12-07 06:26:58 +0000"
+      "has_blaze_powder": "2024-12-07 06:25:42 +0000"
     },
     "done": true
   },
@@ -13537,21 +13537,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/magic_map_focus": {
-    "criteria": {
-      "has_berries": "2024-12-07 06:34:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-07 06:25:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/cicada_jar": {
-    "criteria": {
-      "has_item": "2024-12-07 06:08:06 +0000"
     },
     "done": true
   },
@@ -13567,15 +13555,40 @@
     },
     "done": true
   },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2024-12-07 06:25:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2024-12-07 06:26:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2024-12-07 06:34:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/berry_torch": {
     "criteria": {
       "has_item": "2024-12-07 06:34:49 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/tools/charm_of_keeping_2": {
+  "fluidtank:recipes/tank/tank_stone": {
     "criteria": {
-      "has_item": "2024-12-07 06:25:42 +0000"
+      "has_forge_stone": "2024-12-26 00:54:13 +0000",
+      "has_item_stone": "2024-12-26 00:54:13 +0000"
+    },
+    "done": true
+  },
+  "craftingautomat:recipes/redstone/autocrafter": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 00:48:20 +0000"
     },
     "done": true
   },
