@@ -1878,3 +1878,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 03:07:26.446] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
 [26Dec2024 03:07:26.446] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [26Dec2024 03:07:26.446] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[26Dec2024 03:23:02.019] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[26Dec2024 03:23:07.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/29735, l='ServerLevel[world]', x=-732.50, y=117.24, z=183.33] died: Honeyed Archer suffocated in a wall
