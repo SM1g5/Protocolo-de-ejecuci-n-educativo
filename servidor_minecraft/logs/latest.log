@@ -1854,3 +1854,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 01:50:22.353] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
 [26Dec2024 01:50:22.354] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [26Dec2024 01:50:22.354] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[26Dec2024 01:54:49.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: claosgamer[/127.245.80.255:55193] logged in with entity id 18389 at (1396.6895958071884, 110.0, -11171.616930423615)
+[26Dec2024 01:54:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer joined the game
+[26Dec2024 01:54:50.037] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to claosgamer...
+[26Dec2024 01:54:50.038] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Dec2024 01:54:50.038] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to claosgamer
+[26Dec2024 01:54:50.706] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[26Dec2024 01:54:51.501] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
+[26Dec2024 02:00:28.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claosgamer lost connection: Disconnected
+[26Dec2024 02:00:28.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer left the game
