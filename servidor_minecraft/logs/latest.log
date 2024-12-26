@@ -1870,3 +1870,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 02:50:08.049] [Server thread/INFO] [torcherino-api/]: [Torcherino] ica_1016(c4e96bd7-43f8-31c7-8531-05cfe9d24729) placed a torcherino:compressed_torcherino at -871, 109, 274.
 [26Dec2024 02:52:23.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: ica_1016
 [26Dec2024 02:54:27.505] [Server thread/INFO] [torcherino-api/]: [Torcherino] ica_1016(c4e96bd7-43f8-31c7-8531-05cfe9d24729) placed a torcherino:compressed_torcherino at -871, 109, 274.
+[26Dec2024 03:05:35.288] [Server thread/INFO] [torcherino-api/]: [Torcherino] ica_1016(c4e96bd7-43f8-31c7-8531-05cfe9d24729) placed a torcherino:compressed_torcherino at -870, 111, 288.
+[26Dec2024 03:07:15.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Timed out
+[26Dec2024 03:07:15.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[26Dec2024 03:07:26.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.123.16.168:34873] logged in with entity id 29625 at (-874.923539938928, 110.0, 255.01551476117032)
+[26Dec2024 03:07:26.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[26Dec2024 03:07:26.446] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[26Dec2024 03:07:26.446] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Dec2024 03:07:26.446] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
