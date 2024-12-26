@@ -13579,16 +13579,16 @@
     },
     "done": true
   },
+  "craftingautomat:recipes/redstone/autocrafter": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 00:48:20 +0000"
+    },
+    "done": true
+  },
   "fluidtank:recipes/tank/tank_stone": {
     "criteria": {
       "has_forge_stone": "2024-12-26 00:54:13 +0000",
       "has_item_stone": "2024-12-26 00:54:13 +0000"
-    },
-    "done": true
-  },
-  "craftingautomat:recipes/redstone/autocrafter": {
-    "criteria": {
-      "has_end_stone": "2024-12-26 00:48:20 +0000"
     },
     "done": true
   },
