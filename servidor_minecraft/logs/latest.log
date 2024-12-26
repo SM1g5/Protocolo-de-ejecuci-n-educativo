@@ -1838,3 +1838,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 01:15:51.521] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
 [26Dec2024 01:21:53.877] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [26Dec2024 01:23:08.166] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/12361, l='ServerLevel[world]', x=-859.87, y=127.30, z=130.25] died: Honeyed Archer suffocated in a wall
+[26Dec2024 01:23:46.176] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/shadowsoffire/apotheosis/adventure/affix/effect/RadialAffix$RadialState
