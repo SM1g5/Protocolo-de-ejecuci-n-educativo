@@ -12220,3 +12220,123 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 04:18:30.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Dec2024 04:23:30.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 04:23:30.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:28:30.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:28:30.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:33:30.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:33:30.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:36:07.049] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/Tiers$SlotType
+[26Dec2024 04:38:30.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:38:30.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:41:21.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[26Dec2024 04:41:21.383] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[26Dec2024 04:41:21.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[26Dec2024 04:41:21.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[26Dec2024 04:41:21.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[26Dec2024 04:41:21.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[26Dec2024 04:41:21.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[26Dec2024 04:41:21.839] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[26Dec2024 04:41:21.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[26Dec2024 04:41:21.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[26Dec2024 04:41:21.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[26Dec2024 04:41:21.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[26Dec2024 04:41:21.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[26Dec2024 04:41:21.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[26Dec2024 04:41:21.842] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[26Dec2024 04:41:21.842] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[26Dec2024 04:41:22.094] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[26Dec2024 04:41:22.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[26Dec2024 04:41:22.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[26Dec2024 04:41:31.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[26Dec2024 04:41:31.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_3_main
+[26Dec2024 04:41:31.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[26Dec2024 04:41:31.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_0
+[26Dec2024 04:41:31.433] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_hoglin_rider_0
+[26Dec2024 04:41:31.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_1
+[26Dec2024 04:41:31.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_5
+[26Dec2024 04:41:31.516] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_2
+[26Dec2024 04:41:31.516] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_0
+[26Dec2024 04:41:31.516] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_0
+[26Dec2024 04:41:31.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_1
+[26Dec2024 04:41:31.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_1
+[26Dec2024 04:41:31.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_0
+[26Dec2024 04:41:31.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_4
+[26Dec2024 04:41:31.724] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_plains/base_plate
+[26Dec2024 04:41:31.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/vindicator
+[26Dec2024 04:41:31.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/outpost_captain
+[26Dec2024 04:41:31.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/pillager
+[26Dec2024 04:41:31.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/captive_snow
+[26Dec2024 04:41:32.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[26Dec2024 04:41:32.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[26Dec2024 04:41:32.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[26Dec2024 04:41:33.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[26Dec2024 04:41:33.520] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[26Dec2024 04:41:33.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[26Dec2024 04:41:42.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[26Dec2024 04:41:42.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[26Dec2024 04:41:42.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[26Dec2024 04:41:42.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[26Dec2024 04:41:42.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[26Dec2024 04:41:42.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[26Dec2024 04:41:42.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[26Dec2024 04:41:42.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[26Dec2024 04:41:42.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[26Dec2024 04:41:42.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[26Dec2024 04:42:02.226] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[26Dec2024 04:42:02.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[26Dec2024 04:42:02.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[26Dec2024 04:42:03.371] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[26Dec2024 04:42:26.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of domesticationinnovation:plains_petshop
+[26Dec2024 04:42:27.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/tower_bottom
+[26Dec2024 04:42:27.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[26Dec2024 04:42:28.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[26Dec2024 04:42:28.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_03
+[26Dec2024 04:42:28.234] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_01
+[26Dec2024 04:42:28.234] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_02
+[26Dec2024 04:42:28.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_04
+[26Dec2024 04:42:28.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[26Dec2024 04:42:28.240] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_03
+[26Dec2024 04:42:28.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_01
+[26Dec2024 04:42:28.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_03
+[26Dec2024 04:42:28.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_02
+[26Dec2024 04:42:28.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/meadow_lamp_1
+[26Dec2024 04:42:28.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_02
+[26Dec2024 04:42:28.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_04
+[26Dec2024 04:42:28.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_03
+[26Dec2024 04:42:28.253] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_01
+[26Dec2024 04:42:28.255] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_02
+[26Dec2024 04:42:28.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_05
+[26Dec2024 04:42:28.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_01
+[26Dec2024 04:42:28.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/animals/dog
+[26Dec2024 04:42:36.367] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[26Dec2024 04:42:36.375] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[26Dec2024 04:42:36.375] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[26Dec2024 04:42:36.376] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[26Dec2024 04:42:36.376] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[26Dec2024 04:42:36.376] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[26Dec2024 04:42:36.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[26Dec2024 04:42:36.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[26Dec2024 04:42:36.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[26Dec2024 04:42:36.378] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[26Dec2024 04:42:36.378] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_1
+[26Dec2024 04:42:36.378] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[26Dec2024 04:42:36.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[26Dec2024 04:42:36.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[26Dec2024 04:42:36.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[26Dec2024 04:42:36.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[26Dec2024 04:42:36.381] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_4
+[26Dec2024 04:42:36.382] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[26Dec2024 04:42:36.382] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_10
+[26Dec2024 04:42:36.382] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[26Dec2024 04:42:36.383] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[26Dec2024 04:42:36.383] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[26Dec2024 04:42:36.383] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[26Dec2024 04:42:36.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[26Dec2024 04:42:36.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_0
+[26Dec2024 04:42:36.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[26Dec2024 04:42:36.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[26Dec2024 04:42:36.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[26Dec2024 04:42:36.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_6
+[26Dec2024 04:42:36.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[26Dec2024 04:42:36.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[26Dec2024 04:43:30.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:43:30.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
