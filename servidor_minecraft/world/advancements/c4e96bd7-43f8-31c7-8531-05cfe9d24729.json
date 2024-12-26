@@ -308,7 +308,8 @@
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
       "has_parent_recipe": "2024-11-22 07:06:23 +0000",
-      "has_items3": "2024-11-25 01:41:38 +0000"
+      "has_items3": "2024-11-25 01:41:38 +0000",
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
     "done": false
   },
@@ -1026,7 +1027,8 @@
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2024-11-22 07:14:26 +0000",
-      "has_items2": "2024-11-25 01:41:38 +0000"
+      "has_items2": "2024-11-25 01:41:38 +0000",
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
     "done": false
   },
@@ -3027,7 +3029,8 @@
   },
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
-      "has_parent_recipe": "2024-11-22 07:57:09 +0000"
+      "has_parent_recipe": "2024-11-22 07:57:09 +0000",
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
     "done": false
   },
@@ -5376,7 +5379,8 @@
   },
   "enigmaticlegacy:recipes/generic/avarice_scroll": {
     "criteria": {
-      "has_parent_recipe": "2024-11-23 05:57:44 +0000"
+      "has_parent_recipe": "2024-11-23 05:57:44 +0000",
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
     "done": false
   },
@@ -5407,7 +5411,8 @@
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2024-11-23 05:57:44 +0000",
-      "has_items2": "2024-11-25 01:41:38 +0000"
+      "has_items2": "2024-11-25 01:41:38 +0000",
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
     "done": false
   },
@@ -5456,7 +5461,8 @@
   },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
-      "has_parent_recipe": "2024-11-23 05:57:44 +0000"
+      "has_parent_recipe": "2024-11-23 05:57:44 +0000",
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
     "done": false
   },
@@ -7796,7 +7802,8 @@
   },
   "enigmaticlegacy:recipes/generic/soul_compass": {
     "criteria": {
-      "has_items1": "2024-11-25 01:41:38 +0000"
+      "has_items1": "2024-11-25 01:41:38 +0000",
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
     "done": false
   },
@@ -11643,7 +11650,8 @@
   },
   "enigmaticlegacy:book/brewing/twisted_potion": {
     "criteria": {
-      "has_recall_potion": "2024-11-28 09:57:06 +0000"
+      "has_recall_potion": "2024-11-28 09:57:06 +0000",
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
     "done": false
   },
@@ -12687,7 +12695,8 @@
   },
   "enigmaticlegacy:recipes/generic/curse_transposer": {
     "criteria": {
-      "has_parent_recipe": "2024-11-29 07:37:08 +0000"
+      "has_parent_recipe": "2024-11-29 07:37:08 +0000",
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
     "done": false
   },
@@ -13755,6 +13764,24 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/evil_ingot": {
+    "criteria": {
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/ender_slayer": {
+    "criteria": {
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/enchanter_pearl": {
+    "criteria": {
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/redstone/magic_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-26 04:03:33 +0000"
@@ -13773,11 +13800,47 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/eldritch_amulet": {
+    "criteria": {
+      "is_the_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/building_blocks/magic_slab": {
     "criteria": {
       "has_planks": "2024-12-26 04:03:33 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/twisted_heart": {
+    "criteria": {
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:main/cursed_ring": {
+    "criteria": {
+      "fruit": "2024-12-26 05:09:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/eldritch_pan": {
+    "criteria": {
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/the_infinitum": {
+    "criteria": {
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/cursed_stone": {
+    "criteria": {
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/redstone/magic_pressure_plate": {
     "criteria": {
@@ -13803,6 +13866,30 @@
     },
     "done": true
   },
+  "fluidtank:recipes/tank/tank_diamond": {
+    "criteria": {
+      "has_forge_gems/diamond": "2024-12-26 05:11:51 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/twisted_mirror": {
+    "criteria": {
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/accessories/ender_ring": {
+    "criteria": {
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_cake": {
+    "criteria": {
+      "has_cake": "2024-12-26 05:05:16 +0000"
+    },
+    "done": true
+  },
   "fluidtank:recipes/tank/tank_emerald": {
     "criteria": {
       "has_forge_gems/emerald": "2024-12-26 03:31:43 +0000"
@@ -13812,6 +13899,19 @@
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_magic": {
     "criteria": {
       "has_planks": "2024-12-26 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/soul_loss": {
+    "criteria": {
+      "incompletable": "2024-12-26 05:22:29 +0000",
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/cake_decomposing": {
+    "criteria": {
+      "has_cake": "2024-12-26 05:05:16 +0000"
     },
     "done": true
   },

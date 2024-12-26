@@ -1884,3 +1884,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Dec2024 03:41:35.370] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
 [26Dec2024 04:36:07.049] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/Tiers$SlotType
 [26Dec2024 04:41:33.520] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[26Dec2024 05:09:10.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Darkness Lies Ahead]
+[26Dec2024 05:21:57.877] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[26Dec2024 05:22:29.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 tried to swim in lava
+[26Dec2024 05:22:29.138] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: -119.74613245508897, Y: 105.0, Z: 32.86262791764111
+[26Dec2024 05:22:30.404] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Dec2024 05:22:30.404] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Dec2024 05:23:28.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: ica_1016
+[26Dec2024 05:25:31.823] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[26Dec2024 05:25:42.523] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Soul Crystal'/52545, l='ServerLevel[world]', x=-119.75, y=106.50, z=32.86]
+[26Dec2024 05:25:42.523] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/52545, l='ServerLevel[world]', x=-119.75, y=106.50, z=32.86]
+[26Dec2024 05:26:41.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 tried to swim in lava
+[26Dec2024 05:26:41.232] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: -118.90463646043308, Y: 29.97873021651234, Z: 79.46220167059987
+[26Dec2024 05:26:44.556] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Dec2024 05:26:44.556] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
