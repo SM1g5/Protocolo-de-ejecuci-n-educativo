@@ -1894,3 +1894,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 02:58:56.282] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
 [30Dec2024 02:59:05.053] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
 [30Dec2024 03:00:19.529] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[30Dec2024 03:05:58.901] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[30Dec2024 03:07:05.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Branearpig'/19698, l='ServerLevel[world]', x=210.87, y=39.09, z=106.64] died: Branearpig was slain by AkujinPas
+[30Dec2024 03:09:45.839] [Server thread/INFO] [torcherino-api/]: [Torcherino] Lex_Ssuid(9e7dcda3-0745-3755-b058-30d2fc1816ac) placed a torcherino:wall_double_compressed_torcherino at 98, 79, 118.
+[30Dec2024 03:10:26.134] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin has died

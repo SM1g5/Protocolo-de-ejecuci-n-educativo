@@ -10447,3 +10447,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 02:59:05.049] [Server thread/DEBUG] [mixin/]: Mixing ShootTongueMixin from domesticationinnovation.mixins.json into net.minecraft.world.entity.animal.frog.ShootTongue
 [30Dec2024 02:59:05.053] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
 [30Dec2024 03:00:19.529] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[30Dec2024 03:02:46.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:02:46.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:05:57.720] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=185, y=70, z=-153} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[30Dec2024 03:05:58.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena1
+[30Dec2024 03:05:58.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena2
+[30Dec2024 03:05:58.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena3
+[30Dec2024 03:05:58.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena4
+[30Dec2024 03:05:58.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena5
+[30Dec2024 03:05:58.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena6
+[30Dec2024 03:05:58.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena7
+[30Dec2024 03:05:58.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena8
+[30Dec2024 03:05:58.901] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[30Dec2024 03:07:05.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Branearpig'/19698, l='ServerLevel[world]', x=210.87, y=39.09, z=106.64] died: Branearpig was slain by AkujinPas
+[30Dec2024 03:07:34.706] [Server thread/DEBUG] [mixin/]: Mixing CrashReportSectionMixin from neruina.mixins.json into net.minecraft.CrashReportCategory
+[30Dec2024 03:07:46.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:07:46.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:09:45.839] [Server thread/INFO] [torcherino-api/]: [Torcherino] Lex_Ssuid(9e7dcda3-0745-3755-b058-30d2fc1816ac) placed a torcherino:wall_double_compressed_torcherino at 98, 79, 118.
+[30Dec2024 03:10:26.134] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin has died
