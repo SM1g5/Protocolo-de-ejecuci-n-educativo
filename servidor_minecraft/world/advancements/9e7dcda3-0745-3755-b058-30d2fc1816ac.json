@@ -13449,15 +13449,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
+    "criteria": {
+      "has_item": "2024-12-30 03:39:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_input": {
+    "criteria": {
+      "has_item": "2024-12-30 03:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-30 03:23:22 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_core_disabled": {
+    "criteria": {
+      "has_item": "2024-12-30 03:38:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_gray_to_dragonscales_gray": {
+    "criteria": {
+      "has_dragonscale_gray": "2024-12-30 03:40:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
     "criteria": {
       "has_dragonscale_electric": "2024-12-30 03:04:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2024-12-30 03:39:12 +0000"
     },
     "done": true
   },
@@ -13479,9 +13509,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2024-12-30 03:42:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
     "criteria": {
       "has_dragonscale_bronze": "2024-12-30 03:05:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2024-12-30 03:38:35 +0000"
     },
     "done": true
   },
@@ -13497,9 +13539,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2024-12-30 03:39:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-30 03:23:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
+    "criteria": {
+      "has_item": "2024-12-30 03:39:18 +0000"
     },
     "done": true
   },

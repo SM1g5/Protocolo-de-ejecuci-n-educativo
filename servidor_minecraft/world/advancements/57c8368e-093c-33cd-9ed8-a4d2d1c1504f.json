@@ -13435,6 +13435,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2024-12-30 03:37:17 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/withered_mob_marrow_decomposing": {
     "criteria": {
       "has_withered_mob_marrow": "2024-12-30 02:39:04 +0000"
