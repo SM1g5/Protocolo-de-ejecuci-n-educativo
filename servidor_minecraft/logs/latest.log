@@ -2047,3 +2047,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 05:43:23.147] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137469, l='ServerLevel[world]', x=1610.54, y=63.44, z=-2186.34]
 [30Dec2024 05:44:23.129] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [30Dec2024 05:44:23.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Dec2024 05:47:40.686] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died

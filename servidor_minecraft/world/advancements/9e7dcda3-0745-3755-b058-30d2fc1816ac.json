@@ -13488,6 +13488,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2024-12-30 05:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-30 03:23:22 +0000"
@@ -13497,6 +13503,12 @@
   "iceandfire:recipes/building_blocks/dragonforge_lightning_core_disabled": {
     "criteria": {
       "has_item": "2024-12-30 03:38:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2024-12-30 05:47:40 +0000"
     },
     "done": true
   },
@@ -13608,6 +13620,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2024-12-30 05:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-30 03:23:22 +0000"
@@ -13632,9 +13650,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2024-12-30 05:47:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_copper_to_dragonscales_copper": {
     "criteria": {
       "has_dragonscale_copper": "2024-12-30 03:06:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-30 05:47:40 +0000"
     },
     "done": true
   },
