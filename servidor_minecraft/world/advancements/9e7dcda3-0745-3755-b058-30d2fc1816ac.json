@@ -386,9 +386,10 @@
     "criteria": {
       "opened_barrel": "2024-11-25 02:39:53 +0000",
       "opened_shulker": "2024-11-30 05:59:11 +0000",
-      "opened_chest": "2024-11-22 07:04:36 +0000"
+      "opened_chest": "2024-11-22 07:04:36 +0000",
+      "opened_cart": "2024-12-30 05:09:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "lootr:1chest": {
     "criteria": {
@@ -13456,6 +13457,12 @@
   "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
     "criteria": {
       "has_item": "2024-12-30 03:39:18 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-30 05:09:26 +0000"
     },
     "done": true
   },

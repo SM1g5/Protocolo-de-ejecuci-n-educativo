@@ -10717,3 +10717,66 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 05:05:00.640] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/mediterranean/fields/field_2 is being run through DFU (hash e54807166cc8ea003a4b03e74247ce17ee6a3eb0b4616a86b5f95a488d8338b0), this will cause launch time delays
 [30Dec2024 05:05:00.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/outpost_captain
 [30Dec2024 05:05:00.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! 11.629672727193366,7.692564017385465,-11.650844389188933
+[30Dec2024 05:05:23.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[30Dec2024 05:05:23.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[30Dec2024 05:05:23.218] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[30Dec2024 05:05:27.323] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[30Dec2024 05:05:27.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[30Dec2024 05:05:27.351] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_1
+[30Dec2024 05:05:35.410] [Worker-Main-228/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[30Dec2024 05:05:49.642] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:jungle/jungle_tower_bottom
+[30Dec2024 05:05:49.651] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:desert/desert_tower_bottom
+[30Dec2024 05:05:49.658] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict/derelict_tower_bottom
+[30Dec2024 05:05:49.667] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:badlands/badlands_tower_bottom
+[30Dec2024 05:05:49.675] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ice/ice_tower_bottom
+[30Dec2024 05:05:49.681] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/tower_bottom
+[30Dec2024 05:05:49.687] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/derelict_grass_tower_bottom
+[30Dec2024 05:05:53.978] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[30Dec2024 05:05:55.306] [Worker-Main-228/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[30Dec2024 05:05:55.313] [Worker-Main-228/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[30Dec2024 05:05:56.223] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of domesticationinnovation:plains_petshop
+[30Dec2024 05:06:01.565] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[30Dec2024 05:06:10.886] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[30Dec2024 05:06:13.213] [Worker-Main-228/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[30Dec2024 05:06:13.620] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[30Dec2024 05:06:23.253] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[30Dec2024 05:06:23.258] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[30Dec2024 05:06:23.268] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[30Dec2024 05:06:23.284] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[30Dec2024 05:06:23.306] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[30Dec2024 05:06:23.317] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[30Dec2024 05:07:46.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 05:07:46.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 05:09:26.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has completed the challenge [Socialised Loot]
+[30Dec2024 05:09:26.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Tunnel Treasures]
+[30Dec2024 05:09:26.265] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[30Dec2024 05:09:26.435] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[30Dec2024 05:09:49.445] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[30Dec2024 05:09:49.586] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[30Dec2024 05:12:46.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 05:12:46.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 05:13:23.809] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[30Dec2024 05:13:23.847] [Worker-Main-226/DEBUG] [ModernFix/]: Structure kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2 is being run through DFU (hash da88fc2ff5e0c08b784b80fdd61ff706c8edccca68555244360f587370fceb80), this will cause launch time delays
+[30Dec2024 05:13:24.329] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[30Dec2024 05:13:24.340] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[30Dec2024 05:13:24.367] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[30Dec2024 05:13:24.433] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_03
+[30Dec2024 05:13:24.436] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/meadow_lamp_1
+[30Dec2024 05:13:24.448] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_03
+[30Dec2024 05:13:24.454] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_02
+[30Dec2024 05:13:24.462] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[30Dec2024 05:13:24.466] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_04
+[30Dec2024 05:13:24.507] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_05
+[30Dec2024 05:13:24.513] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_01
+[30Dec2024 05:13:24.519] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_04
+[30Dec2024 05:13:24.533] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_02
+[30Dec2024 05:13:24.536] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_01
+[30Dec2024 05:13:24.538] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_01
+[30Dec2024 05:13:24.541] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_03
+[30Dec2024 05:13:24.542] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_02
+[30Dec2024 05:13:24.544] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_03
+[30Dec2024 05:13:24.549] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_02
+[30Dec2024 05:13:24.551] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_01
+[30Dec2024 05:13:24.622] [Worker-Main-226/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/animals/dog
+[30Dec2024 05:13:26.007] [Worker-Main-226/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[30Dec2024 05:13:46.790] [Server thread/INFO] [Scaling Health/]: Blight Necromancer was killed by Draconic Evolution Grinder
