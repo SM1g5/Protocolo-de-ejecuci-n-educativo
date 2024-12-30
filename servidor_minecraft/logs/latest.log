@@ -2048,3 +2048,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 05:44:23.129] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [30Dec2024 05:44:23.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [30Dec2024 05:47:40.686] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[30Dec2024 06:03:22.433] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/148414, l='ServerLevel[world]', x=-2019.09, y=65.67, z=128.59]
+[30Dec2024 06:03:22.434] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/148415, l='ServerLevel[world]', x=-2019.37, y=65.67, z=129.40]
+[30Dec2024 06:03:30.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[30Dec2024 06:04:51.451] [Server thread/INFO] [Scaling Health/]: Blight Mimic was killed by AkujinPas
