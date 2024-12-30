@@ -10584,3 +10584,72 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 04:01:45.197] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
 [30Dec2024 04:02:46.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 04:02:46.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:04:23.441] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/brandon3055/draconicevolution/api/modules/lib/InstallResult$InstallResultType
+[30Dec2024 04:06:59.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> xaero-waypoint:Shared Location:S:-1837:-8:-832:1:false:0:Internal-overworld-waypoints
+[30Dec2024 04:07:46.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:07:46.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:07:58.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/tower_bottom
+[30Dec2024 04:07:58.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[30Dec2024 04:08:00.169] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[30Dec2024 04:08:15.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[30Dec2024 04:08:18.923] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_3
+[30Dec2024 04:08:18.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/promenade/promenade_01
+[30Dec2024 04:08:18.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[30Dec2024 04:08:18.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_5
+[30Dec2024 04:08:18.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_01
+[30Dec2024 04:08:18.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_03
+[30Dec2024 04:08:18.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/med_planter_1
+[30Dec2024 04:08:18.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_2
+[30Dec2024 04:08:18.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_4
+[30Dec2024 04:08:18.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_1
+[30Dec2024 04:08:18.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/med_lamp_1
+[30Dec2024 04:08:18.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_02
+[30Dec2024 04:08:18.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_05
+[30Dec2024 04:08:18.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/corner/med_small_house_2
+[30Dec2024 04:08:18.940] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_farmer_and_mason_1
+[30Dec2024 04:08:18.941] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/promenade/promenade_end_01
+[30Dec2024 04:08:18.943] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_fisher_1
+[30Dec2024 04:08:18.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/promenade/promenade_02
+[30Dec2024 04:08:18.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_04
+[30Dec2024 04:08:18.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/corner/med_small_house_1
+[30Dec2024 04:08:18.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/promenade/promenade_end_02
+[30Dec2024 04:08:18.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/avenue/avenue_end_02
+[30Dec2024 04:08:19.404] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
+[30Dec2024 04:08:27.971] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[30Dec2024 04:08:37.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[30Dec2024 04:08:37.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[30Dec2024 04:08:37.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[30Dec2024 04:08:37.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[30Dec2024 04:08:38.673] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[30Dec2024 04:08:39.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[30Dec2024 04:09:21.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Iron Maiden]
+[30Dec2024 04:09:50.240] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/69758, l='ServerLevel[world]', x=-1850.61, y=-8.00, z=-798.44] died: Foundry Guardian was slain by Lex_Ssuid
+[30Dec2024 04:09:53.536] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/69757, l='ServerLevel[world]', x=-1846.90, y=-8.00, z=-800.43] died: Foundry Guardian was slain by Lex_Ssuid
+[30Dec2024 04:09:56.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/69759, l='ServerLevel[world]', x=-1854.94, y=-8.00, z=-803.98] died: Foundry Guardian was slain by Lex_Ssuid
+[30Dec2024 04:10:01.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/69869, l='ServerLevel[world]', x=-1852.70, y=-5.69, z=-806.85] died: Foundry Guardian was slain by Lex_Ssuid
+[30Dec2024 04:10:03.892] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/69872, l='ServerLevel[world]', x=-1855.91, y=-8.00, z=-803.32] died: Foundry Guardian was slain by Lex_Ssuid
+[30Dec2024 04:10:05.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Iron Maiden]
+[30Dec2024 04:10:05.481] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/69870, l='ServerLevel[world]', x=-1854.42, y=-7.30, z=-800.63] died: Foundry Guardian was slain by Lex_Ssuid
+[30Dec2024 04:10:06.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/69871, l='ServerLevel[world]', x=-1858.49, y=-8.00, z=-804.17] died: Foundry Guardian was slain by Lex_Ssuid
+[30Dec2024 04:10:26.083] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[30Dec2024 04:11:21.036] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/70593, l='ServerLevel[world]', x=-1882.11, y=26.00, z=-828.78] died: Debris Miner was slain by AkujinPas
+[30Dec2024 04:11:21.787] [Server thread/INFO] [Scaling Health/]: Blight Magma Cube was killed by Lex_Ssuid
+[30Dec2024 04:11:22.033] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/70594, l='ServerLevel[world]', x=-1883.29, y=26.00, z=-828.42] died: Debris Miner was slain by AkujinPas
+[30Dec2024 04:11:24.994] [Server thread/INFO] [Scaling Health/]: Blight Magma Cube was killed by Lex_Ssuid
+[30Dec2024 04:11:35.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/70717, l='ServerLevel[world]', x=-1888.70, y=26.00, z=-830.43] died: Debris Miner was slain by AkujinPas
+[30Dec2024 04:11:36.988] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/70253, l='ServerLevel[world]', x=-1835.37, y=-5.36, z=-829.48] died: Foundry Guardian was slain by Lex_Ssuid
+[30Dec2024 04:11:43.641] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/70776, l='ServerLevel[world]', x=-1890.57, y=26.00, z=-830.07] died: Debris Miner was slain by AkujinPas
+[30Dec2024 04:11:50.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/70777, l='ServerLevel[world]', x=-1891.61, y=26.00, z=-830.10] died: Debris Miner was slain by AkujinPas
+[30Dec2024 04:12:04.987] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/70857, l='ServerLevel[world]', x=-1913.50, y=26.00, z=-829.28] died: Debris Miner was slain by AkujinPas
+[30Dec2024 04:12:07.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/70866, l='ServerLevel[world]', x=-1917.25, y=26.00, z=-829.50] died: Debris Miner was slain by AkujinPas
+[30Dec2024 04:12:08.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/70867, l='ServerLevel[world]', x=-1921.66, y=26.28, z=-829.66] died: Debris Miner was slain by AkujinPas
+[30Dec2024 04:12:13.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/70932, l='ServerLevel[world]', x=-1926.69, y=26.00, z=-830.29] died: Debris Miner was slain by AkujinPas
+[30Dec2024 04:12:13.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/70933, l='ServerLevel[world]', x=-1928.43, y=26.00, z=-828.43] died: Debris Miner was slain by AkujinPas
+[30Dec2024 04:12:16.184] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/70865, l='ServerLevel[world]', x=-1931.90, y=26.00, z=-830.88] died: Debris Miner was slain by AkujinPas
+[30Dec2024 04:12:25.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/71011, l='ServerLevel[world]', x=-1890.57, y=26.00, z=-828.69] died: Debris Miner was slain by AkujinPas
+[30Dec2024 04:12:42.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/71096, l='ServerLevel[world]', x=-1794.45, y=-8.00, z=-835.41] died: Forge Sentry was slain by Lex_Ssuid
+[30Dec2024 04:12:46.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:12:46.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:12:47.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/71094, l='ServerLevel[world]', x=-1866.50, y=26.00, z=-865.14] died: Debris Miner was slain by AkujinPas
+[30Dec2024 04:12:50.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/71093, l='ServerLevel[world]', x=-1865.50, y=26.00, z=-866.32] died: Debris Miner was slain by AkujinPas
+[30Dec2024 04:12:59.183] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/71190, l='ServerLevel[world]', x=-1869.18, y=26.00, z=-862.59] died: Debris Miner was slain by AkujinPas
