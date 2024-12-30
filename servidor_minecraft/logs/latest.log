@@ -1984,3 +1984,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 04:28:04.329] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/76421, l='ServerLevel[world]', x=-1854.91, y=-8.00, z=-898.28] died: Foundry Guardian was slain by Lex_Ssuid
 [30Dec2024 04:28:05.910] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/76419, l='ServerLevel[world]', x=-1851.24, y=-7.17, z=-898.75] died: Foundry Guardian was slain by Lex_Ssuid
 [30Dec2024 04:28:15.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/76420, l='ServerLevel[world]', x=-1849.74, y=-8.00, z=-903.31] died: Foundry Guardian was slain by Lex_Ssuid
+[30Dec2024 04:45:00.360] [Worker-Main-34/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[30Dec2024 04:45:00.875] [Worker-Main-35/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType

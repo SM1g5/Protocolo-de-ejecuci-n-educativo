@@ -10694,3 +10694,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 04:42:07.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
 [30Dec2024 04:42:46.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 04:42:46.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:45:00.360] [Worker-Main-34/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[30Dec2024 04:45:00.875] [Worker-Main-35/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[30Dec2024 04:46:37.729] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[30Dec2024 04:46:37.745] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[30Dec2024 04:46:37.750] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[30Dec2024 04:46:37.846] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[30Dec2024 04:46:37.865] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[30Dec2024 04:46:37.874] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[30Dec2024 04:47:46.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:47:46.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:52:46.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:52:46.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
