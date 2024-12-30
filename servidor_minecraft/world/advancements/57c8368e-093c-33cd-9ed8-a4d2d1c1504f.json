@@ -6993,9 +6993,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2024-12-30 05:22:18 +0000",
       "kill_naga": "2024-11-23 08:46:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_naga": {
     "criteria": {
@@ -13447,6 +13448,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-30 05:22:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_boots": {
     "criteria": {
       "has_item": "2024-12-30 03:45:59 +0000"
@@ -13579,6 +13586,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/lifedrain_scepter": {
+    "criteria": {
+      "has_item": "2024-12-30 05:22:57 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_monstrosity": {
     "criteria": {
       "netheritemonstrosity": "2024-12-30 03:37:17 +0000"
@@ -13596,6 +13609,18 @@
       "has_dragonscale_silver": "2024-12-30 03:44:46 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-12-30 05:22:18 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-12-30 05:22:18 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
     "criteria": {
@@ -13626,6 +13651,12 @@
       "has_item": "2024-12-30 03:45:59 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-12-30 05:22:18 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {

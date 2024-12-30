@@ -1993,3 +1993,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 05:09:26.435] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
 [30Dec2024 05:13:26.007] [Worker-Main-226/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
 [30Dec2024 05:13:46.790] [Server thread/INFO] [Scaling Health/]: Blight Necromancer was killed by Draconic Evolution Grinder
+[30Dec2024 05:16:13.395] [Server thread/INFO] [Scaling Health/]: Blight Boar was killed by AkujinPas
+[30Dec2024 05:16:13.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[30Dec2024 05:16:20.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[30Dec2024 05:17:22.143] [Server thread/INFO] [Scaling Health/]: Blight Enderman was killed by AkujinPas
+[30Dec2024 05:19:42.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=844, y=15, z=-1162} BlockPos{x=846, y=14, z=-1162}
+[30Dec2024 05:19:42.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=844, y=15, z=-1162} BlockPos{x=846, y=14, z=-1162}
+[30Dec2024 05:19:42.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=844, y=15, z=-1162} BlockPos{x=846, y=14, z=-1162}
+[30Dec2024 05:19:42.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=844, y=15, z=-1162} BlockPos{x=846, y=14, z=-1162}
+[30Dec2024 05:19:42.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=844, y=15, z=-1162} BlockPos{x=846, y=14, z=-1162}
+[30Dec2024 05:19:42.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=848, y=11, z=-1162} BlockPos{x=847, y=11, z=-1162}
+[30Dec2024 05:19:43.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=848, y=11, z=-1162} BlockPos{x=847, y=11, z=-1162}
+[30Dec2024 05:19:43.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=848, y=11, z=-1162} BlockPos{x=847, y=11, z=-1162}
+[30Dec2024 05:20:06.095] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by AkujinPas
+[30Dec2024 05:20:37.749] [Worker-Main-34/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[30Dec2024 05:22:18.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has reached the goal [Bring Out Your Dead]
+[30Dec2024 05:28:10.936] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[30Dec2024 05:28:15.744] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[30Dec2024 05:28:27.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=967, y=20, z=-1098} BlockPos{x=966, y=20, z=-1098}
+[30Dec2024 05:28:48.239] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[30Dec2024 05:30:46.447] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[30Dec2024 05:31:04.406] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[30Dec2024 05:32:03.762] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[30Dec2024 05:33:53.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
