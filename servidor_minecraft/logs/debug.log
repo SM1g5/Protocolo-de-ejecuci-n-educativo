@@ -10706,3 +10706,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 04:47:46.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Dec2024 04:52:46.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 04:52:46.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 04:57:46.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 04:57:46.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 05:02:46.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 05:02:46.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 05:05:00.058] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/mediterranean/base_plate is being run through DFU (hash 65ccd928c9ba94aaac2450eae5e52f39206179062f0c5fd804906560ad88386a), this will cause launch time delays
+[30Dec2024 05:05:00.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/vindicator
+[30Dec2024 05:05:00.628] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/pillager
+[30Dec2024 05:05:00.629] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/mediterranean/fields/field_1 is being run through DFU (hash 78fa17b6cfcef2bbfdc6bad5ec26a1aeb5c80e218cd7f20fa07e8aa562212642), this will cause launch time delays
+[30Dec2024 05:05:00.640] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/mediterranean/fields/field_2 is being run through DFU (hash e54807166cc8ea003a4b03e74247ce17ee6a3eb0b4616a86b5f95a488d8338b0), this will cause launch time delays
+[30Dec2024 05:05:00.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/outpost_captain
+[30Dec2024 05:05:00.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! 11.629672727193366,7.692564017385465,-11.650844389188933
