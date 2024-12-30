@@ -13658,6 +13658,12 @@
     },
     "done": false
   },
+  "biomancy:recipes/biomancy/decomposing/player_head_decomposing": {
+    "criteria": {
+      "has_player_head": "2024-12-30 05:39:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
       "has_item": "2024-12-30 03:45:58 +0000"

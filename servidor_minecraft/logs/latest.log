@@ -2016,3 +2016,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 05:31:04.406] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
 [30Dec2024 05:32:03.762] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
 [30Dec2024 05:33:53.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[30Dec2024 05:35:41.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Cursed Pyramid]
+[30Dec2024 05:35:53.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[30Dec2024 05:35:57.557] [Worker-Main-226/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Dec2024 05:35:57.563] [Worker-Main-228/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Dec2024 05:35:57.599] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Dec2024 05:35:57.601] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Dec2024 05:35:57.602] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Dec2024 05:35:59.386] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Dec2024 05:35:59.387] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Dec2024 05:35:59.388] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Dec2024 05:35:59.400] [Worker-Main-34/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;677661996,-572371635,-1152429418,-727855336],type:"minecraft:entity",y_offset:0.36f}}]
+[30Dec2024 05:35:59.401] [Worker-Main-34/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1348497204,-1917304189,-1871659946,2140891840],type:"minecraft:entity",y_offset:0.36f}}]
+[30Dec2024 05:35:59.652] [Worker-Main-226/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Dec2024 05:35:59.653] [Worker-Main-226/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Dec2024 05:35:59.654] [Worker-Main-226/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Dec2024 05:35:59.827] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Dec2024 05:36:25.944] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[30Dec2024 05:36:52.752] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[30Dec2024 05:37:37.820] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[30Dec2024 05:39:04.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved too quickly! 14.398833808912968,-2.0342359498892364,10.987671509479764
+[30Dec2024 05:39:59.877] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Dec2024 05:40:00.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Dec2024 05:41:18.142] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Quentin the Lame'/136328, l='ServerLevel[world]', x=-2239.60, y=-34.15, z=-127.70] died: Quentin the Lame was slain by AkujinPas
+[30Dec2024 05:43:23.145] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137464, l='ServerLevel[world]', x=1600.52, y=61.24, z=-2173.69]
+[30Dec2024 05:43:23.146] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137465, l='ServerLevel[world]', x=1601.69, y=63.44, z=-2182.85]
+[30Dec2024 05:43:23.146] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137466, l='ServerLevel[world]', x=1603.90, y=63.44, z=-2183.72]
+[30Dec2024 05:43:23.146] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137467, l='ServerLevel[world]', x=1606.12, y=63.44, z=-2184.59]
+[30Dec2024 05:43:23.147] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137468, l='ServerLevel[world]', x=1608.33, y=63.44, z=-2185.46]
+[30Dec2024 05:43:23.147] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137469, l='ServerLevel[world]', x=1610.54, y=63.44, z=-2186.34]
+[30Dec2024 05:44:23.129] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Dec2024 05:44:23.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
