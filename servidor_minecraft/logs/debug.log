@@ -10482,3 +10482,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 03:18:57.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=34, z=223} BlockPos{x=131, y=31, z=223}
 [30Dec2024 03:19:30.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=143, y=31, z=239} BlockPos{x=141, y=31, z=240}
 [30Dec2024 03:21:25.136] [Server thread/INFO] [torcherino-api/]: [Torcherino] Lex_Ssuid(9e7dcda3-0745-3755-b058-30d2fc1816ac) placed a torcherino:wall_double_compressed_torcherino at 148, 96, -168.
+[30Dec2024 03:22:46.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:22:46.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:24:39.810] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:soulblacksmith2 is being run through DFU (hash eec5fcbc88c7757a9d14fea20520fefc27e2f54c11daf642420c46ad6d53f746), this will cause launch time delays
+[30Dec2024 03:24:40.874] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:soulblacksmith is being run through DFU (hash f73241e141a2b7af2130785c8c527782dc67664a95f831cef11e7de72b81ad5e), this will cause launch time delays
+[30Dec2024 03:25:44.339] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[30Dec2024 03:27:37.842] [Server thread/INFO] [Scaling Health/]: Blight Piglin has died
+[30Dec2024 03:27:40.653] [Server thread/INFO] [Scaling Health/]: Blight Piglin Brute was killed by AkujinPas
+[30Dec2024 03:27:46.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:27:46.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:28:01.457] [Server thread/INFO] [torcherino-api/]: [Torcherino] Lex_Ssuid(9e7dcda3-0745-3755-b058-30d2fc1816ac) placed a torcherino:wall_double_compressed_torcherino at 148, 96, -168.
+[30Dec2024 03:29:48.695] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[30Dec2024 03:32:36.016] [Worker-Main-36/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[30Dec2024 03:32:36.030] [Worker-Main-36/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[30Dec2024 03:32:36.036] [Worker-Main-36/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[30Dec2024 03:32:46.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:32:46.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

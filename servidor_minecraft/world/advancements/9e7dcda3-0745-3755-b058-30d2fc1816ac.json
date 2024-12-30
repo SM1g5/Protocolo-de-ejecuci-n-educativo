@@ -4342,6 +4342,7 @@
       "tomato": "2024-11-24 08:37:58 +0000",
       "beetroot": "2024-11-25 06:22:40 +0000",
       "sugar_cane": "2024-11-24 05:48:26 +0000",
+      "nether_wart": "2024-12-30 03:21:34 +0000",
       "wheat": "2024-11-22 08:45:54 +0000"
     },
     "done": false
@@ -13448,15 +13449,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-30 03:23:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
     "criteria": {
       "has_dragonscale_electric": "2024-12-30 03:04:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-30 03:23:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
     "criteria": {
       "has_dragonscale_sapphire": "2024-12-30 03:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-30 03:23:22 +0000"
     },
     "done": true
   },
@@ -13475,6 +13494,24 @@
   "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
     "criteria": {
       "has_dragonscale_red": "2024-12-30 03:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-30 03:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-30 03:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-30 03:23:22 +0000"
     },
     "done": true
   },
