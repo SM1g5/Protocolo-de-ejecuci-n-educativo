@@ -1873,3 +1873,48 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jan2025 05:50:31.361] [Worker-Main-15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
 [10Jan2025 05:50:32.172] [Worker-Main-16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
 [10Jan2025 05:54:05.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[10Jan2025 05:58:20.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Jan2025 05:58:24.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[10Jan2025 05:58:24.386] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 811.6246989481707, Y: 61.0, Z: -1131.8308660336163
+[10Jan2025 05:58:29.790] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Jan2025 05:58:29.791] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Jan2025 05:59:34.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[10Jan2025 05:59:34.575] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 816.7646714746901, Y: 61.0, Z: -1127.4161111379544
+[10Jan2025 05:59:37.857] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Jan2025 05:59:37.857] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Jan2025 06:02:16.881] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Soul Crystal'/14500, l='ServerLevel[world]', x=814.30, y=62.50, z=-1130.12]
+[10Jan2025 06:02:16.882] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/14500, l='ServerLevel[world]', x=814.30, y=62.50, z=-1130.12]
+[10Jan2025 06:02:18.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[10Jan2025 06:02:18.775] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 814.5914114794263, Y: 61.0, Z: -1131.4526927633674
+[10Jan2025 06:02:24.283] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Jan2025 06:02:24.284] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Jan2025 06:03:00.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[10Jan2025 06:03:00.722] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 795.7968100376975, Y: 61.0, Z: -957.090254175257
+[10Jan2025 06:03:02.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[10Jan2025 06:03:02.437] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[10Jan2025 06:03:03.315] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Jan2025 06:03:03.315] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[10Jan2025 06:03:09.274] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Jan2025 06:03:09.275] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Jan2025 06:03:09.275] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Jan2025 06:04:12.052] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[10Jan2025 06:04:12.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[10Jan2025 06:04:14.412] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Jan2025 06:04:14.412] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Jan2025 06:04:30.036] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Soul Crystal'/17514, l='ServerLevel[world]', x=811.62, y=62.50, z=-1131.83]
+[10Jan2025 06:04:30.037] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/17514, l='ServerLevel[world]', x=811.62, y=62.50, z=-1131.83]
+[10Jan2025 06:04:34.146] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Soul Crystal'/17515, l='ServerLevel[world]', x=814.59, y=62.50, z=-1131.45]
+[10Jan2025 06:04:34.146] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/17515, l='ServerLevel[world]', x=814.59, y=62.50, z=-1131.45]
+[10Jan2025 06:04:38.387] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Soul Crystal'/17506, l='ServerLevel[world]', x=816.76, y=62.50, z=-1127.42]
+[10Jan2025 06:04:38.387] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/17506, l='ServerLevel[world]', x=816.76, y=62.50, z=-1127.42]
+[10Jan2025 06:04:40.482] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Soul Crystal'/17512, l='ServerLevel[world]', x=812.94, y=63.16, z=-1124.54]
+[10Jan2025 06:04:40.483] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/17512, l='ServerLevel[world]', x=812.94, y=63.16, z=-1124.54]
+[10Jan2025 06:05:19.827] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Soul Crystal'/17513, l='ServerLevel[world]', x=810.03, y=62.50, z=-1128.70]
+[10Jan2025 06:05:19.828] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/17513, l='ServerLevel[world]', x=810.03, y=62.50, z=-1128.70]
+[10Jan2025 06:06:25.816] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shulker['Robert'/17496, l='ServerLevel[world]', x=828.50, y=59.00, z=-1116.50] died: Robert was slain by Lex_Ssuid
+[10Jan2025 06:06:26.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has completed the challenge [Titan-Forged]
+[10Jan2025 06:07:30.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[10Jan2025 06:07:30.018] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 826.0748547093116, Y: 61.0, Z: -1133.2406970576599
+[10Jan2025 06:07:31.334] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Jan2025 06:07:31.334] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Jan2025 06:07:34.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
