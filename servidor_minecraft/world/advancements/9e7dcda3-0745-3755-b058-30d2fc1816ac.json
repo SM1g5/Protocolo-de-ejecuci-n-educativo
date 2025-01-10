@@ -13846,5 +13846,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-01-10 08:38:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

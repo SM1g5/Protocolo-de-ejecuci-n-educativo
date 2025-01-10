@@ -327,6 +327,7 @@
       "rocky_shrubland": "2024-11-22 06:25:26 +0000",
       "scrubland": "2024-11-27 08:03:22 +0000",
       "fungal_jungle": "2024-11-28 08:34:10 +0000",
+      "bayou": "2025-01-10 08:42:48 +0000",
       "erupting_inferno": "2024-11-24 03:26:03 +0000",
       "lush_savanna": "2024-11-29 06:41:04 +0000",
       "highland": "2024-11-23 07:12:07 +0000",
@@ -353,6 +354,7 @@
       "seasonal_forest": "2024-11-22 07:23:43 +0000",
       "rocky_rainforest": "2024-11-29 06:14:58 +0000",
       "pasture": "2024-12-07 07:04:02 +0000",
+      "volcanic_plains": "2025-01-10 08:43:17 +0000",
       "lavender_field": "2024-11-29 05:49:37 +0000",
       "fir_clearing": "2024-11-22 07:36:14 +0000",
       "pumpkin_patch": "2024-11-23 07:14:08 +0000",
@@ -13680,6 +13682,12 @@
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-01-10 08:10:11 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/cockroach_wing_fragment_decomposing": {
+    "criteria": {
+      "has_cockroach_wing_fragment": "2025-01-10 08:35:39 +0000"
     },
     "done": true
   },
