@@ -2089,3 +2089,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jan2025 07:17:48.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Disconnected
 [10Jan2025 07:17:48.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
 [10Jan2025 07:20:38.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [A Day at the Fair]
+[10Jan2025 07:23:23.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/198, l='ServerLevel[world]', x=156.20, y=65.56, z=-53.29] died: Undead Knight suffocated in a wall

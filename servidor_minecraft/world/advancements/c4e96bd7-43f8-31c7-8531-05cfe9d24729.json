@@ -13969,9 +13969,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-01-10 07:25:05 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gelatin": {
     "criteria": {
       "gelatin": "2025-01-10 06:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-01-10 07:25:05 +0000"
     },
     "done": true
   },
@@ -14020,6 +14032,12 @@
   "biomancy:recipes/biomancy/decomposing/mob_marrow_decomposing": {
     "criteria": {
       "has_mob_marrow": "2025-01-10 05:47:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2025-01-10 07:20:38 +0000"
     },
     "done": true
   },
