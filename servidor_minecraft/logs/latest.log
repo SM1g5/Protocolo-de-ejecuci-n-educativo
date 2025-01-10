@@ -2009,3 +2009,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jan2025 06:53:35.336] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
 [10Jan2025 06:55:20.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Lilly the Dirt Digger'/63786, l='ServerLevel[world]', x=2343.45, y=-45.00, z=-602.46] died: Lilly the Dirt Digger was slain by Lex_Ssuid
 [10Jan2025 06:58:34.999] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[10Jan2025 07:01:51.587] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by Lex_Ssuid
+[10Jan2025 07:06:09.243] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
