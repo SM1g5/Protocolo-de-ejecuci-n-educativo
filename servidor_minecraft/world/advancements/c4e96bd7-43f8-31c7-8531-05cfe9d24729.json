@@ -13963,6 +13963,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-01-10 06:48:48 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gelatin": {
     "criteria": {
       "gelatin": "2025-01-10 06:31:57 +0000"

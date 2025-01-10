@@ -2003,3 +2003,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jan2025 06:46:59.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting lolcroc/craftingautomat/CraftingAutomatBlockEntity$CraftingFlag
 [10Jan2025 06:46:59.842] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
 [10Jan2025 06:48:48.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [I Found the Coin Slot]
+[10Jan2025 06:50:56.414] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[10Jan2025 06:51:45.591] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[10Jan2025 06:52:20.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [A Bone to Pick]
+[10Jan2025 06:53:35.336] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[10Jan2025 06:55:20.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Lilly the Dirt Digger'/63786, l='ServerLevel[world]', x=2343.45, y=-45.00, z=-602.46] died: Lilly the Dirt Digger was slain by Lex_Ssuid
+[10Jan2025 06:58:34.999] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State

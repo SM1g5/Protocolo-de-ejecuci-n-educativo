@@ -10795,3 +10795,55 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jan2025 06:48:25.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jan2025 06:48:25.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Jan2025 06:48:48.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [I Found the Coin Slot]
+[10Jan2025 06:50:56.414] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[10Jan2025 06:51:45.591] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[10Jan2025 06:52:20.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [A Bone to Pick]
+[10Jan2025 06:53:25.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 06:53:25.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 06:53:35.336] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[10Jan2025 06:55:20.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Lilly the Dirt Digger'/63786, l='ServerLevel[world]', x=2343.45, y=-45.00, z=-602.46] died: Lilly the Dirt Digger was slain by Lex_Ssuid
+[10Jan2025 06:56:00.190] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[10Jan2025 06:56:00.283] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[10Jan2025 06:56:00.295] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[10Jan2025 06:56:00.302] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[10Jan2025 06:56:00.303] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[10Jan2025 06:56:00.332] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[10Jan2025 06:56:00.339] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[10Jan2025 06:56:00.353] [Worker-Main-16/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_3 is being run through DFU (hash dd6e993a8f3fde05c1064302501b0f9ffdeda06349ef4a8f150ff16d4d8bcaf8), this will cause launch time delays
+[10Jan2025 06:56:00.563] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[10Jan2025 06:56:00.592] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[10Jan2025 06:56:00.633] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[10Jan2025 06:56:00.644] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[10Jan2025 06:56:00.664] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[10Jan2025 06:56:00.684] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[10Jan2025 06:58:19.742] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[10Jan2025 06:58:22.092] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[10Jan2025 06:58:23.345] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[10Jan2025 06:58:23.555] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[10Jan2025 06:58:23.566] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[10Jan2025 06:58:23.568] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[10Jan2025 06:58:23.572] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[10Jan2025 06:58:23.577] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[10Jan2025 06:58:23.580] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[10Jan2025 06:58:23.706] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_straight_0
+[10Jan2025 06:58:23.711] [Worker-Main-16/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_0 is being run through DFU (hash 66c7942fe4784a0f48a5b5ece336de55946b43d21f11f2477641b3d9086ca558), this will cause launch time delays
+[10Jan2025 06:58:23.732] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[10Jan2025 06:58:23.748] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_2
+[10Jan2025 06:58:23.755] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[10Jan2025 06:58:23.765] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[10Jan2025 06:58:23.807] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[10Jan2025 06:58:23.820] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[10Jan2025 06:58:23.870] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[10Jan2025 06:58:23.888] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[10Jan2025 06:58:23.905] [Worker-Main-16/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0 is being run through DFU (hash e4d498c251a42b89b90d4aea20f03b58e9edd152bf50fbd716640369b97d7db1), this will cause launch time delays
+[10Jan2025 06:58:24.097] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[10Jan2025 06:58:24.251] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[10Jan2025 06:58:24.261] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[10Jan2025 06:58:24.267] [Worker-Main-16/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_0 is being run through DFU (hash 325a5da046a550524137fdf7cebbc04fbeb42dc8d25dda67bc942152fd20b6d1), this will cause launch time delays
+[10Jan2025 06:58:24.288] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[10Jan2025 06:58:24.299] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[10Jan2025 06:58:24.307] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[10Jan2025 06:58:24.311] [Worker-Main-16/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_0 is being run through DFU (hash ddfd5f5b304f9bb66ae85abb59f794d1fff221bf45bd3bcfc112019c236fa79a), this will cause launch time delays
+[10Jan2025 06:58:25.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 06:58:25.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 06:58:34.999] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
