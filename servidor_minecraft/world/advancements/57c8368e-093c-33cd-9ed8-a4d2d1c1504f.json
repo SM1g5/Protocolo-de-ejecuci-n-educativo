@@ -13721,6 +13721,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2025-01-10 08:58:32 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
       "in_purple_soda": "2025-01-10 08:48:05 +0000"
@@ -13739,6 +13745,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_candicorn": {
+    "criteria": {
+      "killed": "2025-01-10 08:57:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2025-01-10 08:55:11 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/caramel": {
     "criteria": {
       "mussel": "2025-01-10 08:48:08 +0000"
@@ -13748,6 +13766,12 @@
   "botania:recipes/decorations/yellow_shiny_flower": {
     "criteria": {
       "has_item": "2025-01-10 08:44:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2025-01-10 08:53:44 +0000"
     },
     "done": true
   },

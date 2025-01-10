@@ -2263,3 +2263,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jan2025 08:51:28.410] [Server thread/INFO] [Scaling Health/]: Blight Caramel Cube has died
 [10Jan2025 08:52:32.414] [Server thread/INFO] [Scaling Health/]: Blight Candicorn was killed by AkujinPas
 [10Jan2025 08:53:44.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Tis the Season]
+[10Jan2025 08:55:11.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [A Day at the Fair]
+[10Jan2025 08:57:24.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has reached the goal [Rainbows and Candicorns]
+[10Jan2025 08:58:32.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Where's Goopy?]
+[10Jan2025 08:59:46.811] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[10Jan2025 09:00:34.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/166488, l='ServerLevel[world]', x=2251.56, y=73.91, z=-931.18] died: Honeyed Archer burned to death
+[10Jan2025 09:02:40.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Warden
+[10Jan2025 09:02:40.563] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ica_1016 at X: -869.0373052761078, Y: -51.0, Z: 213.78489694653825
+[10Jan2025 09:02:44.992] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Jan2025 09:02:44.992] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[10Jan2025 09:03:02.820] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Extradimensional Vessel'/171263, l='ServerLevel[world]', x=-869.04, y=-49.50, z=213.78]
+[10Jan2025 09:03:02.820] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/171263, l='ServerLevel[world]', x=-869.04, y=-49.50, z=213.78]
+[10Jan2025 09:03:03.304] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[10Jan2025 09:03:06.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Warden
+[10Jan2025 09:03:06.390] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ica_1016 at X: -868.6561237804489, Y: -50.833890739061786, Z: 215.437842933697
+[10Jan2025 09:03:08.381] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Jan2025 09:03:08.381] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Jan2025 09:03:46.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Disconnected
+[10Jan2025 09:03:46.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
