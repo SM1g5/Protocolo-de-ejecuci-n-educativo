@@ -13921,5 +13921,17 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/fermented_spider_eye_decomposing": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-01-10 05:49:50 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/mob_marrow_decomposing": {
+    "criteria": {
+      "has_mob_marrow": "2025-01-10 05:47:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

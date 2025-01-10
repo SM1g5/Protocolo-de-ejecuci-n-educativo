@@ -1866,3 +1866,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jan2025 05:45:35.293] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 814.2955143203646, Y: 61.0, Z: -1130.124817756511
 [10Jan2025 05:45:38.601] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [10Jan2025 05:45:38.601] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Jan2025 05:47:28.822] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[10Jan2025 05:48:07.912] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[10Jan2025 05:48:07.913] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[10Jan2025 05:48:34.928] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[10Jan2025 05:50:31.361] [Worker-Main-15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[10Jan2025 05:50:32.172] [Worker-Main-16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[10Jan2025 05:54:05.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!

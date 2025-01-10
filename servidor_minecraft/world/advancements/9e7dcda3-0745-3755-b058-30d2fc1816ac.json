@@ -13675,5 +13675,11 @@
     },
     "done": true
   },
+  "fluidtank:recipes/tank/tank_copper": {
+    "criteria": {
+      "has_forge_ingots/copper": "2025-01-10 05:52:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
