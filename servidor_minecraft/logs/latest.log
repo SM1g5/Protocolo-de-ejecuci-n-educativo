@@ -2090,3 +2090,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jan2025 07:17:48.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
 [10Jan2025 07:20:38.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [A Day at the Fair]
 [10Jan2025 07:23:23.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/198, l='ServerLevel[world]', x=156.20, y=65.56, z=-53.29] died: Undead Knight suffocated in a wall
+[10Jan2025 07:34:44.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Disconnected
+[10Jan2025 07:34:44.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[10Jan2025 07:34:44.844] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Jan2025 07:35:00.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.203.45.90:37091] logged in with entity id 83059 at (2464.0877119246875, -26.823240724935765, -821.349982457406)
+[10Jan2025 07:35:00.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[10Jan2025 07:35:00.753] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[10Jan2025 07:35:00.753] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[10Jan2025 07:35:00.754] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[10Jan2025 07:39:51.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.216.173.203:39637] logged in with entity id 84607 at (2168.300000011921, 128.0, -517.3000000119209)
+[10Jan2025 07:39:51.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[10Jan2025 07:39:51.894] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[10Jan2025 07:39:51.895] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[10Jan2025 07:39:51.895] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[10Jan2025 07:45:53.397] [Server thread/INFO] [Scaling Health/]: Blight Fire Dragon was killed by Lex_Ssuid

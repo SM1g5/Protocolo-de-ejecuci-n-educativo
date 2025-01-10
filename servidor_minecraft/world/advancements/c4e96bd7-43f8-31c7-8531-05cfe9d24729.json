@@ -13921,6 +13921,42 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/mob_marrow_decomposing": {
+    "criteria": {
+      "has_mob_marrow": "2025-01-10 05:47:28 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/fermented_spider_eye_decomposing": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-01-10 05:49:50 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/chorus_fruit_decomposing": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-10 06:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-10 06:08:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-10 06:18:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-01-10 06:22:06 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
       "discover": "2025-01-10 06:22:07 +0000"
@@ -13939,6 +13975,60 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-10 06:22:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-01-10 06:22:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-01-10 06:22:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-01-10 06:27:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2025-01-10 06:31:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "red": "2025-01-10 06:32:38 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-01-10 06:37:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-01-10 06:37:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-01-10 06:41:33 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/licowitch_tower": {
     "criteria": {
       "licowitch_tower": "2025-01-10 06:42:13 +0000"
@@ -13951,111 +14041,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/fermented_spider_eye_decomposing": {
-    "criteria": {
-      "has_fermented_spider_eye": "2025-01-10 05:49:50 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_crumbs": {
-    "criteria": {
-      "crumbs": "2025-01-10 06:37:47 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/defeat_gumbeeper": {
     "criteria": {
       "killed": "2025-01-10 06:48:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
-    "criteria": {
-      "has_deepslate_iron_ore": "2025-01-10 07:25:05 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gelatin": {
-    "criteria": {
-      "gelatin": "2025-01-10 06:31:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
-    "criteria": {
-      "has_deepslate_iron_ore": "2025-01-10 07:25:05 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_town": {
-    "criteria": {
-      "gingerbread_town": "2025-01-10 06:37:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-10 06:22:20 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_purple_soda": {
-    "criteria": {
-      "in_purple_soda": "2025-01-10 06:27:09 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/chorus_fruit_decomposing": {
-    "criteria": {
-      "has_chorus_fruit": "2025-01-10 06:08:48 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-01-10 06:18:11 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/walk_on_rock_candy": {
-    "criteria": {
-      "cave_book": "2025-01-10 06:22:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-01-10 06:08:48 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/mob_marrow_decomposing": {
-    "criteria": {
-      "has_mob_marrow": "2025-01-10 05:47:28 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/caramel_apple": {
-    "criteria": {
-      "mussel": "2025-01-10 07:20:38 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/caramel": {
-    "criteria": {
-      "mussel": "2025-01-10 06:41:33 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gummy_rings": {
-    "criteria": {
-      "red": "2025-01-10 06:32:38 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/deathworm_yellow_boots": {
-    "criteria": {
-      "has_item": "2025-01-10 06:22:20 +0000"
     },
     "done": true
   },
@@ -14065,9 +14053,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+  "alexscaves:alexscaves/caramel_apple": {
     "criteria": {
-      "has_item": "2025-01-10 06:22:20 +0000"
+      "mussel": "2025-01-10 07:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-01-10 07:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-01-10 07:25:05 +0000"
     },
     "done": true
   },

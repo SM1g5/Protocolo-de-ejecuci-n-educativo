@@ -13677,15 +13677,69 @@
     },
     "done": true
   },
+  "fluidtank:recipes/tank/tank_copper": {
+    "criteria": {
+      "has_forge_ingots/copper": "2025-01-10 05:52:26 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-01-10 06:06:26 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
       "discover": "2025-01-10 06:15:13 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-01-10 06:16:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2025-01-10 06:16:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-01-10 06:18:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-01-10 06:19:03 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_caniac": {
     "criteria": {
       "killed": "2025-01-10 06:19:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-01-10 06:20:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-01-10 06:20:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-01-10 06:25:05 +0000"
     },
     "done": true
   },
@@ -13701,45 +13755,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
-    "criteria": {
-      "has_dragonscale_green": "2025-01-10 06:42:37 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/licowitch_tower": {
-    "criteria": {
-      "licowitch_tower": "2025-01-10 06:37:14 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:skeleton_dungeon": {
-    "criteria": {
-      "in_better_skeleton_dungeon": "2025-01-10 06:52:20 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/conversion_crucible": {
-    "criteria": {
-      "mussel": "2025-01-10 06:39:38 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/radiant_essence": {
-    "criteria": {
-      "mussel": "2025-01-10 06:37:31 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_green_chestplate": {
     "criteria": {
       "has_item": "2025-01-10 06:28:14 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_crumbs": {
-    "criteria": {
-      "crumbs": "2025-01-10 06:20:48 +0000"
     },
     "done": true
   },
@@ -13749,39 +13767,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_gumbeeper": {
+  "iceandfire:recipes/combat/armor_green_boots": {
     "criteria": {
-      "killed": "2025-01-10 06:18:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sugar_cube": {
-    "criteria": {
-      "has_sugar": "2025-01-10 06:25:05 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_town": {
-    "criteria": {
-      "gingerbread_town": "2025-01-10 06:20:33 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_purple_soda": {
-    "criteria": {
-      "in_purple_soda": "2025-01-10 06:19:03 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/walk_on_rock_candy": {
-    "criteria": {
-      "cave_book": "2025-01-10 06:16:11 +0000"
-    },
-    "done": true
-  },
-  "fluidtank:recipes/tank/tank_copper": {
-    "criteria": {
-      "has_forge_ingots/copper": "2025-01-10 05:52:26 +0000"
+      "has_item": "2025-01-10 06:28:14 +0000"
     },
     "done": true
   },
@@ -13791,15 +13779,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/eat_block_of_chocolate": {
+  "alexscaves:alexscaves/licowitch_tower": {
     "criteria": {
-      "eat_block_of_chocolate": "2025-01-10 06:16:45 +0000"
+      "licowitch_tower": "2025-01-10 06:37:14 +0000"
     },
     "done": true
   },
-  "apotheosis:affix/mythic": {
+  "alexscaves:alexscaves/radiant_essence": {
     "criteria": {
-      "sword": "2025-01-10 06:06:26 +0000"
+      "mussel": "2025-01-10 06:37:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/conversion_crucible": {
+    "criteria": {
+      "mussel": "2025-01-10 06:39:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
+    "criteria": {
+      "has_dragonscale_green": "2025-01-10 06:42:37 +0000"
     },
     "done": true
   },
@@ -13809,9 +13809,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_boots": {
+  "betterdungeons:skeleton_dungeon": {
     "criteria": {
-      "has_item": "2025-01-10 06:28:14 +0000"
+      "in_better_skeleton_dungeon": "2025-01-10 06:52:20 +0000"
     },
     "done": true
   },
