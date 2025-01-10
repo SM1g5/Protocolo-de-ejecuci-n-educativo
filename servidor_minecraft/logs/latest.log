@@ -2117,3 +2117,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jan2025 07:59:01.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has reached the goal [Rainbows and Candicorns]
 [10Jan2025 08:01:14.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Where's Goopy?]
 [10Jan2025 08:01:25.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10Jan2025 08:02:03.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[10Jan2025 08:02:21.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3054ms or 61 ticks behind
+[10Jan2025 08:08:29.352] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 08:08:30.731] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 08:08:31.498] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jan2025 08:09:35.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of ica_1016) moved wrongly! 1.0
+[10Jan2025 08:09:35.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of ica_1016) moved wrongly! 0.7050549572818454
+[10Jan2025 08:09:35.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of ica_1016) moved wrongly! 1.787828597844964
+[10Jan2025 08:09:35.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of ica_1016) moved wrongly! 3.0
+[10Jan2025 08:09:35.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of ica_1016) moved wrongly! 0.7136407911020797
+[10Jan2025 08:10:11.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Tunnel Treasures]
+[10Jan2025 08:11:18.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of ica_1016) moved wrongly! 1.0
+[10Jan2025 08:11:18.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of ica_1016) moved wrongly! 0.6901743780344987
+[10Jan2025 08:11:18.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of ica_1016) moved wrongly! 1.059472927128354

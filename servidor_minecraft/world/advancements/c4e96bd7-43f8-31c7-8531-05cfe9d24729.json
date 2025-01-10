@@ -14071,5 +14071,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_candicorn": {
+    "criteria": {
+      "killed": "2025-01-10 07:59:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
