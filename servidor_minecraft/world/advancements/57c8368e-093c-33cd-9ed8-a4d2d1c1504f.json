@@ -13436,33 +13436,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_leggings": {
+  "biomancy:recipes/biomancy/decomposing/withered_mob_marrow_decomposing": {
     "criteria": {
-      "has_item": "2024-12-30 03:45:59 +0000"
+      "has_withered_mob_marrow": "2024-12-30 02:39:04 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+  "cataclysm:kill_monstrosity": {
     "criteria": {
-      "has_item": "2024-12-30 03:47:03 +0000"
+      "netheritemonstrosity": "2024-12-30 03:37:17 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/lich_banner_pattern": {
+  "iceandfire:recipes/misc/dragonscale_silver_to_dragonscales_silver": {
     "criteria": {
-      "has_trophy": "2024-12-30 05:22:55 +0000"
+      "has_dragonscale_silver": "2024-12-30 03:44:46 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_boots": {
+  "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
     "criteria": {
-      "has_item": "2024-12-30 03:45:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
-    "criteria": {
-      "has_dragonscales_black": "2024-12-30 03:45:59 +0000"
+      "has_dragonscale_sapphire": "2024-12-30 03:44:47 +0000"
     },
     "done": true
   },
@@ -13472,9 +13466,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
+    "criteria": {
+      "has_dragonscale_red": "2024-12-30 03:44:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
     "criteria": {
       "has_dragonscale_electric": "2024-12-30 03:44:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
+    "criteria": {
+      "has_dragonscale_bronze": "2024-12-30 03:44:51 +0000"
     },
     "done": true
   },
@@ -13490,15 +13496,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+  "iceandfire:recipes/combat/armor_electric_leggings": {
     "criteria": {
-      "has_dragonscales_sapphire": "2024-12-30 03:47:03 +0000"
+      "has_item": "2024-12-30 03:45:56 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_helmet": {
+  "iceandfire:recipes/combat/armor_electric_helmet": {
     "criteria": {
-      "has_item": "2024-12-30 03:46:07 +0000"
+      "has_item": "2024-12-30 03:45:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2024-12-30 03:45:56 +0000"
     },
     "done": true
   },
@@ -13520,33 +13532,57 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_electric_leggings": {
-    "criteria": {
-      "has_item": "2024-12-30 03:45:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
-    "criteria": {
-      "has_dragonscale_sapphire": "2024-12-30 03:44:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
-    "criteria": {
-      "has_dragonscales_silver": "2024-12-30 03:46:07 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2024-12-30 03:45:58 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_foundry": {
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
-      "location0": "2024-12-30 04:10:05 +0000"
+      "has_item": "2024-12-30 03:45:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2024-12-30 03:45:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2024-12-30 03:45:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2024-12-30 03:45:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-30 03:45:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2024-12-30 03:45:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2024-12-30 03:46:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2024-12-30 03:46:07 +0000"
     },
     "done": true
   },
@@ -13562,15 +13598,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_sapphire_boots": {
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2024-12-30 03:46:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
     "criteria": {
       "has_item": "2024-12-30 03:47:03 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_leggings": {
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
     "criteria": {
-      "has_item": "2024-12-30 03:46:07 +0000"
+      "has_dragonscales_sapphire": "2024-12-30 03:47:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2024-12-30 03:47:03 +0000"
     },
     "done": true
   },
@@ -13580,33 +13628,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
     "criteria": {
-      "has_dragonscale_bronze": "2024-12-30 03:44:51 +0000"
+      "has_item": "2024-12-30 03:47:03 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/lifedrain_scepter": {
+  "dungeons_arise:find_foundry": {
     "criteria": {
-      "has_item": "2024-12-30 05:22:57 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_monstrosity": {
-    "criteria": {
-      "netheritemonstrosity": "2024-12-30 03:37:17 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_electric_helmet": {
-    "criteria": {
-      "has_item": "2024-12-30 03:45:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_silver_to_dragonscales_silver": {
-    "criteria": {
-      "has_dragonscale_silver": "2024-12-30 03:44:46 +0000"
+      "location0": "2024-12-30 04:10:05 +0000"
     },
     "done": true
   },
@@ -13622,57 +13652,27 @@
     },
     "done": false
   },
-  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
-    "criteria": {
-      "has_dragonscale_red": "2024-12-30 03:44:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
-    "criteria": {
-      "has_dragonscales_electric": "2024-12-30 03:45:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_leggings": {
-    "criteria": {
-      "has_item": "2024-12-30 03:47:03 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/withered_mob_marrow_decomposing": {
-    "criteria": {
-      "has_withered_mob_marrow": "2024-12-30 02:39:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_black_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-30 03:45:59 +0000"
-    },
-    "done": true
-  },
   "twilightforest:progress_yeti": {
     "criteria": {
       "previous_progression": "2024-12-30 05:22:18 +0000"
     },
     "done": false
   },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-30 05:22:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/lifedrain_scepter": {
+    "criteria": {
+      "has_item": "2024-12-30 05:22:57 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/player_head_decomposing": {
     "criteria": {
       "has_player_head": "2024-12-30 05:39:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-30 03:45:58 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_black_helmet": {
-    "criteria": {
-      "has_item": "2024-12-30 03:45:59 +0000"
     },
     "done": true
   },

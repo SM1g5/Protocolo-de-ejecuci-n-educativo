@@ -2104,3 +2104,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jan2025 07:39:51.895] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [10Jan2025 07:39:51.895] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
 [10Jan2025 07:45:53.397] [Server thread/INFO] [Scaling Health/]: Blight Fire Dragon was killed by Lex_Ssuid
+[10Jan2025 07:53:57.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.174.51.209:45479] logged in with entity id 96403 at (-1977.300000011921, -2.0, -177.41679265686705)
+[10Jan2025 07:53:57.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[10Jan2025 07:53:57.986] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[10Jan2025 07:53:57.986] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[10Jan2025 07:53:57.987] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[10Jan2025 07:56:22.960] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/Tiers$SlotType
+[10Jan2025 07:56:54.053] [Server thread/INFO] [torcherino-api/]: [Torcherino] Lex_Ssuid(9e7dcda3-0745-3755-b058-30d2fc1816ac) placed a torcherino:wall_double_compressed_torcherino at 100, 79, 129.
+[10Jan2025 07:58:44.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Lightning Dragon
+[10Jan2025 07:58:49.597] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Jan2025 07:58:49.597] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Jan2025 07:59:01.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has reached the goal [Rainbows and Candicorns]
+[10Jan2025 08:01:14.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Where's Goopy?]
+[10Jan2025 08:01:25.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
