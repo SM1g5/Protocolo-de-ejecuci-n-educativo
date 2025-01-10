@@ -13764,23 +13764,11 @@
     },
     "done": true
   },
-  "enigmaticlegacy:recipes/generic/evil_ingot": {
+  "fluidtank:recipes/tank/tank_emerald": {
     "criteria": {
-      "is_cursed_one": "2024-12-26 05:09:10 +0000"
+      "has_forge_gems/emerald": "2024-12-26 03:31:43 +0000"
     },
-    "done": false
-  },
-  "enigmaticlegacy:recipes/generic/ender_slayer": {
-    "criteria": {
-      "is_cursed_one": "2024-12-26 05:09:10 +0000"
-    },
-    "done": false
-  },
-  "enigmaticlegacy:recipes/generic/enchanter_pearl": {
-    "criteria": {
-      "is_cursed_one": "2024-12-26 05:09:10 +0000"
-    },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/redstone/magic_trapdoor": {
     "criteria": {
@@ -13800,17 +13788,83 @@
     },
     "done": true
   },
-  "enigmaticlegacy:book/relics/eldritch_amulet": {
-    "criteria": {
-      "is_the_cursed_one": "2024-12-26 05:09:10 +0000"
-    },
-    "done": false
-  },
   "biomesoplenty:recipes/building_blocks/magic_slab": {
     "criteria": {
       "has_planks": "2024-12-26 04:03:33 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_magic_planks": "2024-12-26 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_magic": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_cake": {
+    "criteria": {
+      "has_cake": "2024-12-26 05:05:16 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/cake_decomposing": {
+    "criteria": {
+      "has_cake": "2024-12-26 05:05:16 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/evil_ingot": {
+    "criteria": {
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/ender_slayer": {
+    "criteria": {
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/enchanter_pearl": {
+    "criteria": {
+      "is_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/relics/eldritch_amulet": {
+    "criteria": {
+      "is_the_cursed_one": "2024-12-26 05:09:10 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/twisted_heart": {
     "criteria": {
@@ -13842,36 +13896,6 @@
     },
     "done": false
   },
-  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-26 04:03:33 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/magic_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-26 04:03:33 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/magic_button": {
-    "criteria": {
-      "has_planks": "2024-12-26 04:03:33 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/magic_sign": {
-    "criteria": {
-      "has_magic_planks": "2024-12-26 04:03:33 +0000"
-    },
-    "done": true
-  },
-  "fluidtank:recipes/tank/tank_diamond": {
-    "criteria": {
-      "has_forge_gems/diamond": "2024-12-26 05:11:51 +0000"
-    },
-    "done": true
-  },
   "enigmaticlegacy:recipes/generic/twisted_mirror": {
     "criteria": {
       "is_cursed_one": "2024-12-26 05:09:10 +0000"
@@ -13884,24 +13908,6 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_cake": {
-    "criteria": {
-      "has_cake": "2024-12-26 05:05:16 +0000"
-    },
-    "done": true
-  },
-  "fluidtank:recipes/tank/tank_emerald": {
-    "criteria": {
-      "has_forge_gems/emerald": "2024-12-26 03:31:43 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_magic": {
-    "criteria": {
-      "has_planks": "2024-12-26 04:03:33 +0000"
-    },
-    "done": true
-  },
   "enigmaticlegacy:book/soul_loss": {
     "criteria": {
       "incompletable": "2024-12-26 05:22:29 +0000",
@@ -13909,15 +13915,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/cake_decomposing": {
+  "fluidtank:recipes/tank/tank_diamond": {
     "criteria": {
-      "has_cake": "2024-12-26 05:05:16 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/magic_fence": {
-    "criteria": {
-      "has_planks": "2024-12-26 04:03:33 +0000"
+      "has_forge_gems/diamond": "2024-12-26 05:11:51 +0000"
     },
     "done": true
   },
