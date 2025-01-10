@@ -13822,5 +13822,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-01-10 08:13:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

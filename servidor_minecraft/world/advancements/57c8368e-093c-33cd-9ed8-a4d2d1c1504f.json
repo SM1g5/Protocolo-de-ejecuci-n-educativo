@@ -402,7 +402,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-11-22 09:35:35 +0000",
-      "opened_chest": "2024-11-22 06:20:49 +0000"
+      "opened_chest": "2024-11-22 06:20:49 +0000",
+      "opened_cart": "2025-01-10 08:10:11 +0000"
     },
     "done": false
   },
@@ -13673,6 +13674,12 @@
   "biomancy:recipes/biomancy/decomposing/player_head_decomposing": {
     "criteria": {
       "has_player_head": "2024-12-30 05:39:52 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-01-10 08:10:11 +0000"
     },
     "done": true
   },
