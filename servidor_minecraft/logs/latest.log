@@ -2137,3 +2137,109 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jan2025 08:15:07.333] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [10Jan2025 08:22:41.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
 [10Jan2025 08:22:41.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[10Jan2025 08:23:29.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.174.51.209:50131] logged in with entity id 133010 at (-1984.3671447396796, -10.0, -114.50248557522558)
+[10Jan2025 08:23:29.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[10Jan2025 08:23:29.889] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[10Jan2025 08:23:29.889] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[10Jan2025 08:23:29.890] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[10Jan2025 08:23:54.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Book of Monsters]
+[10Jan2025 08:24:40.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.35604820728991626
+[10Jan2025 08:24:40.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.0543635815850507
+[10Jan2025 08:24:40.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.749570769483654
+[10Jan2025 08:24:40.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.7646673828318455
+[10Jan2025 08:24:40.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.46657305158529994
+[10Jan2025 08:24:40.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.9223664163805836
+[10Jan2025 08:24:41.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3142629493522975
+[10Jan2025 08:24:41.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.6050755710256794
+[10Jan2025 08:24:41.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3057639532144663
+[10Jan2025 08:24:41.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.7597189869954466
+[10Jan2025 08:24:41.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.004434988303595
+[10Jan2025 08:24:41.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.0
+[10Jan2025 08:24:41.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.6837722578690943
+[10Jan2025 08:24:42.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.9433899071146072
+[10Jan2025 08:24:42.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.422911094339014
+[10Jan2025 08:24:42.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.912554927474813
+[10Jan2025 08:24:42.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.0
+[10Jan2025 08:24:43.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3644863083414975
+[10Jan2025 08:24:43.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.7859114126775353
+[10Jan2025 08:24:43.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.0
+[10Jan2025 08:24:43.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.29119720260931103
+[10Jan2025 08:24:43.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.2587436934662435
+[10Jan2025 08:24:43.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.4854056446181403
+[10Jan2025 08:24:43.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.855862351721754
+[10Jan2025 08:24:43.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.0
+[10Jan2025 08:24:53.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.1212291223700106
+[10Jan2025 08:24:53.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.5354407610763872
+[10Jan2025 08:24:53.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.9032360121271665
+[10Jan2025 08:24:53.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 3.2516658955895252
+[10Jan2025 08:24:53.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.37192157318375507
+[10Jan2025 08:24:53.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.6906316280041267
+[10Jan2025 08:25:25.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.5903348519007352
+[10Jan2025 08:25:25.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.8591662164522802
+[10Jan2025 08:25:25.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 3.1961441304645746
+[10Jan2025 08:25:25.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 4.569585904397712
+[10Jan2025 08:25:25.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.2984034331416296
+[10Jan2025 08:25:25.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3081820784846627
+[10Jan2025 08:25:25.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3134144366425744
+[10Jan2025 08:25:25.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.7241780290376596
+[10Jan2025 08:25:26.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3177122471560097
+[10Jan2025 08:25:26.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3268559796127875
+[10Jan2025 08:25:26.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3398636402622515
+[10Jan2025 08:25:26.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3484482752938334
+[10Jan2025 08:25:26.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3530417423400536
+[10Jan2025 08:25:26.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.8030907825368843
+[10Jan2025 08:25:26.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3568147736136495
+[10Jan2025 08:25:26.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.8088826876188477
+[10Jan2025 08:25:26.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3578950327365078
+[10Jan2025 08:25:26.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3580965138996248
+[10Jan2025 08:25:26.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.358204322452906
+[10Jan2025 08:25:26.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3582620086602901
+[10Jan2025 08:25:26.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3582928753997123
+[10Jan2025 08:25:26.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3583093915765687
+[10Jan2025 08:25:26.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3583182290535092
+[10Jan2025 08:25:26.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3583229578112253
+[10Jan2025 08:25:26.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.8111978711106076
+[10Jan2025 08:25:26.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3583268419689887
+[10Jan2025 08:25:26.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.3583275664105656
+[10Jan2025 08:25:26.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.8112049456795773
+[10Jan2025 08:25:27.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.2939012788311288
+[10Jan2025 08:25:27.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.51850109400948
+[10Jan2025 08:25:27.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.4504922113723353
+[10Jan2025 08:25:27.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.4504922113723353
+[10Jan2025 08:25:27.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.4504922113723353
+[10Jan2025 08:26:13.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.8316933700746745
+[10Jan2025 08:26:13.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.337249992568161
+[10Jan2025 08:26:13.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.8408755967239756
+[10Jan2025 08:26:13.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.3202634737730534
+[10Jan2025 08:26:13.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.2805512356634665
+[10Jan2025 08:26:15.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.712086975850184
+[10Jan2025 08:26:15.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.221483049921403
+[10Jan2025 08:26:16.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.8320817590841898
+[10Jan2025 08:26:16.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.8618277938707024
+[10Jan2025 08:26:16.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.0
+[10Jan2025 08:26:16.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.0
+[10Jan2025 08:26:16.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.7043214825331177
+[10Jan2025 08:26:16.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.785511347714305
+[10Jan2025 08:26:16.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 3.0683559705055643
+[10Jan2025 08:26:16.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.7043214825331177
+[10Jan2025 08:26:17.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.7047357070226781
+[10Jan2025 08:26:17.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.1880344827891918
+[10Jan2025 08:26:17.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 3.674476446384574
+[10Jan2025 08:26:17.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 5.1636323468395915
+[10Jan2025 08:26:18.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.674941571090983
+[10Jan2025 08:26:18.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.7171656960577479
+[10Jan2025 08:26:18.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.9896471220604062
+[10Jan2025 08:26:18.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.0
+[10Jan2025 08:26:18.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.7270581447907318
+[10Jan2025 08:26:18.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.97866830010667
+[10Jan2025 08:26:19.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.652878126523389
+[10Jan2025 08:26:19.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.8646373343360665
+[10Jan2025 08:26:19.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.0
+[10Jan2025 08:26:19.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.0
+[10Jan2025 08:26:20.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.6171627039038867
+[10Jan2025 08:26:20.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 0.7852136379113688
+[10Jan2025 08:26:20.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 1.7317530374157002
+[10Jan2025 08:26:20.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 2.559766031270925
+[10Jan2025 08:26:20.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanito (vehicle of ica_1016) moved wrongly! 3.324732678893511
+[10Jan2025 08:28:26.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Would you Like to Know More?]
+[10Jan2025 08:32:07.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has reached the goal [It Will Betray You]

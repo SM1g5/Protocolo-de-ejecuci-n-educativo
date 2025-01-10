@@ -309,6 +309,7 @@
     "criteria": {
       "has_parent_recipe": "2024-11-22 07:06:23 +0000",
       "has_items3": "2024-11-25 01:41:38 +0000",
+      "has_items1": "2025-01-10 08:32:07 +0000",
       "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
     "done": false
@@ -1027,10 +1028,11 @@
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2024-11-22 07:14:26 +0000",
+      "has_items1": "2025-01-10 08:32:07 +0000",
       "has_items2": "2024-11-25 01:41:38 +0000",
       "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
@@ -5380,6 +5382,7 @@
   "enigmaticlegacy:recipes/generic/avarice_scroll": {
     "criteria": {
       "has_parent_recipe": "2024-11-23 05:57:44 +0000",
+      "has_items1": "2025-01-10 08:32:07 +0000",
       "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
     "done": false
@@ -5411,10 +5414,11 @@
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2024-11-23 05:57:44 +0000",
+      "has_items1": "2025-01-10 08:32:07 +0000",
       "has_items2": "2024-11-25 01:41:38 +0000",
       "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/xp_scroll": {
     "criteria": {
@@ -5462,6 +5466,7 @@
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
       "has_parent_recipe": "2024-11-23 05:57:44 +0000",
+      "has_items2": "2025-01-10 08:32:07 +0000",
       "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
     "done": false
@@ -7803,9 +7808,10 @@
   "enigmaticlegacy:recipes/generic/soul_compass": {
     "criteria": {
       "has_items1": "2024-11-25 01:41:38 +0000",
+      "has_items2": "2025-01-10 08:32:07 +0000",
       "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
@@ -11651,9 +11657,10 @@
   "enigmaticlegacy:book/brewing/twisted_potion": {
     "criteria": {
       "has_recall_potion": "2024-11-28 09:57:06 +0000",
+      "has_core": "2025-01-10 08:32:07 +0000",
       "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/pumpkin_smithing_diamond": {
     "criteria": {
@@ -13868,9 +13875,10 @@
   },
   "enigmaticlegacy:recipes/generic/twisted_heart": {
     "criteria": {
+      "has_items": "2025-01-10 08:21:10 +0000",
       "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:main/cursed_ring": {
     "criteria": {
@@ -13892,15 +13900,19 @@
   },
   "enigmaticlegacy:recipes/generic/cursed_stone": {
     "criteria": {
+      "has_parent_recipe": "2025-01-10 08:21:10 +0000",
+      "has_items1": "2025-01-10 08:32:07 +0000",
       "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
     "done": false
   },
   "enigmaticlegacy:recipes/generic/twisted_mirror": {
     "criteria": {
+      "has_parent_recipe": "2025-01-10 08:21:10 +0000",
+      "has_items": "2025-01-10 08:32:07 +0000",
       "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:book/accessories/ender_ring": {
     "criteria": {
@@ -14071,9 +14083,63 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/soul_compass": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 08:32:07 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/berserk_charm": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 08:32:07 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/twisted_mirror": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 08:32:07 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2025-01-10 08:21:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/twisted_heart": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 08:21:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 08:21:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/twisted_heart": {
+    "criteria": {
+      "core": "2025-01-10 08:32:07 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tame_candicorn": {
     "criteria": {
       "killed": "2025-01-10 07:59:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2025-01-10 08:21:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/infernal_shield": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 08:32:07 +0000"
     },
     "done": true
   },
