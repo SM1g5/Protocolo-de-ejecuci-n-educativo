@@ -13927,6 +13927,24 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/chorus_fruit_decomposing": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-10 06:08:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-10 06:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-10 06:08:48 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/mob_marrow_decomposing": {
     "criteria": {
       "has_mob_marrow": "2025-01-10 05:47:28 +0000"

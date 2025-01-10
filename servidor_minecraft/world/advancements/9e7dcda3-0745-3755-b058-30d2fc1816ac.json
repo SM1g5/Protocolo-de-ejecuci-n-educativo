@@ -1265,6 +1265,7 @@
       "minecraft:birch_forest": "2024-11-22 07:08:55 +0000",
       "minecraft:windswept_hills": "2024-12-07 05:14:41 +0000",
       "minecraft:wooded_badlands": "2024-12-30 05:34:32 +0000",
+      "minecraft:bamboo_jungle": "2025-01-10 06:12:43 +0000",
       "minecraft:badlands": "2024-12-30 05:34:25 +0000",
       "minecraft:savanna_plateau": "2024-12-14 06:10:59 +0000",
       "minecraft:beach": "2024-12-02 00:13:38 +0000",
@@ -13675,9 +13676,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-01-10 06:15:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-01-10 06:18:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-01-10 06:16:11 +0000"
+    },
+    "done": true
+  },
   "fluidtank:recipes/tank/tank_copper": {
     "criteria": {
       "has_forge_ingots/copper": "2025-01-10 05:52:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2025-01-10 06:16:45 +0000"
     },
     "done": true
   },
