@@ -14083,6 +14083,36 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_candicorn": {
+    "criteria": {
+      "killed": "2025-01-10 07:59:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2025-01-10 08:21:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/twisted_heart": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 08:21:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 08:21:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2025-01-10 08:21:10 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/soul_compass": {
     "criteria": {
       "has_the_recipe": "2025-01-10 08:32:07 +0000"
@@ -14101,9 +14131,15 @@
     },
     "done": true
   },
-  "enigmaticlegacy:book/materials/earth_heart": {
+  "enigmaticlegacy:main/twisted_heart": {
     "criteria": {
-      "has_items": "2025-01-10 08:21:10 +0000"
+      "core": "2025-01-10 08:32:07 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/infernal_shield": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 08:32:07 +0000"
     },
     "done": true
   },
@@ -14116,42 +14152,6 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-01-10 08:43:29 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/materials/twisted_heart": {
-    "criteria": {
-      "has_the_recipe": "2025-01-10 08:21:10 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/infinimeal": {
-    "criteria": {
-      "has_the_recipe": "2025-01-10 08:21:10 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:main/twisted_heart": {
-    "criteria": {
-      "core": "2025-01-10 08:32:07 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tame_candicorn": {
-    "criteria": {
-      "killed": "2025-01-10 07:59:01 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:recipes/generic/infinimeal": {
-    "criteria": {
-      "has_items": "2025-01-10 08:21:10 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/tools/infernal_shield": {
-    "criteria": {
-      "has_the_recipe": "2025-01-10 08:32:07 +0000"
     },
     "done": true
   },

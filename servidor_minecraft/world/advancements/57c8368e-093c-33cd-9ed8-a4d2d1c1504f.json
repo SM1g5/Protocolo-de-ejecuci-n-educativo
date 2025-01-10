@@ -13727,6 +13727,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-01-10 09:12:18 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
       "in_purple_soda": "2025-01-10 08:48:05 +0000"
