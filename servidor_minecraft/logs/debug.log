@@ -11822,3 +11822,45 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jan2025 08:07:54.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1422, y=106, z=-11124} BlockPos{x=1419, y=106, z=-11126}
 [13Jan2025 08:08:19.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jan2025 08:08:19.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 08:11:30.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has reached the goal [Extinguished]
+[13Jan2025 08:11:53.186] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 08:11:53.187] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 08:11:53.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of ica_1016) moved too quickly! -4.2896601826214464E-9,-320.47349772132145,0.0
+[13Jan2025 08:11:53.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of ica_1016) moved too quickly! -8.193239864340285E-9,-320.72349772132145,0.0
+[13Jan2025 08:11:53.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of ica_1016) moved too quickly! -1.17454987957899E-8,-320.97349772132145,0.0
+[13Jan2025 08:12:12.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Cool Jewelery!]
+[13Jan2025 08:12:32.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has reached the goal [Fireproof]
+[13Jan2025 08:12:57.649] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[13Jan2025 08:13:03.035] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[13Jan2025 08:13:03.035] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[13Jan2025 08:13:19.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 08:13:19.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 08:18:19.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 08:18:19.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 08:18:21.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [To Infinity and Beyond!]
+[13Jan2025 08:20:16.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has reached the goal [Like a Bossaru!]
+[13Jan2025 08:22:09.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Epic!]
+[13Jan2025 08:23:16.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Exotic Hardware]
+[13Jan2025 08:23:19.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 08:23:19.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 08:26:16.936] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 08:26:16.937] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 08:26:28.882] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[13Jan2025 08:26:28.905] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=185, y=70, z=-153} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 08:26:28.906] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=185, y=70, z=-153} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 08:26:29.679] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/azure/azurelib/core/object/PlayState
+[13Jan2025 08:26:30.285] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[13Jan2025 08:26:31.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena/base
+[13Jan2025 08:27:19.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[13Jan2025 08:27:19.296] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_2 is being run through DFU (hash 21e83b1170d130d92bcfe5439c1418162bc7bead365ee48366543caa05df50db), this will cause launch time delays
+[13Jan2025 08:27:19.337] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_0 is being run through DFU (hash 9cc06412e75087b92ed78b7dc654702e658cb5ce732ffc856406f4b7ae888920), this will cause launch time delays
+[13Jan2025 08:27:19.476] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_roots_0 is being run through DFU (hash 962578fc7708746b628dca27fc3a85a519af2f79f85afd8bffffb1138e260900), this will cause launch time delays
+[13Jan2025 08:27:28.233] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 08:27:28.233] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 08:27:42.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13Jan2025 08:28:05.749] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[13Jan2025 08:28:21.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 08:28:21.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 08:28:25.040] [Server thread/INFO] [Scaling Health/]: Blight Gelada Monkey was killed by AkujinPas
+[13Jan2025 08:28:53.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [War Pigs]
+[13Jan2025 08:28:58.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Supersolid Wizard]

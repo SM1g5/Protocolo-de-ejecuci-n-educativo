@@ -13835,9 +13835,21 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/carved_stairs": {
+    "criteria": {
+      "has_carved_stone": "2025-01-13 08:18:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/holystone_wall_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:phoenix_armor": {
+    "criteria": {
+      "phoenix_helmet": "2025-01-13 08:12:32 +0000"
     },
     "done": true
   },
@@ -13877,6 +13889,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/hellfire_stairs_from_hellfire_stone_stonecutting": {
+    "criteria": {
+      "has_hellfire_stone": "2025-01-13 08:11:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_brick_slab_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-01-13 07:14:36 +0000"
@@ -13907,9 +13925,21 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/ambrosium_torch": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-01-13 08:18:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/cold_parachute": {
     "criteria": {
       "has_cold_aercloud": "2025-01-13 07:10:05 +0000"
+    },
+    "done": true
+  },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2025-01-13 08:20:16 +0000"
     },
     "done": true
   },
@@ -13928,6 +13958,12 @@
   "aether:recipes/tools/zanite_axe": {
     "criteria": {
       "has_zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-01-13 08:18:08 +0000"
     },
     "done": true
   },
@@ -13979,6 +14015,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/carved_stairs_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-01-13 08:18:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/mossy_holystone_wall_from_mossy_holystone_stonecutting": {
     "criteria": {
       "has_mossy_holystone": "2025-01-13 07:55:45 +0000"
@@ -14027,11 +14069,23 @@
     },
     "done": true
   },
+  "aether:recipes/misc/remedy_bucket_enchanting": {
+    "criteria": {
+      "has_skyroot_poison_bucket": "2025-01-13 08:17:57 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/redstonelamps": {
     "criteria": {
       "has_parent_recipe": "2025-01-13 07:02:11 +0000"
     },
     "done": false
+  },
+  "aether:recipes/building_blocks/carved_slab_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-01-13 08:18:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
@@ -14057,9 +14111,27 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/carved_wall": {
+    "criteria": {
+      "has_carved_stone": "2025-01-13 08:18:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/hellfire_wall_from_hellfire_stone_stonecutting": {
+    "criteria": {
+      "has_hellfire_stone": "2025-01-13 08:11:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/moa_egg_cake": {
     "criteria": {
       "has_moa_egg": "2025-01-13 07:29:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_pickaxe_repairing": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-01-13 08:18:18 +0000"
     },
     "done": true
   },
@@ -14153,6 +14225,12 @@
     },
     "done": true
   },
+  "aether:gold_dungeon": {
+    "criteria": {
+      "kill_sun_spirit": "2025-01-13 08:11:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/healing_stone_enchanting": {
     "criteria": {
       "has_holystone": "2025-01-13 07:14:36 +0000"
@@ -14189,9 +14267,21 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/hellfire_slab_from_hellfire_stone_stonecutting": {
+    "criteria": {
+      "has_hellfire_stone": "2025-01-13 08:11:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/swet_lead": {
     "criteria": {
       "has_swet_balls": "2025-01-13 07:08:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/light_hellfire_stone_from_hellfire_stone_stonecutting": {
+    "criteria": {
+      "has_hellfire_stone": "2025-01-13 08:11:35 +0000"
     },
     "done": true
   },
@@ -14204,6 +14294,12 @@
   "aether:recipes/building_blocks/zanite_block": {
     "criteria": {
       "has_zanite_gemstone": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/quicksoil_glass_enchanting": {
+    "criteria": {
+      "has_quicksoil": "2025-01-13 08:25:35 +0000"
     },
     "done": true
   },
@@ -14279,9 +14375,33 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/hellfire_stairs": {
+    "criteria": {
+      "has_hellfire_stone": "2025-01-13 08:11:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/carved_wall_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-01-13 08:18:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/poison_dart_shooter": {
     "criteria": {
       "has_aechor_petal": "2025-01-13 07:19:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/hellfire_slab": {
+    "criteria": {
+      "has_hellfire_stone": "2025-01-13 08:11:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/hellfire_wall": {
+    "criteria": {
+      "has_hellfire_stone": "2025-01-13 08:11:35 +0000"
     },
     "done": true
   },
@@ -14393,6 +14513,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_gloves_repairing": {
+    "criteria": {
+      "has_chainmail_gloves": "2025-01-13 08:12:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_slab": {
+    "criteria": {
+      "has_carved_stone": "2025-01-13 08:18:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/angelic_wall": {
     "criteria": {
       "has_angelic_stone": "2025-01-13 07:25:26 +0000"
@@ -14498,6 +14630,12 @@
   "aether:recipes/building_blocks/mossy_holystone_with_vine": {
     "criteria": {
       "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:ice_accessory": {
+    "criteria": {
+      "ice_ring": "2025-01-13 08:12:12 +0000"
     },
     "done": true
   },

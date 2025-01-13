@@ -332,6 +332,7 @@
       "clover_patch": "2024-11-25 07:06:54 +0000",
       "cold_desert": "2024-12-05 06:46:52 +0000",
       "old_growth_woodland": "2024-11-25 07:31:41 +0000",
+      "maple_woods": "2025-01-13 08:16:42 +0000",
       "field": "2024-12-05 05:30:23 +0000",
       "orchard": "2024-12-05 06:40:04 +0000",
       "lavender_forest": "2024-11-25 07:29:25 +0000",
@@ -339,6 +340,7 @@
       "coniferous_forest": "2024-12-05 05:27:56 +0000",
       "wasteland": "2024-12-05 05:55:18 +0000",
       "lush_desert": "2024-12-05 06:00:53 +0000",
+      "seasonal_forest": "2025-01-13 08:16:49 +0000",
       "rocky_rainforest": "2024-11-25 07:33:55 +0000",
       "volcanic_plains": "2024-12-05 05:37:34 +0000",
       "lavender_field": "2024-11-25 07:28:42 +0000",
@@ -5494,6 +5496,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/nether_star_decomposing": {
+    "criteria": {
+      "has_nether_star": "2025-01-13 08:12:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-01-13 07:36:13 +0000"
@@ -5559,6 +5567,12 @@
       "has_planks": "2025-01-13 07:36:13 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_items": "2025-01-13 08:12:22 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
@@ -5626,6 +5640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-13 08:12:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_cherry": {
     "criteria": {
       "has_planks": "2025-01-13 07:36:13 +0000"
@@ -5677,6 +5697,18 @@
   "cfm:recipes/decorations/spruce_crate": {
     "criteria": {
       "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-13 08:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-13 08:12:22 +0000"
     },
     "done": true
   },
@@ -5794,15 +5826,34 @@
     },
     "done": true
   },
+  "fluidtank:recipes/tank/tank_star": {
+    "criteria": {
+      "has_item_nether_star": "2025-01-13 08:12:22 +0000",
+      "has_forge_nether_stars": "2025-01-13 08:12:22 +0000"
+    },
+    "done": true
+  },
   "fluidtank:recipes/tank/tank_wood": {
     "criteria": {
       "has_forge_glass": "2025-01-13 07:50:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-13 08:27:12 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_nightstand": {
     "criteria": {
       "has_oak_nightstand": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2025-01-13 08:12:22 +0000"
     },
     "done": true
   },
@@ -5983,6 +6034,18 @@
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "eidolon:recipes/building_blocks/smooth_stone_masonry_stonecutter_0": {
+    "criteria": {
+      "has_journal": "2025-01-13 08:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-13 08:27:12 +0000"
     },
     "done": true
   },
