@@ -1864,3 +1864,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jan2025 06:32:35.168] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [13Jan2025 06:32:46.806] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
 [13Jan2025 06:32:54.252] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[13Jan2025 06:35:24.850] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[13Jan2025 06:36:56.582] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Extradimensional Vessel'/11807, l='ServerLevel[world]', x=-869.25, y=-48.33, z=212.28]
+[13Jan2025 06:36:56.583] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/11807, l='ServerLevel[world]', x=-869.25, y=-48.33, z=212.28]
+[13Jan2025 06:38:17.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[13Jan2025 06:39:12.086] [Server thread/INFO] [Scaling Health/]: Blight Boar was killed by ica_1016
+[13Jan2025 06:39:52.939] [Server thread/INFO] [Scaling Health/]: Blight Bighorn Sheep was killed by ica_1016
+[13Jan2025 06:40:57.810] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/kotori316/fluidtank/fluids/PotionType
+[13Jan2025 06:40:57.835] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[13Jan2025 06:40:57.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting lolcroc/craftingautomat/CraftingAutomatBlockEntity$CraftingFlag
+[13Jan2025 06:40:58.031] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[13Jan2025 06:42:27.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.174.51.209:46685] logged in with entity id 22445 at (2396.925000011921, -7.0, -934.6999999880791)
+[13Jan2025 06:42:27.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[13Jan2025 06:42:27.669] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[13Jan2025 06:42:27.669] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Jan2025 06:42:27.670] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[13Jan2025 06:42:33.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cerbon/bosses_of_mass_destruction/entity/custom/void_blossom/hitbox/HitboxId
+[13Jan2025 06:42:33.777] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[13Jan2025 06:42:36.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[13Jan2025 06:42:57.251] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[13Jan2025 06:43:01.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13Jan2025 06:43:07.984] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/Tiers$SlotType
+[13Jan2025 06:43:19.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2595ms or 51 ticks behind
+[13Jan2025 06:44:59.060] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/21133, l='ServerLevel[world]', x=198.17, y=65.85, z=-74.44] died: Honeyed Archer burned to death
+[13Jan2025 06:45:13.439] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/deposit/DepositFilterType

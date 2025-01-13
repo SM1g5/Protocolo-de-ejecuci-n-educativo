@@ -13691,6 +13691,36 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/yellow_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-01-10 08:44:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_yellow": {
+    "criteria": {
+      "has_item": "2025-01-10 08:44:07 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_crocodile_egg": {
+    "criteria": {
+      "has_crocodile_egg": "2025-01-10 08:44:14 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/crocodile_scute_decomposing": {
+    "criteria": {
+      "has_crocodile_scute": "2025-01-10 08:44:14 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/emu_feather_decomposing": {
+    "criteria": {
+      "has_emu_feather": "2025-01-10 08:44:47 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
       "discover": "2025-01-10 08:45:14 +0000"
@@ -13703,33 +13733,51 @@
     },
     "done": true
   },
-  "artifacts:adventurous_eater": {
+  "alexscaves:alexscaves/walk_on_rock_candy": {
     "criteria": {
-      "eat_artifact": "2025-01-10 08:49:39 +0000"
+      "cave_book": "2025-01-10 08:46:44 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/licowitch_tower": {
+  "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
-      "licowitch_tower": "2025-01-10 09:14:05 +0000"
+      "in_purple_soda": "2025-01-10 08:48:05 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/radiant_essence": {
+  "alexscaves:alexscaves/caramel": {
     "criteria": {
-      "mussel": "2025-01-10 09:15:36 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_crocodile_egg": {
-    "criteria": {
-      "has_crocodile_egg": "2025-01-10 08:44:14 +0000"
+      "mussel": "2025-01-10 08:48:08 +0000"
     },
     "done": true
   },
   "alexscaves:alexscaves/defeat_gumbeeper": {
     "criteria": {
       "killed": "2025-01-10 08:49:20 +0000"
+    },
+    "done": true
+  },
+  "artifacts:adventurous_eater": {
+    "criteria": {
+      "eat_artifact": "2025-01-10 08:49:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2025-01-10 08:53:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2025-01-10 08:55:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_candicorn": {
+    "criteria": {
+      "killed": "2025-01-10 08:57:24 +0000"
     },
     "done": true
   },
@@ -13745,45 +13793,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/enter_purple_soda": {
+  "alexscaves:alexscaves/licowitch_tower": {
     "criteria": {
-      "in_purple_soda": "2025-01-10 08:48:05 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/emu_feather_decomposing": {
-    "criteria": {
-      "has_emu_feather": "2025-01-10 08:44:47 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/walk_on_rock_candy": {
-    "criteria": {
-      "cave_book": "2025-01-10 08:46:44 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tame_candicorn": {
-    "criteria": {
-      "killed": "2025-01-10 08:57:24 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/caramel_apple": {
-    "criteria": {
-      "mussel": "2025-01-10 08:55:11 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/caramel": {
-    "criteria": {
-      "mussel": "2025-01-10 08:48:08 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/yellow_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-01-10 08:44:07 +0000"
+      "licowitch_tower": "2025-01-10 09:14:05 +0000"
     },
     "done": true
   },
@@ -13793,21 +13805,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/eat_candy_cane": {
+  "alexscaves:alexscaves/radiant_essence": {
     "criteria": {
-      "eat_candy_cane": "2025-01-10 08:53:44 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/crocodile_scute_decomposing": {
-    "criteria": {
-      "has_crocodile_scute": "2025-01-10 08:44:14 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_yellow": {
-    "criteria": {
-      "has_item": "2025-01-10 08:44:07 +0000"
+      "mussel": "2025-01-10 09:15:36 +0000"
     },
     "done": true
   },
