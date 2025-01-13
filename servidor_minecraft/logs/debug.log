@@ -10694,3 +10694,97 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jan2025 06:22:37.103] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [13Jan2025 06:22:37.104] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [13Jan2025 06:22:37.104] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md7554bc$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[13Jan2025 06:24:35.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/198, l='ServerLevel[world]', x=156.32, y=65.56, z=-53.20] died: Undead Knight suffocated in a wall
+[13Jan2025 06:25:09.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 06:25:09.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 06:27:31.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict/derelict_tower_bottom
+[13Jan2025 06:27:31.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict/waystone_derelict_tower_top
+[13Jan2025 06:27:47.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[13Jan2025 06:27:49.287] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
+[13Jan2025 06:27:49.605] [Server thread/DEBUG] [mixin/]: Mixing CrashReportSectionMixin from neruina.mixins.json into net.minecraft.CrashReportCategory
+[13Jan2025 06:28:12.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:jungle/jungle_tower_bottom
+[13Jan2025 06:28:13.375] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[13Jan2025 06:28:15.043] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[13Jan2025 06:28:17.079] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[13Jan2025 06:28:17.080] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[13Jan2025 06:28:17.084] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[13Jan2025 06:28:19.718] [Server thread/INFO] [Scaling Health/]: Blight Leafcutter Ant has died
+[13Jan2025 06:28:31.202] [Worker-Main-30/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Jan2025 06:28:31.202] [Worker-Main-30/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Jan2025 06:28:31.202] [Worker-Main-30/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Jan2025 06:28:31.203] [Worker-Main-30/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Jan2025 06:28:31.203] [Worker-Main-30/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Jan2025 06:28:31.203] [Worker-Main-30/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Jan2025 06:28:31.203] [Worker-Main-30/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Jan2025 06:28:31.204] [Worker-Main-30/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[13Jan2025 06:28:31.205] [Worker-Main-30/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Jan2025 06:28:31.207] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.207] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.207] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.207] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.207] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.208] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.208] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.208] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.208] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.208] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.208] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.208] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.208] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.208] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.208] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:31.208] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jan2025 06:28:32.857] [Worker-Main-30/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[13Jan2025 06:28:32.858] [Worker-Main-30/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[13Jan2025 06:28:32.859] [Worker-Main-30/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[13Jan2025 06:28:32.860] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[13Jan2025 06:28:32.860] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[13Jan2025 06:28:32.926] [Worker-Main-30/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[13Jan2025 06:28:32.978] [Worker-Main-30/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[13Jan2025 06:28:34.657] [Worker-Main-30/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[13Jan2025 06:28:41.324] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[13Jan2025 06:28:41.327] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[13Jan2025 06:28:41.327] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[13Jan2025 06:28:41.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[13Jan2025 06:28:43.073] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[13Jan2025 06:28:52.333] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[13Jan2025 06:28:54.529] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[13Jan2025 06:28:56.575] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
+[13Jan2025 06:29:51.393] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[13Jan2025 06:29:56.640] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[13Jan2025 06:29:57.859] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[13Jan2025 06:30:02.271] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[13Jan2025 06:30:09.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 06:30:09.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 06:30:58.178] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[13Jan2025 06:30:58.179] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[13Jan2025 06:30:58.180] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[13Jan2025 06:31:19.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[13Jan2025 06:31:19.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[13Jan2025 06:31:19.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[13Jan2025 06:31:19.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[13Jan2025 06:31:19.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[13Jan2025 06:31:19.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[13Jan2025 06:31:19.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[13Jan2025 06:31:19.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[13Jan2025 06:31:19.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[13Jan2025 06:31:19.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[13Jan2025 06:31:19.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[13Jan2025 06:31:19.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[13Jan2025 06:31:19.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[13Jan2025 06:31:32.082] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[13Jan2025 06:31:32.546] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[13Jan2025 06:31:34.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! -16.85097090871477,-2.01721483772306,4.886592123086871
+[13Jan2025 06:31:35.017] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[13Jan2025 06:31:36.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [An Ancient Tomb]
+[13Jan2025 06:32:29.923] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[13Jan2025 06:32:31.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Warden
+[13Jan2025 06:32:31.986] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ica_1016 at X: -869.2470918825803, Y: -49.833890739061786, Z: 212.28403857201047
+[13Jan2025 06:32:35.167] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jan2025 06:32:35.168] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jan2025 06:32:35.178] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[13Jan2025 06:32:46.806] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[13Jan2025 06:32:54.235] [Server thread/DEBUG] [mixin/]: Mixing PistonStructureResolverMixin from botania_xplat.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[13Jan2025 06:32:54.235] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_handler.PistonHandlerMixin from lithium.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[13Jan2025 06:32:54.235] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[13Jan2025 06:32:54.252] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType

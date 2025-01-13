@@ -1834,3 +1834,33 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jan2025 06:21:51.228] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
 [13Jan2025 06:22:37.104] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [13Jan2025 06:22:37.104] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md7554bc$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[13Jan2025 06:24:35.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/198, l='ServerLevel[world]', x=156.32, y=65.56, z=-53.20] died: Undead Knight suffocated in a wall
+[13Jan2025 06:27:49.287] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
+[13Jan2025 06:28:13.375] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[13Jan2025 06:28:15.043] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[13Jan2025 06:28:17.079] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[13Jan2025 06:28:17.080] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[13Jan2025 06:28:17.084] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[13Jan2025 06:28:19.718] [Server thread/INFO] [Scaling Health/]: Blight Leafcutter Ant has died
+[13Jan2025 06:28:32.978] [Worker-Main-30/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[13Jan2025 06:28:34.657] [Worker-Main-30/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[13Jan2025 06:28:43.073] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[13Jan2025 06:28:52.333] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[13Jan2025 06:28:54.529] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[13Jan2025 06:28:56.575] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
+[13Jan2025 06:29:51.393] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[13Jan2025 06:29:57.859] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[13Jan2025 06:30:02.271] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[13Jan2025 06:30:58.178] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[13Jan2025 06:31:32.082] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[13Jan2025 06:31:32.546] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[13Jan2025 06:31:34.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! -16.85097090871477,-2.01721483772306,4.886592123086871
+[13Jan2025 06:31:35.017] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[13Jan2025 06:31:36.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [An Ancient Tomb]
+[13Jan2025 06:32:29.923] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[13Jan2025 06:32:31.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Warden
+[13Jan2025 06:32:31.986] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ica_1016 at X: -869.2470918825803, Y: -49.833890739061786, Z: 212.28403857201047
+[13Jan2025 06:32:35.167] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jan2025 06:32:35.168] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jan2025 06:32:46.806] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[13Jan2025 06:32:54.252] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType

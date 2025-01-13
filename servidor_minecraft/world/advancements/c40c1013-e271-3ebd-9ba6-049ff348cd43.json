@@ -5446,18 +5446,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/soap": {
-    "criteria": {
-      "forge:ash": "2024-12-26 01:55:28 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2024-12-26 01:55:28 +0000"
-    },
-    "done": true
-  },
   "fluidtank:recipes/tank/tank_iron": {
     "criteria": {
       "has_forge_ingots/iron": "2024-12-26 01:54:50 +0000"
@@ -5473,6 +5461,18 @@
   "fluidtank:recipes/tank/tank_emerald": {
     "criteria": {
       "has_forge_gems/emerald": "2024-12-26 01:54:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2024-12-26 01:55:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2024-12-26 01:55:28 +0000"
     },
     "done": true
   },
