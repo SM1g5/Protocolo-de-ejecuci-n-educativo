@@ -14111,6 +14111,12 @@
     },
     "done": false
   },
+  "aether:incubate_moa": {
+    "criteria": {
+      "incubate_moa": "2025-01-13 09:12:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/carved_slab_from_carved_stone_stonecutting": {
     "criteria": {
       "has_carved_stone": "2025-01-13 08:18:08 +0000"
@@ -14440,6 +14446,13 @@
       "has_angelic_stone": "2025-01-13 07:25:26 +0000"
     },
     "done": true
+  },
+  "aether:obsidian_armor": {
+    "criteria": {
+      "obsidian_chestplate": "2025-01-13 09:12:52 +0000",
+      "obsidian_leggings": "2025-01-13 09:12:52 +0000"
+    },
+    "done": false
   },
   "aether:recipes/combat/zanite_helmet": {
     "criteria": {
