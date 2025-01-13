@@ -13811,9 +13811,75 @@
     },
     "done": true
   },
+  "aether:recipes/tools/holystone_pickaxe": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_pressure_plate": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_stonecutter": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_sword": {
+    "criteria": {
+      "has_zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/lamps": {
     "criteria": {
       "has_core_block": "2025-01-13 07:02:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/altar": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_ring_from_freezing": {
+    "criteria": {
+      "has_ring": "2025-01-13 07:21:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_brick_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_leggings": {
+    "criteria": {
+      "has_zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab": {
+    "criteria": {
+      "has_icestone": "2025-01-13 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_brick_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
     },
     "done": true
   },
@@ -13823,9 +13889,51 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/icestone_slab_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-01-13 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ambrosium_block": {
+    "criteria": {
+      "has_ambrosium_shard": "2025-01-13 07:21:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_axe": {
+    "criteria": {
+      "has_zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-01-13 07:02:11 +0000"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_boots": {
+    "criteria": {
+      "has_zanite": "2025-01-13 07:22:14 +0000"
     },
     "done": true
   },
@@ -13853,6 +13961,18 @@
     },
     "done": true
   },
+  "aether:recipes/tools/nature_staff": {
+    "criteria": {
+      "has_zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_bricks_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2025-01-13 07:11:49 +0000"
@@ -13868,6 +13988,54 @@
   "comforts:hammock_lime": {
     "criteria": {
       "has_lime_wool": "2025-01-13 07:11:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_axe": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_button": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe": {
+    "criteria": {
+      "has_zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_parachute": {
+    "criteria": {
+      "has_golden_aercloud": "2025-01-13 07:17:45 +0000"
+    },
+    "done": true
+  },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2025-01-13 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/healing_stone_enchanting": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_gloves": {
+    "criteria": {
+      "has_zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-01-13 07:16:30 +0000"
     },
     "done": true
   },
@@ -13889,9 +14057,57 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_chestplate": {
+    "criteria": {
+      "has_zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/zanite_block": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-01-13 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_hoe": {
+    "criteria": {
+      "has_zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
   "aether:the_aether": {
     "criteria": {
       "the_aether": "2025-01-13 07:08:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/holystone_sword": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/pillar_from_pillar_top_stonecutting": {
+    "criteria": {
+      "has_pillar_top": "2025-01-13 07:21:33 +0000"
     },
     "done": true
   },
@@ -13901,9 +14117,39 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_helmet": {
+    "criteria": {
+      "has_zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_aechor_petal": "2025-01-13 07:19:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
       "has_lime_wool": "2025-01-13 07:11:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/freezer": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_bricks": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wood_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-01-13 07:22:14 +0000"
     },
     "done": true
   },
@@ -13919,9 +14165,63 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/incubator": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-01-13 07:19:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_stone_from_pillar_top_stonecutting": {
+    "criteria": {
+      "has_pillar_top": "2025-01-13 07:21:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/glowstone_decomposing": {
     "criteria": {
       "has_glowstone": "2025-01-13 07:02:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_hoe": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/icestone_wall": {
+    "criteria": {
+      "has_icestone": "2025-01-13 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_pendant": {
+    "criteria": {
+      "has_zanite": "2025-01-13 07:22:14 +0000"
     },
     "done": true
   },
@@ -13937,9 +14237,45 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_ring": {
+    "criteria": {
+      "has_zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs": {
+    "criteria": {
+      "has_icestone": "2025-01-13 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_shovel": {
+    "criteria": {
+      "has_zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_shovel": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_with_vine": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_lime": {
     "criteria": {
       "has_lime_wool": "2025-01-13 07:11:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_with_moss": {
+    "criteria": {
+      "has_holystone": "2025-01-13 07:14:36 +0000"
     },
     "done": true
   },

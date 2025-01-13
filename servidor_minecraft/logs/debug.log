@@ -11672,3 +11672,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jan2025 07:13:15.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jan2025 07:13:15.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Jan2025 07:16:30.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Cold as Ice]
+[13Jan2025 07:17:18.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[13Jan2025 07:18:12.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has completed the challenge [Titan-Forged]
+[13Jan2025 07:18:17.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 07:18:17.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 07:19:23.653] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[13Jan2025 07:19:54.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Baby Food]
+[13Jan2025 07:20:07.376] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/65700, l='ServerLevel[world]', x=1399.30, y=107.00, z=-11157.70] died: Honeyed Archer was slain by claosgamer
+[13Jan2025 07:20:21.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has reached the goal [Worthy Equipment]
+[13Jan2025 07:21:02.151] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 07:21:36.291] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[13Jan2025 07:22:01.353] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 07:22:14.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Exotic Hardware]
+[13Jan2025 07:22:24.902] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[13Jan2025 07:22:24.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> duerme claos
+[13Jan2025 07:22:30.287] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[13Jan2025 07:22:44.597] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 07:23:17.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 07:23:17.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -14162,6 +14162,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-01-13 07:18:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-01-13 06:39:13 +0000"
@@ -14222,6 +14228,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-01-13 07:18:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
     "criteria": {
       "has_porkchop": "2025-01-13 06:39:13 +0000"
@@ -14243,6 +14255,12 @@
   "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2025-01-13 06:30:18 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-01-13 07:18:12 +0000"
     },
     "done": true
   },
