@@ -14501,6 +14501,12 @@
     },
     "done": true
   },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2025-01-13 09:07:16 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_bricks": {
     "criteria": {
       "has_holystone": "2025-01-13 07:14:36 +0000"

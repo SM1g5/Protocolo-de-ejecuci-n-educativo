@@ -14696,6 +14696,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/ichor_bottle": {
+    "criteria": {
+      "has_items": "2025-01-13 09:04:17 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/swet_slime_block": {
     "criteria": {
       "has_swet_balls": "2025-01-13 07:59:35 +0000"
