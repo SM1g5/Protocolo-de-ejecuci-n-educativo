@@ -5586,6 +5586,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/bone_meal_decomposing": {
+    "criteria": {
+      "has_bone_meal": "2025-01-13 08:38:07 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/forge_seeds_decomposing": {
     "criteria": {
       "has_seeds": "2025-01-13 07:37:30 +0000"
@@ -5881,6 +5887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-13 08:38:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2025-01-13 07:57:07 +0000"
@@ -5908,6 +5920,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-01-13 08:38:07 +0000"
     },
     "done": true
   },
@@ -5968,6 +5986,12 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-01-13 07:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-13 08:38:07 +0000"
     },
     "done": true
   },

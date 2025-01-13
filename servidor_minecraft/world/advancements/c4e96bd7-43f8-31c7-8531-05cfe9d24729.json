@@ -5384,9 +5384,10 @@
     "criteria": {
       "has_parent_recipe": "2024-11-23 05:57:44 +0000",
       "has_items1": "2025-01-10 08:32:07 +0000",
+      "has_items2": "2025-01-13 08:28:58 +0000",
       "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/thicc_scroll": {
     "criteria": {
@@ -5467,10 +5468,11 @@
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
       "has_parent_recipe": "2024-11-23 05:57:44 +0000",
+      "has_items1": "2025-01-13 08:28:58 +0000",
       "has_items2": "2025-01-10 08:32:07 +0000",
       "is_cursed_one": "2024-12-26 05:09:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
@@ -14172,6 +14174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 08:29:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/holystone_pickaxe": {
     "criteria": {
       "has_holystone": "2025-01-13 07:55:49 +0000"
@@ -14199,6 +14207,12 @@
   "aether:recipes/decorations/holystone_wall_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-01-13 07:55:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/magma_cream_decomposing": {
+    "criteria": {
+      "has_magma_cream": "2025-01-13 08:29:19 +0000"
     },
     "done": true
   },
@@ -14253,6 +14267,12 @@
   "aether:recipes/decorations/holystone_brick_wall_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-01-13 07:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 08:29:44 +0000"
     },
     "done": true
   },
@@ -14322,6 +14342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 08:29:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/enchanted_dart_enchanting": {
     "criteria": {
       "has_golden_dart": "2025-01-13 08:04:44 +0000"
@@ -14337,6 +14363,12 @@
   "aether:recipes/building_blocks/carved_stairs_from_carved_stone_stonecutting": {
     "criteria": {
       "has_carved_stone": "2025-01-13 08:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 08:29:44 +0000"
     },
     "done": true
   },
@@ -14361,6 +14393,18 @@
   "aether:recipes/combat/zanite_boots": {
     "criteria": {
       "has_zanite": "2025-01-13 08:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-13 08:29:15 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/hoglin_sirloin": {
+    "criteria": {
+      "hoglin_sirloin": "2025-01-13 08:36:36 +0000"
     },
     "done": true
   },
@@ -14484,6 +14528,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/avarice_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-01-13 08:28:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/holystone_axe": {
     "criteria": {
       "has_holystone": "2025-01-13 07:55:49 +0000"
@@ -14544,9 +14594,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 08:29:44 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/lime_sheet": {
     "criteria": {
       "has_lime_sheet": "2025-01-13 06:39:54 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/darkest_scroll": {
+    "criteria": {
+      "has_items": "2025-01-13 08:28:58 +0000"
     },
     "done": true
   },
@@ -14559,6 +14621,12 @@
   "aether:recipes/combat/netherite_helmet_repairing": {
     "criteria": {
       "has_netherite_helmet": "2025-01-13 07:18:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 08:29:44 +0000"
     },
     "done": true
   },
@@ -14592,6 +14660,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-01-13 08:36:36 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/skyroot_pickaxe": {
     "criteria": {
       "has_planks": "2025-01-13 08:23:17 +0000"
@@ -14619,6 +14693,18 @@
   "aether:recipes/redstone/swet_slime_block": {
     "criteria": {
       "has_swet_balls": "2025-01-13 07:59:35 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/discover_scroll": {
+    "criteria": {
+      "spellstone": "2025-01-13 08:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-01-13 08:28:53 +0000"
     },
     "done": true
   },
@@ -14676,6 +14762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-13 08:29:19 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_bricks": {
     "criteria": {
       "has_holystone": "2025-01-13 07:55:49 +0000"
@@ -14685,6 +14777,12 @@
   "aether:recipes/combat/wood_zanite_vanilla_shield": {
     "criteria": {
       "has_zanite_gemstone": "2025-01-13 08:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 08:29:44 +0000"
     },
     "done": true
   },
@@ -14739,6 +14837,12 @@
   "aether:recipes/decorations/incubator": {
     "criteria": {
       "has_holystone": "2025-01-13 07:55:49 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_smoking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-01-13 08:36:36 +0000"
     },
     "done": true
   },
@@ -14880,6 +14984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 08:29:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/holystone_shovel": {
     "criteria": {
       "has_holystone": "2025-01-13 07:55:49 +0000"
@@ -14922,9 +15032,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 08:29:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-01-13 08:19:51 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/cursed_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-01-13 08:28:58 +0000"
     },
     "done": true
   },

@@ -13835,6 +13835,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_fence": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-13 08:36:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/carved_stairs": {
     "criteria": {
       "has_carved_stone": "2025-01-13 08:18:08 +0000"
@@ -13880,6 +13886,12 @@
   "aether:recipes/decorations/altar": {
     "criteria": {
       "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/aether/sign_post_skyroot": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:36:21 +0000"
     },
     "done": true
   },
@@ -14045,9 +14057,21 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_fence_gate": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-13 08:36:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_boots": {
     "criteria": {
       "has_zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/skyroot_stick": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:36:21 +0000"
     },
     "done": true
   },
@@ -14138,6 +14162,24 @@
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2025-01-13 07:11:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_axe": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:36:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/skyroot_bucket": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:36:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_trapdoor": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-13 08:36:21 +0000"
     },
     "done": true
   },
@@ -14249,6 +14291,18 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:36:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_shovel": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:36:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/angelic_stairs": {
     "criteria": {
       "has_angelic_stone": "2025-01-13 07:25:26 +0000"
@@ -14318,6 +14372,12 @@
   "aether:the_aether": {
     "criteria": {
       "the_aether": "2025-01-13 07:08:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_pickaxe": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:36:21 +0000"
     },
     "done": true
   },
@@ -14393,6 +14453,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_dart_shooter": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-13 08:36:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/hellfire_slab": {
     "criteria": {
       "has_hellfire_stone": "2025-01-13 08:11:35 +0000"
@@ -14438,6 +14504,12 @@
   "aether:recipes/building_blocks/mossy_holystone_stairs_from_mossy_holystone_stonecutting": {
     "criteria": {
       "has_mossy_holystone": "2025-01-13 07:55:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_hoe": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:36:21 +0000"
     },
     "done": true
   },
@@ -14507,6 +14579,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_pressure_plate": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-13 08:36:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_slab": {
     "criteria": {
       "has_holystone": "2025-01-13 07:14:36 +0000"
@@ -14567,6 +14645,12 @@
     },
     "done": false
   },
+  "aether:recipes/combat/skyroot_sword": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:36:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_ring_repairing": {
     "criteria": {
       "has_zanite_ring": "2025-01-13 07:30:19 +0000"
@@ -14591,9 +14675,27 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_sign": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-13 08:36:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_stairs": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-13 08:36:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/icestone_stairs": {
     "criteria": {
       "has_icestone": "2025-01-13 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_button": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-13 08:36:21 +0000"
     },
     "done": true
   },
@@ -14627,6 +14729,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_door": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-13 08:36:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/mossy_holystone_with_vine": {
     "criteria": {
       "has_holystone": "2025-01-13 07:14:36 +0000"
@@ -14642,6 +14750,12 @@
   "aether:recipes/decorations/mossy_holystone_wall": {
     "criteria": {
       "has_mossy_holystone": "2025-01-13 07:55:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_slab": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-13 08:36:21 +0000"
     },
     "done": true
   },

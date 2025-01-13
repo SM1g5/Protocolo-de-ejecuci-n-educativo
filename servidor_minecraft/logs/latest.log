@@ -2056,3 +2056,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jan2025 08:28:25.040] [Server thread/INFO] [Scaling Health/]: Blight Gelada Monkey was killed by AkujinPas
 [13Jan2025 08:28:53.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [War Pigs]
 [13Jan2025 08:28:58.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Supersolid Wizard]
+[13Jan2025 08:29:14.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[13Jan2025 08:29:38.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Patti the Ogre Slayer'/114351, l='ServerLevel[world]', x=-149.30, y=45.00, z=-323.41] died: Patti the Ogre Slayer was slain by Imp
+[13Jan2025 08:37:49.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 burned to death
+[13Jan2025 08:37:49.447] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ica_1016 at X: -102.08196712059322, Y: 36.1875, Z: 69.23750001192093
+[13Jan2025 08:37:52.619] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jan2025 08:37:52.619] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jan2025 08:39:24.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 fell out of the world
+[13Jan2025 08:39:24.727] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 1485.4468677499872, Y: -569.7961356074161, Z: -1214.5635068311153
+[13Jan2025 08:39:26.786] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jan2025 08:39:26.786] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
