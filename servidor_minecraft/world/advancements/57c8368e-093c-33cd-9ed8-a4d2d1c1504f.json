@@ -14219,6 +14219,12 @@
     },
     "done": true
   },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2025-01-13 08:42:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_wood": {
     "criteria": {
       "has_log": "2025-01-13 07:38:05 +0000"

@@ -11891,3 +11891,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jan2025 08:39:26.786] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [13Jan2025 08:39:26.786] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [13Jan2025 08:39:26.824] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[13Jan2025 08:39:39.335] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[13Jan2025 08:39:41.733] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 08:40:13.143] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-889, y=-17, z=259} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 08:40:13.433] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Extradimensional Vessel'/126845, l='ServerLevel[world]', x=-102.08, y=37.69, z=69.24]
+[13Jan2025 08:40:13.433] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/126845, l='ServerLevel[world]', x=-102.08, y=37.69, z=69.24]
+[13Jan2025 08:40:56.514] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CueBallEntity['Possessed Engineer'/126927, l='ServerLevel[world]', x=-158.15, y=71.25, z=149.21] died: Possessed Engineer fell from a high place
+[13Jan2025 08:41:02.418] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-113, y=105, z=27} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[13Jan2025 08:41:53.333] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[13Jan2025 08:41:53.333] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[13Jan2025 08:42:54.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [To Infinity and Beyond!]
+[13Jan2025 08:43:23.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 08:43:23.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 08:45:01.388] [Server thread/INFO] [torcherino-api/]: [Torcherino] claosgamer(c40c1013-e271-3ebd-9ba6-049ff348cd43) placed a torcherino:wall_torcherino at 1400, 111, -11185.
+[13Jan2025 08:45:10.546] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 08:45:10.546] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Jan2025 08:45:31.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claosgamer lost connection: Disconnected
+[13Jan2025 08:45:31.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer left the game
+[13Jan2025 08:48:23.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 08:48:23.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 08:49:19.159] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder

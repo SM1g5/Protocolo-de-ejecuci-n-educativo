@@ -2066,3 +2066,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jan2025 08:39:24.727] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 1485.4468677499872, Y: -569.7961356074161, Z: -1214.5635068311153
 [13Jan2025 08:39:26.786] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [13Jan2025 08:39:26.786] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jan2025 08:40:13.433] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Extradimensional Vessel'/126845, l='ServerLevel[world]', x=-102.08, y=37.69, z=69.24]
+[13Jan2025 08:40:13.433] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/126845, l='ServerLevel[world]', x=-102.08, y=37.69, z=69.24]
+[13Jan2025 08:40:56.514] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CueBallEntity['Possessed Engineer'/126927, l='ServerLevel[world]', x=-158.15, y=71.25, z=149.21] died: Possessed Engineer fell from a high place
+[13Jan2025 08:42:54.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [To Infinity and Beyond!]
+[13Jan2025 08:45:01.388] [Server thread/INFO] [torcherino-api/]: [Torcherino] claosgamer(c40c1013-e271-3ebd-9ba6-049ff348cd43) placed a torcherino:wall_torcherino at 1400, 111, -11185.
+[13Jan2025 08:45:31.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claosgamer lost connection: Disconnected
+[13Jan2025 08:45:31.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer left the game
+[13Jan2025 08:49:19.159] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder

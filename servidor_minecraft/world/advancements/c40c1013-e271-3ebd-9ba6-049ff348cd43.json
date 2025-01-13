@@ -5766,6 +5766,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/phantom_membrane_decomposing": {
+    "criteria": {
+      "has_phantom_membrane": "2025-01-13 08:40:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-01-13 08:04:14 +0000"
@@ -5817,6 +5823,12 @@
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane_from_bio_forging": {
+    "criteria": {
+      "has_phantom_membrane": "2025-01-13 08:40:35 +0000"
     },
     "done": true
   },
@@ -5971,6 +5983,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane_pane_from_bio_forging": {
+    "criteria": {
+      "has_phantom_membrane": "2025-01-13 08:40:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
       "has_planks": "2025-01-13 08:04:14 +0000"
@@ -5986,6 +6004,12 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-01-13 07:36:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-01-13 08:40:35 +0000"
     },
     "done": true
   },
