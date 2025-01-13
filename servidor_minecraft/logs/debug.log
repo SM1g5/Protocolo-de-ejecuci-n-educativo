@@ -11186,3 +11186,213 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jan2025 06:45:13.439] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/deposit/DepositFilterType
 [13Jan2025 06:45:16.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jan2025 06:45:16.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 06:46:02.081] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[13Jan2025 06:50:01.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13Jan2025 06:50:19.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 06:50:19.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 06:50:21.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[13Jan2025 06:50:33.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[13Jan2025 06:50:38.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[13Jan2025 06:50:40.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/derelict_grass_tower_bottom
+[13Jan2025 06:50:40.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/waystone_derelict_grass_tower_top
+[13Jan2025 06:50:57.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3738ms or 74 ticks behind
+[13Jan2025 06:51:45.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Jan2025 06:51:45.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/base_plate
+[13Jan2025 06:51:45.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/vindicator
+[13Jan2025 06:51:45.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/pillager
+[13Jan2025 06:51:45.758] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/fields/field_1
+[13Jan2025 06:51:45.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/fields/field_2
+[13Jan2025 06:51:45.760] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/outpost_captain
+[13Jan2025 06:51:53.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[13Jan2025 06:52:03.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
+[13Jan2025 06:52:23.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5503ms or 110 ticks behind
+[13Jan2025 06:52:28.405] [Worker-Main-46/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[13Jan2025 06:52:28.414] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[13Jan2025 06:52:31.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[13Jan2025 06:52:31.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_03
+[13Jan2025 06:52:31.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_03
+[13Jan2025 06:52:31.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_02
+[13Jan2025 06:52:31.055] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[13Jan2025 06:52:31.057] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/meadow_lamp_1
+[13Jan2025 06:52:31.057] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_04
+[13Jan2025 06:52:31.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_01
+[13Jan2025 06:52:31.064] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_02
+[13Jan2025 06:52:31.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_03
+[13Jan2025 06:52:31.068] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_02
+[13Jan2025 06:52:31.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_02
+[13Jan2025 06:52:31.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_05
+[13Jan2025 06:52:31.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_01
+[13Jan2025 06:52:31.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_03
+[13Jan2025 06:52:31.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_01
+[13Jan2025 06:52:32.385] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[13Jan2025 06:52:32.395] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[13Jan2025 06:52:32.401] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[13Jan2025 06:52:34.557] [Worker-Main-32/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1949504295,275860877,-1925964201,-719011334],type:"minecraft:entity",y_offset:0.36f}}]
+[13Jan2025 06:52:34.558] [Worker-Main-32/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-88314378,-629718797,-1822809685,-214951148],type:"minecraft:entity",y_offset:0.36f}}]
+[13Jan2025 06:52:41.806] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1076}
+[13Jan2025 06:52:41.808] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1076}
+[13Jan2025 06:52:41.808] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1079}
+[13Jan2025 06:52:41.808] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1077}
+[13Jan2025 06:52:41.808] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1080}
+[13Jan2025 06:52:41.808] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[13Jan2025 06:52:41.809] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[13Jan2025 06:52:41.809] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1080}
+[13Jan2025 06:52:41.809] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1079}
+[13Jan2025 06:52:41.809] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1077}
+[13Jan2025 06:52:44.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6049ms or 120 ticks behind
+[13Jan2025 06:52:46.267] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1080}
+[13Jan2025 06:52:46.267] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1079}
+[13Jan2025 06:52:46.268] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1077}
+[13Jan2025 06:52:47.234] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[13Jan2025 06:52:52.632] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1076}
+[13Jan2025 06:52:52.633] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1076}
+[13Jan2025 06:52:52.633] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1079}
+[13Jan2025 06:52:52.633] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1077}
+[13Jan2025 06:52:52.633] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1080}
+[13Jan2025 06:52:52.633] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[13Jan2025 06:52:52.633] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[13Jan2025 06:52:54.049] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[13Jan2025 06:52:55.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[13Jan2025 06:52:55.993] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_2 is being run through DFU (hash 9e1c91ef32150cb3905faf1749d9b2808c6a422b66f325c8868015cb7f7c5db7), this will cause launch time delays
+[13Jan2025 06:52:57.762] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-52, z=1054}
+[13Jan2025 06:52:57.787] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-126, y=-57, z=1073}
+[13Jan2025 06:52:57.788] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-125, y=-57, z=1073}
+[13Jan2025 06:52:57.788] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-124, y=-57, z=1073}
+[13Jan2025 06:52:57.790] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-52, z=1054}
+[13Jan2025 06:52:57.804] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-128, y=-57, z=1073}
+[13Jan2025 06:52:57.804] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-128, y=-57, z=1073}
+[13Jan2025 06:52:59.470] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[13Jan2025 06:52:59.543] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[13Jan2025 06:52:59.544] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[13Jan2025 06:52:59.545] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[13Jan2025 06:53:06.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6493ms or 129 ticks behind
+[13Jan2025 06:53:13.670] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1048}
+[13Jan2025 06:53:13.670] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1049}
+[13Jan2025 06:53:13.671] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1051}
+[13Jan2025 06:53:16.784] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1048}
+[13Jan2025 06:53:16.784] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1048}
+[13Jan2025 06:53:16.784] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1048}
+[13Jan2025 06:53:16.784] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1048}
+[13Jan2025 06:53:16.784] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-54, z=1050}
+[13Jan2025 06:53:30.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9029ms or 180 ticks behind
+[13Jan2025 06:53:34.308] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[13Jan2025 06:53:36.980] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[13Jan2025 06:53:39.203] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[13Jan2025 06:53:39.215] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[13Jan2025 06:53:40.659] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[13Jan2025 06:53:41.165] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[13Jan2025 06:53:41.175] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[13Jan2025 06:53:41.182] [Worker-Main-30/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[13Jan2025 06:53:41.184] [Worker-Main-30/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[13Jan2025 06:53:41.195] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_main_part_7 is being run through DFU (hash 33e72c9737b4c1743aa8375f47c44280b13636a36e1623853c862a7b15129ad3), this will cause launch time delays
+[13Jan2025 06:53:41.238] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_main_part_0 is being run through DFU (hash d344bab9e6cc9b8514d0accee398efa6c9a96851f8e154d5104ea7d271c8ed27), this will cause launch time delays
+[13Jan2025 06:53:41.272] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_main_part_4 is being run through DFU (hash 7e923bb40248ae124f1fcc9bf3c7e07560fed1cd6caf6cfe7eea72aa4aa0be7c), this will cause launch time delays
+[13Jan2025 06:53:41.288] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_main_part_3 is being run through DFU (hash b448c5b8e539a3ddd94d4a83b666a8de4430c7e61136047e090ae40a0a2c792c), this will cause launch time delays
+[13Jan2025 06:53:41.352] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_main_part_6 is being run through DFU (hash 8f4728883ecda1a8f67c34741e01432677e98ee41608a66d4b9fc8e5c9f0617a), this will cause launch time delays
+[13Jan2025 06:53:41.366] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_main_part_5 is being run through DFU (hash 0b31fb4ef49faa491e957d5349f80b161a27a3e5641f24d7da9ed07f89576320), this will cause launch time delays
+[13Jan2025 06:53:41.420] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_main_part_2 is being run through DFU (hash b8c1c6e7b64909378f45169b7e7fd0c93b25e4a0127628bacb7c2d4de89b380b), this will cause launch time delays
+[13Jan2025 06:53:41.438] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_main_part_1 is being run through DFU (hash 4b62a7583689608bdfbaa851b48ff6c6105c738e172977512814b2409e95d88a), this will cause launch time delays
+[13Jan2025 06:53:41.466] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_layout_part_3_base is being run through DFU (hash c86bdb14475d0d094f02c6a845c388e5af1039e1c247646ab53a65d7eef0bb8b), this will cause launch time delays
+[13Jan2025 06:53:41.471] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_layout_part_2_middle is being run through DFU (hash 0442ca43c0c908942f67bf33a0f4a93049265e4ec52aa5fe6af2714a2992af66), this will cause launch time delays
+[13Jan2025 06:53:41.477] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_layout_part_0_top is being run through DFU (hash ccf05f1f2e29705e1cb2934e5838d5b091312bcc331d9be1ed8409dbd64e693e), this will cause launch time delays
+[13Jan2025 06:53:41.506] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_top_part_2 is being run through DFU (hash efd73b5093c436b38a78fe47dc2231f38b444474a25074e7b44c36ab7a381828), this will cause launch time delays
+[13Jan2025 06:53:41.584] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_inner_top_0 is being run through DFU (hash 313cd9bf8c9845d9282c053613be76074b6a2a7619746be6e83c39180db99184), this will cause launch time delays
+[13Jan2025 06:53:41.935] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_top_part_0 is being run through DFU (hash 53bb3b38d72ce6b3a34a65ce4089e0bdbdd5ae64fcece96584304d3382e96cd0), this will cause launch time delays
+[13Jan2025 06:53:42.055] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_top_part_6 is being run through DFU (hash 535e912bc025d837aea13e8e8ffc1697bbb5b9ca08449f6c9edbc9490543ee34), this will cause launch time delays
+[13Jan2025 06:53:42.082] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_top_part_7 is being run through DFU (hash ce63643d29c843d3ef4a49a892fe60e3650b557713b64f007c20ea5a13fad8e4), this will cause launch time delays
+[13Jan2025 06:53:42.146] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_top_part_1 is being run through DFU (hash 59567d363b4ab7206c10b74463803f7884ad36d5ca3777d78177bedc0b9d9877), this will cause launch time delays
+[13Jan2025 06:53:42.176] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_top_part_3 is being run through DFU (hash b8b791b815a96185d597f12642349a75f1be85ea04cbba781c746f3641dbccc4), this will cause launch time delays
+[13Jan2025 06:53:42.245] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_top_part_4 is being run through DFU (hash 5c942ddbc9d50e3310b660c434a47b968c79d1ef8fb8b6def47641efca087510), this will cause launch time delays
+[13Jan2025 06:53:42.286] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_inner_part_0 is being run through DFU (hash f61befc009c00a842cb4dd3bf3bf469c829955006cf219112c5c3a98ee575ae8), this will cause launch time delays
+[13Jan2025 06:53:42.544] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_base_part_4 is being run through DFU (hash 00b15b61cb8ec3392eb8b31db058c20fd629c644c12f19ed26369c87f4341641), this will cause launch time delays
+[13Jan2025 06:53:42.552] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_base_part_5 is being run through DFU (hash cb0e865d37dd15123de59a4924fa7b3eb7a0f7e7cbd5abcd49b1ec40ec00161e), this will cause launch time delays
+[13Jan2025 06:53:42.574] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_base_part_0 is being run through DFU (hash 518eebfc10e0e3a37aef894b08ef3c1ad943ebf9232d287f777eea039dfab3bc), this will cause launch time delays
+[13Jan2025 06:53:42.595] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_base_part_3 is being run through DFU (hash a8629669a7f1a1337b82fc090abde4e9a52107570e169bc788875be1f98732f4), this will cause launch time delays
+[13Jan2025 06:53:42.643] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_base_part_7 is being run through DFU (hash 5793b73408971247b9a583115c6eb26f4fd9e93ef3b877c269e7832ef4baf459), this will cause launch time delays
+[13Jan2025 06:53:42.664] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_base_part_2 is being run through DFU (hash 9c20facf5fb554fac5bbc1e5527d3ebc3a941735d56f47bf5352892a874adc60), this will cause launch time delays
+[13Jan2025 06:53:42.669] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_base_part_6 is being run through DFU (hash c2f9f63449ff0bd50c8bdd0bad92076225c50815ade95b838a5b9d7a8f1e3cab), this will cause launch time delays
+[13Jan2025 06:53:42.674] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_base_part_1 is being run through DFU (hash 22622258a01ce8b8b7860a73d1807fc25f11483df558c8cb0b2881bb9e008ccc), this will cause launch time delays
+[13Jan2025 06:53:42.691] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_top_part_5 is being run through DFU (hash f77f6a9472b0bebd7da0f021aed529fc05e466cd9771776421fbb3a58c1df35b), this will cause launch time delays
+[13Jan2025 06:53:42.759] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_level_2 is being run through DFU (hash 55756d13c4d9f768e78401337c1ba393a718bb002a0929d2514109120f778829), this will cause launch time delays
+[13Jan2025 06:53:42.794] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_level_1 is being run through DFU (hash 23ec0a4fe97a86b748ac5047faea712b1073bde2db2aacea6fe35c3f34c5fda7), this will cause launch time delays
+[13Jan2025 06:53:42.831] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_skeleton_0 is being run through DFU (hash 3ed23ffd32c77132828e6ce9946833d13d6eb7806f51f7cda63c836b03d809dd), this will cause launch time delays
+[13Jan2025 06:53:42.920] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_cave_spider_0 is being run through DFU (hash 4ae215d5d8505f27962f962766b37a50fbe033e818abb8acf2f81c0cbc7f2f81), this will cause launch time delays
+[13Jan2025 06:53:42.928] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_wither_skeleton_0 is being run through DFU (hash 1b7c3d820ca4b152b3b2589da79c8a5830dc6f338ebe467bad98960293bee621), this will cause launch time delays
+[13Jan2025 06:53:42.941] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_cave_spider_1 is being run through DFU (hash efc7bfed6e055b9f492de541d75453e8892e4a39c11176a3d5deaac2855a9663), this will cause launch time delays
+[13Jan2025 06:53:42.956] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_room_1 is being run through DFU (hash a2ff5e94f2f480c8594b388139fa234d6b40c9e4ab093ee52a742f800ac0912f), this will cause launch time delays
+[13Jan2025 06:53:42.962] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_room_5 is being run through DFU (hash 0ebd67684e1e55c9ac2e1a8001b9509c8a603ded6ca19cffb67467b2681b2cea), this will cause launch time delays
+[13Jan2025 06:53:42.976] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_level_0 is being run through DFU (hash 232ccad8243f44a60903b82ab84ff391224f59682ada3c849e2ea72e2733d06c), this will cause launch time delays
+[13Jan2025 06:53:43.014] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_room_7 is being run through DFU (hash 6a545c14b0302889f5dfb6d1aaef73eef9b4445783fc41c6e5ba22bd9485f26f), this will cause launch time delays
+[13Jan2025 06:53:43.020] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_room_0 is being run through DFU (hash e2071ae10a26d111030a6ce2e62174130ed1289e590221329731768dd47c0bec), this will cause launch time delays
+[13Jan2025 06:53:43.026] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_room_2 is being run through DFU (hash 0d0cad0b222c2d46c1aeef69e4f885d0b447eb3d4216879ac310ff551311181d), this will cause launch time delays
+[13Jan2025 06:53:43.030] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_room_6 is being run through DFU (hash 5faa7d64cde679cedf051047a8f19d04e7162c5af6d858fbcc90c90fef80edd6), this will cause launch time delays
+[13Jan2025 06:53:43.035] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_room_8 is being run through DFU (hash 53f045410686822cd37e5a852e5d058358949ac78b50e03b32464b98d855cf42), this will cause launch time delays
+[13Jan2025 06:53:43.045] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_room_3 is being run through DFU (hash 6d85c5a1684c9293fa4cb205eab736e0ef7d1f4a78393d0aed399a5f3b381ac1), this will cause launch time delays
+[13Jan2025 06:53:43.050] [Worker-Main-30/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_room_4 is being run through DFU (hash 3b28802fe8cb608a4b1763d91836ef0eaa91f466ef6d9ace5429ebfe143b8095), this will cause launch time delays
+[13Jan2025 06:53:47.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[13Jan2025 06:53:55.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10027ms or 200 ticks behind
+[13Jan2025 06:54:12.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2767ms or 55 ticks behind
+[13Jan2025 06:54:22.004] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/brandon3055/brandonscore/inventory/PlayerSlot$EnumInvCategory
+[13Jan2025 06:54:26.029] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[13Jan2025 06:54:29.365] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of doom:hell_church
+[13Jan2025 06:54:30.955] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[13Jan2025 06:54:31.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3877ms or 77 ticks behind
+[13Jan2025 06:54:46.884] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[13Jan2025 06:54:46.890] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[13Jan2025 06:54:46.894] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3
+[13Jan2025 06:54:46.939] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[13Jan2025 06:54:46.952] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[13Jan2025 06:54:46.974] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[13Jan2025 06:54:46.980] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[13Jan2025 06:54:46.991] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[13Jan2025 06:54:47.014] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[13Jan2025 06:54:47.031] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[13Jan2025 06:54:47.051] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[13Jan2025 06:54:47.065] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[13Jan2025 06:54:47.095] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_03
+[13Jan2025 06:54:47.097] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/corner/med_small_house_1
+[13Jan2025 06:54:47.098] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/corner/med_small_house_2
+[13Jan2025 06:54:47.100] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_1
+[13Jan2025 06:54:47.101] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_2
+[13Jan2025 06:54:47.102] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_3
+[13Jan2025 06:54:47.103] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_4
+[13Jan2025 06:54:47.104] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_5
+[13Jan2025 06:54:47.112] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_01
+[13Jan2025 06:54:47.122] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/promenade/promenade_03
+[13Jan2025 06:54:47.122] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/med_planter_1
+[13Jan2025 06:54:47.123] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/med_lamp_1
+[13Jan2025 06:54:47.130] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[13Jan2025 06:54:47.135] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/promenade/promenade_01
+[13Jan2025 06:54:47.147] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_05
+[13Jan2025 06:54:47.177] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_02
+[13Jan2025 06:54:47.178] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/avenue/avenue_end_02
+[13Jan2025 06:54:47.179] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/avenue/avenue_end_01
+[13Jan2025 06:54:47.247] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_fisher_1
+[13Jan2025 06:54:47.255] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_farmer_and_mason_1
+[13Jan2025 06:54:47.319] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/promenade/promenade_02
+[13Jan2025 06:54:47.321] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/promenade/promenade_end_01
+[13Jan2025 06:54:47.321] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/promenade/promenade_end_02
+[13Jan2025 06:54:47.380] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_04
+[13Jan2025 06:54:49.940] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[13Jan2025 06:54:49.951] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[13Jan2025 06:54:49.959] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[13Jan2025 06:54:49.976] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[13Jan2025 06:54:50.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3993ms or 79 ticks behind
+[13Jan2025 06:54:50.749] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:badlands/badlands_tower_bottom
+[13Jan2025 06:54:50.756] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:desert/desert_tower_bottom
+[13Jan2025 06:54:50.762] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ice/ice_tower_bottom
+[13Jan2025 06:55:09.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4376ms or 87 ticks behind
+[13Jan2025 06:55:10.254] [Worker-Main-32/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/entity/XpReward
+[13Jan2025 06:55:18.270] [Worker-Main-31/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_2 is being run through DFU (hash 86371af7267837aec071c2e40f75549e7be1b9cbdd30b9cf2cb1f292f6efb01b), this will cause launch time delays
+[13Jan2025 06:55:18.294] [Worker-Main-46/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_post_1 is being run through DFU (hash 206fb607e4a9c0ccef89bff4d8f756f8e92f47141f1711c8daa500bd79445f43), this will cause launch time delays
+[13Jan2025 06:55:21.226] [Worker-Main-46/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_0 is being run through DFU (hash bc1d0e2082d28513a1fc5fd04e7292a6f65303df58af3f55ffd7d4bde6995560), this will cause launch time delays
+[13Jan2025 06:55:21.974] [Worker-Main-31/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_post_0 is being run through DFU (hash 41993b47b6a299d7545695cd0b2fb42a1c1bc03231a57947687cef1527cdd088), this will cause launch time delays
+[13Jan2025 06:55:23.453] [Worker-Main-30/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_4 is being run through DFU (hash 1b220da911d5ed271f3af186764277519fde475840912a6fd4a27c455f0267cf), this will cause launch time delays
+[13Jan2025 06:55:29.386] [Worker-Main-31/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_post_3 is being run through DFU (hash 098a96c1a7e55c9cbdb4a3557e3c4f79ef3da84d6e3475caad59ad5d8378959e), this will cause launch time delays
+[13Jan2025 06:55:30.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5346ms or 106 ticks behind
+[13Jan2025 06:55:31.036] [Worker-Main-32/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_1 is being run through DFU (hash 85c02294e509026321fe1d46047c8db8ff8bea6fa62ffa655e6cae5698bea0c1), this will cause launch time delays
+[13Jan2025 06:55:43.083] [Worker-Main-31/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_3 is being run through DFU (hash 1e3908db605d8826f0a9ae463ed633837cec70a4c8c9fdc9259d18995b0b0bd8), this will cause launch time delays
+[13Jan2025 06:55:45.565] [Worker-Main-32/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_post_2 is being run through DFU (hash 468b86aeb448489afb2a344fbae2d31528221d5c9de630efb2a41f68665feae0), this will cause launch time delays
+[13Jan2025 06:55:50.545] [Worker-Main-31/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_5 is being run through DFU (hash 4508266768d86a4355f9a13c8c1816e664e94bab9cb0556f50251788c70eecfb), this will cause launch time delays
+[13Jan2025 06:55:52.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6849ms or 136 ticks behind
+[13Jan2025 06:55:58.310] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
