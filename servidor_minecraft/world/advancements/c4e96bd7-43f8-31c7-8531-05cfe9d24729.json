@@ -14248,6 +14248,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/ambrosium_shard_from_blasting": {
+    "criteria": {
+      "has_ambrosium_ore": "2025-01-13 08:00:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_gray_to_dragonscales_gray": {
     "criteria": {
       "has_dragonscale_gray": "2025-01-13 06:47:45 +0000"
@@ -14266,6 +14272,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/enchanted_dart_enchanting": {
+    "criteria": {
+      "has_golden_dart": "2025-01-13 08:04:44 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/decorations/shroomlamp": {
     "criteria": {
       "has_the_recipe": "2025-01-13 07:52:43 +0000"
@@ -14278,15 +14290,33 @@
     },
     "done": true
   },
+  "aether:recipes/misc/ice_pendant_from_freezing": {
+    "criteria": {
+      "has_pendant": "2025-01-13 08:04:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_sofa": {
     "criteria": {
       "has_wool": "2025-01-13 06:39:54 +0000"
     },
     "done": true
   },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2025-01-13 07:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
       "has_lime_wool": "2025-01-13 06:39:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ambrosium_shard_from_smelting": {
+    "criteria": {
+      "has_ambrosium_ore": "2025-01-13 08:00:54 +0000"
     },
     "done": true
   },
@@ -14356,6 +14386,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2025-01-13 07:59:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_helmet_repairing": {
     "criteria": {
       "has_netherite_helmet": "2025-01-13 07:18:12 +0000"
@@ -14389,6 +14425,12 @@
   "aether:recipes/building_blocks/holystone_stairs_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-01-13 07:55:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2025-01-13 07:59:35 +0000"
     },
     "done": true
   },
@@ -14521,6 +14563,18 @@
   "aether:recipes/building_blocks/holystone_slab_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-01-13 07:55:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2025-01-13 08:04:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart": {
+    "criteria": {
+      "has_golden_dart": "2025-01-13 08:04:44 +0000"
     },
     "done": true
   },
