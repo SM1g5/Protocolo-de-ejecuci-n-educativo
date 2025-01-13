@@ -2074,3 +2074,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jan2025 08:45:31.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claosgamer lost connection: Disconnected
 [13Jan2025 08:45:31.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer left the game
 [13Jan2025 08:49:19.159] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[13Jan2025 08:50:33.959] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:wall_compressed_torcherino at 131, 96, -141.
+[13Jan2025 08:57:46.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Do You Believe in Magic?]

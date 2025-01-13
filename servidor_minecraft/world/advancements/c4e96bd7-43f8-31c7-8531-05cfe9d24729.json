@@ -14378,6 +14378,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/volatile_gland_decomposing": {
+    "criteria": {
+      "has_volatile_gland": "2025-01-13 08:49:22 +0000"
+    },
+    "done": true
+  },
   "aether:zanite": {
     "criteria": {
       "zanite": "2025-01-13 08:23:16 +0000"

@@ -13847,6 +13847,12 @@
     },
     "done": true
   },
+  "aether:craft_altar": {
+    "criteria": {
+      "craft_altar": "2025-01-13 08:57:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/holystone_wall_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-01-13 07:14:36 +0000"
