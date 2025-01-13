@@ -13811,5 +13811,41 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2025-01-13 07:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-13 07:02:11 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_parent_recipe": "2025-01-13 07:02:11 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2025-01-13 07:02:11 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glowstone_decomposing": {
+    "criteria": {
+      "has_glowstone": "2025-01-13 07:02:11 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_parent_recipe": "2025-01-13 07:02:11 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
