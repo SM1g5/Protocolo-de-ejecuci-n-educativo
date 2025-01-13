@@ -13811,6 +13811,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/mossy_holystone_slab": {
+    "criteria": {
+      "has_mossy_holystone": "2025-01-13 07:55:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
     "criteria": {
       "has_moa_egg": "2025-01-13 07:29:03 +0000"
@@ -13931,6 +13937,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-01-13 07:48:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-01-13 07:14:36 +0000"
@@ -13964,6 +13976,12 @@
   "handcrafted:recipes/misc/blue_sheet": {
     "criteria": {
       "has_blue_sheet": "2025-01-13 07:39:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/mossy_holystone_wall_from_mossy_holystone_stonecutting": {
+    "criteria": {
+      "has_mossy_holystone": "2025-01-13 07:55:45 +0000"
     },
     "done": true
   },
@@ -14243,6 +14261,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/mossy_holystone_stairs": {
+    "criteria": {
+      "has_mossy_holystone": "2025-01-13 07:55:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/pillar_top_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-01-13 07:25:26 +0000"
@@ -14291,6 +14315,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/mossy_holystone_stairs_from_mossy_holystone_stonecutting": {
+    "criteria": {
+      "has_mossy_holystone": "2025-01-13 07:55:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/angelic_slab": {
     "criteria": {
       "has_angelic_stone": "2025-01-13 07:25:26 +0000"
@@ -14312,6 +14342,12 @@
   "aether:recipes/tools/skyroot_pickaxe_repairing": {
     "criteria": {
       "has_skyroot_pickaxe": "2025-01-13 07:31:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_slab_from_mossy_holystone_stonecutting": {
+    "criteria": {
+      "has_mossy_holystone": "2025-01-13 07:55:45 +0000"
     },
     "done": true
   },
@@ -14462,6 +14498,12 @@
   "aether:recipes/building_blocks/mossy_holystone_with_vine": {
     "criteria": {
       "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/mossy_holystone_wall": {
+    "criteria": {
+      "has_mossy_holystone": "2025-01-13 07:55:45 +0000"
     },
     "done": true
   },
