@@ -13847,6 +13847,12 @@
     },
     "done": true
   },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-01-13 07:37:04 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/lamps": {
     "criteria": {
       "has_core_block": "2025-01-13 07:02:11 +0000"
@@ -13931,6 +13937,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/blue_cape_blue_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-01-13 07:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-01-13 07:02:11 +0000"
@@ -13946,6 +13958,24 @@
   "aether:recipes/incubation/blue_moa_incubation": {
     "criteria": {
       "has_blue_moa_egg": "2025-01-13 07:29:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_sheet": {
+    "criteria": {
+      "has_blue_sheet": "2025-01-13 07:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-01-13 07:39:50 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_boots": "2025-01-13 07:39:36 +0000"
     },
     "done": true
   },
@@ -14027,15 +14057,39 @@
     },
     "done": true
   },
+  "aether:recipes/food/enchanted_berry_enchanting": {
+    "criteria": {
+      "has_blue_berry": "2025-01-13 07:40:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/light_angelic_stone_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-01-13 07:25:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-01-13 07:39:50 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_lime_wool": "2025-01-13 07:11:49 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-01-13 07:39:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2025-01-13 07:38:05 +0000"
     },
     "done": true
   },
@@ -14162,6 +14216,12 @@
   "aether:recipes/decorations/holystone_wall": {
     "criteria": {
       "has_holystone": "2025-01-13 07:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-01-13 07:39:50 +0000"
     },
     "done": true
   },
@@ -14369,9 +14429,27 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2025-01-13 07:38:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-13 07:39:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/zanite_shovel": {
     "criteria": {
       "has_zanite": "2025-01-13 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cushion": {
+    "criteria": {
+      "has_blue_cushion": "2025-01-13 07:39:50 +0000"
     },
     "done": true
   },
@@ -14390,6 +14468,12 @@
   "comforts:sleeping_bag_lime": {
     "criteria": {
       "has_lime_wool": "2025-01-13 07:11:49 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-01-13 07:39:50 +0000"
     },
     "done": true
   },

@@ -2012,3 +2012,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jan2025 07:22:24.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> duerme claos
 [13Jan2025 07:29:03.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Don't Count Your Moas...]
 [13Jan2025 07:37:04.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has reached the goal [Dethroned]
+[13Jan2025 07:39:36.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has reached the goal [Earning your Wings]
+[13Jan2025 07:43:23.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/80102, l='ServerLevel[world]', x=-814.52, y=115.85, z=280.52] died: Honeyed Archer burned to death
+[13Jan2025 07:48:05.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Eye of The Storm]
