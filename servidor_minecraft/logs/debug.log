@@ -9941,3 +9941,55 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jan2025 02:53:05.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
 [15Jan2025 02:53:20.371] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [15Jan2025 02:54:05.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[15Jan2025 02:55:03.619] [Server thread/DEBUG] [mixin/]: Mixing CombatRulesMixin from attributeslib.mixins.json into net.minecraft.world.damagesource.CombatRules
+[15Jan2025 02:55:40.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 02:55:40.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 02:55:52.454] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[15Jan2025 02:55:53.437] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[15Jan2025 02:55:53.438] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[15Jan2025 02:58:50.634] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/derelict_grass_tower_bottom
+[15Jan2025 02:58:50.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/waystone_derelict_grass_tower_top
+[15Jan2025 03:00:40.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 03:00:40.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 03:01:06.327] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 03:01:06.411] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[15Jan2025 03:01:06.748] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/azure/azurelib/core/object/PlayState
+[15Jan2025 03:01:07.396] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[15Jan2025 03:01:09.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:end/end_tower_bottom
+[15Jan2025 03:01:09.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:obsidilith_arena/base
+[15Jan2025 03:01:14.665] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[15Jan2025 03:01:16.332] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
+[15Jan2025 03:01:16.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[15Jan2025 03:01:16.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_03
+[15Jan2025 03:01:16.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_03
+[15Jan2025 03:01:16.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_02
+[15Jan2025 03:01:16.544] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[15Jan2025 03:01:16.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_01
+[15Jan2025 03:01:16.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_01
+[15Jan2025 03:01:16.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_04
+[15Jan2025 03:01:16.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/meadow_lamp_1
+[15Jan2025 03:01:16.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_02
+[15Jan2025 03:01:16.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_04
+[15Jan2025 03:01:16.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_01
+[15Jan2025 03:01:16.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_05
+[15Jan2025 03:01:16.568] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_03
+[15Jan2025 03:01:16.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_03
+[15Jan2025 03:01:16.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_01
+[15Jan2025 03:01:16.580] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_02
+[15Jan2025 03:01:37.648] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[15Jan2025 03:02:00.140] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
+[15Jan2025 03:02:23.741] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[15Jan2025 03:02:24.432] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[15Jan2025 03:02:30.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[15Jan2025 03:02:30.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[15Jan2025 03:02:32.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[15Jan2025 03:02:32.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[15Jan2025 03:02:32.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[15Jan2025 03:02:32.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_1
+[15Jan2025 03:02:32.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[15Jan2025 03:02:43.004] [Server thread/DEBUG] [mixin/]: Mixing CrashReportSectionMixin from neruina.mixins.json into net.minecraft.CrashReportCategory
+[15Jan2025 03:03:26.100] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[15Jan2025 03:03:37.530] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[15Jan2025 03:04:00.055] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[15Jan2025 03:05:40.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 03:05:40.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
