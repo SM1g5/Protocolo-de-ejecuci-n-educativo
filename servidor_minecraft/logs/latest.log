@@ -1876,3 +1876,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jan2025 04:56:28.849] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ica_1016 at X: 1478.6876686260912, Y: 59.0, Z: -1174.1998979261461
 [15Jan2025 04:56:41.641] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [15Jan2025 04:56:41.642] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15Jan2025 04:58:32.034] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[15Jan2025 04:58:45.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 fell out of the world
+[15Jan2025 04:58:45.039] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 1484.818845024488, Y: -693.8127415268626, Z: -1213.400182434746
+[15Jan2025 04:58:46.243] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 04:58:46.244] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 05:04:18.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:04:18.535] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 1496.699999988079, Y: 57.0, Z: -1203.3127409606686
+[15Jan2025 05:04:19.951] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:04:19.952] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 05:04:37.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:04:37.239] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 812.7735769495586, Y: 58.911442476413626, Z: -988.7727675140153
+[15Jan2025 05:04:44.955] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:04:44.955] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 05:05:39.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:05:39.235] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 814.9736075091979, Y: 61.0, Z: -1133.8226421420777
+[15Jan2025 05:05:40.876] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:05:40.876] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15Jan2025 05:07:35.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:07:35.637] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 1489.7060353032446, Y: 58.0, Z: -1214.268228606093
+[15Jan2025 05:07:37.249] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:07:37.249] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15Jan2025 05:07:47.138] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Soul Crystal'/31466, l='ServerLevel[world]', x=1489.71, y=59.50, z=-1214.27]
+[15Jan2025 05:07:47.138] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/31466, l='ServerLevel[world]', x=1489.71, y=59.50, z=-1214.27]
+[15Jan2025 05:07:58.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:07:58.740] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 1479.6493686081883, Y: 59.0, Z: -1171.720992122016
+[15Jan2025 05:08:05.182] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:08:05.182] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
