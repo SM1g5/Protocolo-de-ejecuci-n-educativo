@@ -1849,3 +1849,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jan2025 03:27:24.898] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Father Kevin the Burger Chef'/8851, l='ServerLevel[world]', x=-4538.56, y=-27.00, z=-1247.13] died: Father Kevin the Burger Chef was slain by ica_1016
 [15Jan2025 03:34:01.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Poppa Sammy the Lazy'/9848, l='ServerLevel[world]', x=-4563.97, y=-39.00, z=-1258.70] died: Poppa Sammy the Lazy was slain by ica_1016
 [15Jan2025 03:38:31.463] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[15Jan2025 03:52:30.180] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[15Jan2025 03:55:00.767] [Worker-Main-23/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[15Jan2025 03:55:00.768] [Worker-Main-23/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[15Jan2025 03:55:00.774] [Worker-Main-25/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[15Jan2025 03:55:11.415] [Worker-Main-23/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[15Jan2025 03:55:11.482] [Worker-Main-23/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[15Jan2025 03:55:11.482] [Worker-Main-23/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[15Jan2025 03:55:11.484] [Worker-Main-23/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
