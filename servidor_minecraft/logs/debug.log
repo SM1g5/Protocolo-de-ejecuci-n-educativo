@@ -10360,3 +10360,136 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jan2025 05:49:14.105] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [15Jan2025 05:49:14.105] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [15Jan2025 05:49:14.108] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:49:25.252] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:49:29.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:49:30.791] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:49:30.791] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 05:49:30.794] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:49:43.777] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:49:47.092] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[15Jan2025 05:50:30.463] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:50:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:50:34.560] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:50:34.561] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 05:50:34.564] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:50:40.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 05:50:40.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 05:50:44.715] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:50:46.105] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Soul Crystal'/47146, l='ServerLevel[world]', x=1482.51, y=58.56, z=-1184.24]
+[15Jan2025 05:50:46.106] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/47146, l='ServerLevel[world]', x=1482.51, y=58.56, z=-1184.24]
+[15Jan2025 05:50:50.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:50:50.239] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 1482.15827928614, Y: 57.0, Z: -1184.7005204149807
+[15Jan2025 05:50:51.912] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:50:51.912] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 05:50:51.915] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:52:13.517] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:52:13.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:52:15.152] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:52:15.153] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 05:52:15.156] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:52:25.385] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:52:28.171] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Soul Crystal'/48525, l='ServerLevel[world]', x=1482.16, y=58.50, z=-1184.70]
+[15Jan2025 05:52:28.171] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/48525, l='ServerLevel[world]', x=1482.16, y=58.50, z=-1184.70]
+[15Jan2025 05:52:30.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:52:30.139] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 1481.5293741195364, Y: 57.0, Z: -1185.1575904822362
+[15Jan2025 05:52:32.048] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:52:32.048] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 05:52:32.052] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:52:43.735] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:52:45.712] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Soul Crystal'/49193, l='ServerLevel[world]', x=1481.53, y=58.50, z=-1185.16]
+[15Jan2025 05:52:45.712] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/49193, l='ServerLevel[world]', x=1481.53, y=58.50, z=-1185.16]
+[15Jan2025 05:52:49.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:52:49.882] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 1481.9704619824545, Y: 57.75460000970363, Z: -1186.237500011921
+[15Jan2025 05:52:52.950] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:52:52.950] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15Jan2025 05:52:52.953] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:53:04.071] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:53:08.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was killed by ica_1016 using magic
+[15Jan2025 05:53:11.688] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:53:11.688] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 05:53:11.692] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:53:21.821] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:53:25.015] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[15Jan2025 05:53:33.819] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:53:35.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by ica_1016
+[15Jan2025 05:53:37.719] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:53:37.719] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 05:53:37.722] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:53:47.172] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:53:57.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was killed by ica_1016 using magic
+[15Jan2025 05:53:59.808] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:53:59.808] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 05:53:59.811] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:54:09.751] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:54:20.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by ica_1016
+[15Jan2025 05:54:23.925] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:54:23.925] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 05:54:23.928] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:54:36.873] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:55:09.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was killed by ica_1016 using magic
+[15Jan2025 05:55:14.912] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:55:14.912] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 05:55:14.915] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:55:26.508] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:55:36.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:55:38.823] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:55:38.823] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 05:55:38.826] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:55:40.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 05:55:40.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 05:55:51.126] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:56:08.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:56:10.561] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:56:10.562] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15Jan2025 05:56:10.564] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:56:22.249] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:56:25.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:56:26.962] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:56:26.962] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 05:56:26.965] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:56:37.355] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:56:39.720] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Soul Crystal'/55785, l='ServerLevel[world]', x=1481.97, y=59.25, z=-1186.24]
+[15Jan2025 05:56:39.720] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/55785, l='ServerLevel[world]', x=1481.97, y=59.25, z=-1186.24]
+[15Jan2025 05:56:46.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:56:46.388] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 1484.35146440495, Y: 57.0, Z: -1185.0742957991488
+[15Jan2025 05:56:49.380] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:56:49.380] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15Jan2025 05:56:49.383] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:57:01.350] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:57:04.693] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Soul Crystal'/56416, l='ServerLevel[world]', x=1484.35, y=58.50, z=-1185.07]
+[15Jan2025 05:57:04.693] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/56416, l='ServerLevel[world]', x=1484.35, y=58.50, z=-1185.07]
+[15Jan2025 05:57:08.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was killed by ica_1016 using magic
+[15Jan2025 05:57:08.046] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 1487.255211775702, Y: 57.03917061653102, Z: -1183.200699255264
+[15Jan2025 05:57:11.749] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:57:11.749] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 05:57:11.752] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:57:22.953] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:57:29.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:57:31.931] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:57:31.932] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 05:57:31.935] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:57:46.402] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:57:47.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:57:49.865] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:57:49.865] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15Jan2025 05:57:49.868] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:58:00.880] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:58:05.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:58:08.259] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:58:08.260] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 05:58:08.263] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:58:18.515] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:58:22.214] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[15Jan2025 05:58:37.467] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:58:42.278] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[15Jan2025 05:58:50.183] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:58:51.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:58:53.611] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:58:53.612] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 05:58:53.615] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:59:05.983] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 05:59:10.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:59:12.328] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:59:12.329] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 05:59:12.332] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[15Jan2025 05:59:24.634] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
