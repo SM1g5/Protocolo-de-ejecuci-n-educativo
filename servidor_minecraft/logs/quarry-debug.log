@@ -1,58 +1,11 @@
-[2025-01-13T06:05:09,216][W] [TQW/initialLog]: Config in 'Entren Culos'
+[2025-01-15T02:35:40,360][W] [TQW/initialLog]: Config in 'Entren Culos'
 {
+  "server": {
+    "machineWork": {
+      "unworkableDimensions": []
+    }
+  },
   "common": {
-    "powerMap": {
-      "mini_quarry": {
-        "maxEnergy": 1000.0,
-        "breakBlockBase": 20.0
-      },
-      "solid_fuel_quarry": {
-        "maxEnergy": 1000.0,
-        "breakEfficiencyCoefficient": 1.379729661461215,
-        "breakBlockBase": 25.0,
-        "moveHeadBase": 1.0,
-        "efficiencyCoefficient": 1.5848931924611136,
-        "makeFrame": 15.0,
-        "breakBlockFluid": 125.0,
-        "expCollect": 2.5,
-        "breakFortuneCoefficient": 1.5874010519681996,
-        "breakSilktouchCoefficient": 4.0
-      },
-      "adv_quarry": {
-        "maxEnergy": 50000.0,
-        "breakEfficiencyCoefficient": 1.379729661461215,
-        "breakBlockBase": 25.0,
-        "moveHeadBase": 1.0,
-        "efficiencyCoefficient": 1.5848931924611136,
-        "makeFrame": 15.0,
-        "breakBlockFluid": 125.0,
-        "expCollect": 2.5,
-        "breakFortuneCoefficient": 1.5874010519681996,
-        "breakSilktouchCoefficient": 4.0
-      },
-      "filler": {
-        "maxEnergy": 1000.0,
-        "breakBlockBase": 15.0
-      },
-      "book_mover": {
-        "maxEnergy": 50000.0
-      },
-      "workbench": {
-        "maxEnergy": 5.0
-      },
-      "quarry": {
-        "maxEnergy": 10000.0,
-        "breakEfficiencyCoefficient": 1.379729661461215,
-        "breakBlockBase": 25.0,
-        "moveHeadBase": 1.0,
-        "efficiencyCoefficient": 1.5848931924611136,
-        "makeFrame": 15.0,
-        "breakBlockFluid": 125.0,
-        "expCollect": 2.5,
-        "breakFortuneCoefficient": 1.5874010519681996,
-        "breakSilktouchCoefficient": 4.0
-      }
-    },
     "acceptableEnchantmentsMap": {
       "mini_quarry": [
         "minecraft:efficiency",
@@ -126,11 +79,58 @@
       "book_mover": true,
       "workbench": true,
       "pump_plus": true
-    }
-  },
-  "server": {
-    "machineWork": {
-      "unworkableDimensions": []
+    },
+    "powerMap": {
+      "mini_quarry": {
+        "maxEnergy": 1000.0,
+        "breakBlockBase": 20.0
+      },
+      "solid_fuel_quarry": {
+        "maxEnergy": 1000.0,
+        "breakEfficiencyCoefficient": 1.379729661461215,
+        "breakBlockBase": 25.0,
+        "moveHeadBase": 1.0,
+        "efficiencyCoefficient": 1.5848931924611136,
+        "makeFrame": 15.0,
+        "breakBlockFluid": 125.0,
+        "expCollect": 2.5,
+        "breakFortuneCoefficient": 1.5874010519681996,
+        "breakSilktouchCoefficient": 4.0
+      },
+      "adv_quarry": {
+        "maxEnergy": 50000.0,
+        "breakEfficiencyCoefficient": 1.379729661461215,
+        "breakBlockBase": 25.0,
+        "moveHeadBase": 1.0,
+        "efficiencyCoefficient": 1.5848931924611136,
+        "makeFrame": 15.0,
+        "breakBlockFluid": 125.0,
+        "expCollect": 2.5,
+        "breakFortuneCoefficient": 1.5874010519681996,
+        "breakSilktouchCoefficient": 4.0
+      },
+      "filler": {
+        "maxEnergy": 1000.0,
+        "breakBlockBase": 15.0
+      },
+      "book_mover": {
+        "maxEnergy": 50000.0
+      },
+      "workbench": {
+        "maxEnergy": 5.0
+      },
+      "quarry": {
+        "maxEnergy": 10000.0,
+        "breakEfficiencyCoefficient": 1.379729661461215,
+        "breakBlockBase": 25.0,
+        "moveHeadBase": 1.0,
+        "efficiencyCoefficient": 1.5848931924611136,
+        "makeFrame": 15.0,
+        "breakBlockFluid": 125.0,
+        "expCollect": 2.5,
+        "breakFortuneCoefficient": 1.5874010519681996,
+        "breakSilktouchCoefficient": 4.0
+      }
     }
   }
 }
