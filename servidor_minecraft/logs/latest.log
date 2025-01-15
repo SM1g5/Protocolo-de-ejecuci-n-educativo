@@ -2042,3 +2042,65 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jan2025 05:59:10.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
 [15Jan2025 05:59:12.328] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [15Jan2025 05:59:12.329] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 05:59:27.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:59:29.300] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:59:29.300] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15Jan2025 05:59:44.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 05:59:47.564] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 05:59:47.565] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 06:00:07.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was killed by ica_1016 using magic
+[15Jan2025 06:00:09.881] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:00:09.881] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 06:01:19.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Blood Maykr
+[15Jan2025 06:01:22.289] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:01:22.290] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 06:01:37.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Blood Maykr
+[15Jan2025 06:01:38.418] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:01:38.418] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 06:01:53.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Blood Maykr
+[15Jan2025 06:01:55.085] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:01:55.085] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 06:02:59.456] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Extradimensional Vessel'/66758, l='ServerLevel[world]', x=1479.76, y=61.44, z=-1171.43]
+[15Jan2025 06:02:59.456] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/66758, l='ServerLevel[world]', x=1479.76, y=61.44, z=-1171.43]
+[15Jan2025 06:03:32.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 06:03:32.188] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ica_1016 at X: 1480.219256424079, Y: 58.0, Z: -1180.375206626876
+[15Jan2025 06:03:34.210] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:03:34.211] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 06:03:54.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 06:03:56.830] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:03:56.830] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15Jan2025 06:05:20.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was killed by ica_1016 using magic
+[15Jan2025 06:05:22.799] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:05:22.799] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 06:05:39.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Blood Maykr
+[15Jan2025 06:05:41.283] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:05:41.283] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15Jan2025 06:05:58.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by ica_1016
+[15Jan2025 06:06:00.735] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:06:00.735] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 06:06:22.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by ica_1016
+[15Jan2025 06:06:23.930] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:06:23.931] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 06:06:39.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Blood Maykr
+[15Jan2025 06:06:41.737] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:06:41.737] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15Jan2025 06:07:11.351] [Server thread/INFO] [Scaling Health/]: Blight Enderiophage has died
+[15Jan2025 06:07:20.083] [Server thread/INFO] [Scaling Health/]: Blight Enderman has died
+[15Jan2025 06:07:34.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was killed by ica_1016 using magic
+[15Jan2025 06:07:38.029] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:07:38.029] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 06:07:59.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by ica_1016
+[15Jan2025 06:08:01.460] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:08:01.460] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 06:08:17.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was killed by ica_1016 using magic
+[15Jan2025 06:08:19.725] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:08:19.725] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jan2025 06:08:34.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 06:08:36.270] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:08:36.270] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 06:08:51.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 06:08:52.974] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:08:52.975] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jan2025 06:09:30.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by ica_1016
+[15Jan2025 06:09:33.381] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 06:09:33.381] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty

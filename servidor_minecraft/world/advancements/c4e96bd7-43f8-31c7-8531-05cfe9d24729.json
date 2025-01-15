@@ -15134,6 +15134,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/biomesoplenty_flesh_tendons_decomposing": {
+    "criteria": {
+      "has_mob_sinew": "2025-01-15 05:56:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-01-15 03:17:39 +0000"
@@ -15149,6 +15155,12 @@
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2025-01-15 03:22:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/mob_sinew_decomposing": {
+    "criteria": {
+      "has_mob_sinew": "2025-01-15 05:56:40 +0000"
     },
     "done": true
   },
