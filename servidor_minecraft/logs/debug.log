@@ -10071,3 +10071,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jan2025 03:34:01.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Poppa Sammy the Lazy'/9848, l='ServerLevel[world]', x=-4563.97, y=-39.00, z=-1258.70] died: Poppa Sammy the Lazy was slain by ica_1016
 [15Jan2025 03:35:40.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jan2025 03:35:40.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 03:38:31.463] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[15Jan2025 03:40:40.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 03:40:40.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 03:45:40.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 03:45:40.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
