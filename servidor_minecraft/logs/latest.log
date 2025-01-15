@@ -1858,3 +1858,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jan2025 03:55:11.482] [Worker-Main-23/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [15Jan2025 03:55:11.484] [Worker-Main-23/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [15Jan2025 04:02:02.773] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[15Jan2025 04:07:46.193] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[15Jan2025 04:09:30.866] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/kotori316/fluidtank/fluids/PotionType
+[15Jan2025 04:09:30.891] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[15Jan2025 04:09:30.952] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting lolcroc/craftingautomat/CraftingAutomatBlockEntity$CraftingFlag
+[15Jan2025 04:09:31.217] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[15Jan2025 04:09:47.119] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType

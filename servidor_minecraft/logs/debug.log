@@ -10141,3 +10141,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jan2025 04:02:02.773] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
 [15Jan2025 04:05:40.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jan2025 04:05:40.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 04:07:46.193] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[15Jan2025 04:09:30.866] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/kotori316/fluidtank/fluids/PotionType
+[15Jan2025 04:09:30.891] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[15Jan2025 04:09:30.952] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting lolcroc/craftingautomat/CraftingAutomatBlockEntity$CraftingFlag
+[15Jan2025 04:09:31.079] [Server thread/DEBUG] [com.kotori316.fluidtank.FluidTankCommon/Tank]: Connection will be loaded in onLoading. At=(114, 96, -150), tank=Tank{content=GenericAmount{content=fluidtank:potion_normal, amount=0, nbt=Some({Potion:"minecraft:strong_strength"})}, capacity=324000}
+[15Jan2025 04:09:31.217] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[15Jan2025 04:09:47.119] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[15Jan2025 04:10:40.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 04:10:40.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 04:15:40.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 04:15:40.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
