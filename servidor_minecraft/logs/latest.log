@@ -1857,3 +1857,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jan2025 03:55:11.482] [Worker-Main-23/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [15Jan2025 03:55:11.482] [Worker-Main-23/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [15Jan2025 03:55:11.484] [Worker-Main-23/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[15Jan2025 04:02:02.773] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
