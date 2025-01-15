@@ -10172,3 +10172,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jan2025 04:45:57.494] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Soul Crystal'/21609, l='ServerLevel[world]', x=795.80, y=62.50, z=-957.09]
 [15Jan2025 04:45:57.495] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/21609, l='ServerLevel[world]', x=795.80, y=62.50, z=-957.09]
 [15Jan2025 04:46:08.259] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[15Jan2025 04:48:33.069] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 04:48:33.341] [Worker-Main-220/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[15Jan2025 04:48:33.342] [Worker-Main-220/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[15Jan2025 04:48:33.342] [Worker-Main-220/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[15Jan2025 04:48:37.527] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[15Jan2025 04:50:40.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 04:50:40.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 04:53:19.362] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-889, y=-17, z=259} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[15Jan2025 04:53:19.757] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[15Jan2025 04:53:20.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena/base
+[15Jan2025 04:53:27.881] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=125, y=86, z=-25} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[15Jan2025 04:53:35.700] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[15Jan2025 04:55:40.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 04:55:40.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 04:56:28.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[15Jan2025 04:56:28.849] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ica_1016 at X: 1478.6876686260912, Y: 59.0, Z: -1174.1998979261461
+[15Jan2025 04:56:41.641] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jan2025 04:56:41.642] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15Jan2025 04:56:41.651] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
