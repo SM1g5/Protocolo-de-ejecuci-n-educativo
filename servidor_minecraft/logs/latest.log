@@ -1846,3 +1846,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jan2025 03:17:53.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: ica_1016
 [15Jan2025 03:18:19.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Tunnel Treasures]
 [15Jan2025 03:23:09.241] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[15Jan2025 03:27:24.898] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Father Kevin the Burger Chef'/8851, l='ServerLevel[world]', x=-4538.56, y=-27.00, z=-1247.13] died: Father Kevin the Burger Chef was slain by ica_1016
+[15Jan2025 03:34:01.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Poppa Sammy the Lazy'/9848, l='ServerLevel[world]', x=-4563.97, y=-39.00, z=-1258.70] died: Poppa Sammy the Lazy was slain by ica_1016

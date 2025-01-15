@@ -12555,6 +12555,7 @@
   },
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
+      "has_item_1": "2025-01-15 03:34:55 +0000",
       "has_item_4": "2024-11-29 07:14:39 +0000"
     },
     "done": false
@@ -12567,6 +12568,7 @@
   },
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
+      "spellstone1": "2025-01-15 03:34:55 +0000",
       "spellstone4": "2024-11-29 07:14:39 +0000"
     },
     "done": false
@@ -15103,6 +15105,12 @@
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-01-15 03:18:19 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/golem_heart": {
+    "criteria": {
+      "has_items": "2025-01-15 03:34:55 +0000"
     },
     "done": true
   },
