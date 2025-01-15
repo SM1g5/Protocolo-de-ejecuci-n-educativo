@@ -12871,6 +12871,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "brown_mushroom": "2025-01-15 05:35:09 +0000",
       "sugar_cane": "2024-12-05 03:49:03 +0000",
       "carrot": "2024-12-26 02:17:41 +0000"
     },
