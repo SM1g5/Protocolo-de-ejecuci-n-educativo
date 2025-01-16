@@ -15284,6 +15284,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-01-16 07:28:35 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/flesh_wall_from_bio_forging": {
     "criteria": {
       "has_flesh_bits": "2025-01-16 07:05:26 +0000"
@@ -15299,6 +15305,12 @@
   "biomancy:recipes/biomancy/bio_forging/fibrous_flesh_stairs_from_bio_forging": {
     "criteria": {
       "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-16 07:29:24 +0000"
     },
     "done": true
   },

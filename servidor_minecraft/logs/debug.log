@@ -11413,3 +11413,201 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [16Jan2025 07:23:36.735] [Worker-Main-131/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [16Jan2025 07:23:36.736] [Worker-Main-131/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [16Jan2025 07:23:36.737] [Worker-Main-131/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:23:39.223] [Worker-Main-121/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:23:39.554] [Worker-Main-121/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:23:39.555] [Worker-Main-121/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:23:39.556] [Worker-Main-121/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:23:43.238] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:23:43.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2804ms or 56 ticks behind
+[16Jan2025 07:23:44.015] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:23:44.016] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:23:44.016] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:23:46.201] [Worker-Main-131/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[16Jan2025 07:24:01.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 07:24:01.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 07:24:03.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4958ms or 99 ticks behind
+[16Jan2025 07:24:28.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16Jan2025 07:24:41.803] [Worker-Main-120/DEBUG] [ModernFix/]: Using cached upgraded version of doom:icon_fight
+[16Jan2025 07:24:57.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[16Jan2025 07:25:17.538] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[16Jan2025 07:26:17.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[16Jan2025 07:26:25.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[16Jan2025 07:26:42.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[16Jan2025 07:27:00.510] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3341ms or 66 ticks behind
+[16Jan2025 07:27:06.541] [Worker-Main-131/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[16Jan2025 07:27:13.987] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[16Jan2025 07:27:13.989] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_01
+[16Jan2025 07:27:14.004] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/meadow_lamp_1
+[16Jan2025 07:27:14.009] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_01
+[16Jan2025 07:27:14.014] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_04
+[16Jan2025 07:27:14.015] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_03
+[16Jan2025 07:27:14.019] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_02
+[16Jan2025 07:27:14.045] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_03
+[16Jan2025 07:27:14.049] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_05
+[16Jan2025 07:27:14.050] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_01
+[16Jan2025 07:27:14.050] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_04
+[16Jan2025 07:27:14.051] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/corner_02
+[16Jan2025 07:27:14.052] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/crossroad_03
+[16Jan2025 07:27:14.054] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/streets/straight_02
+[16Jan2025 07:27:14.054] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_03
+[16Jan2025 07:27:14.054] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_02
+[16Jan2025 07:27:14.055] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/terminators/terminator_01
+[16Jan2025 07:27:14.092] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/animals/dog
+[16Jan2025 07:27:16.077] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_0_top
+[16Jan2025 07:27:16.078] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_3_base
+[16Jan2025 07:27:16.079] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_2_middle
+[16Jan2025 07:27:16.083] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_7
+[16Jan2025 07:27:16.085] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_1
+[16Jan2025 07:27:16.088] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_3
+[16Jan2025 07:27:16.091] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_0
+[16Jan2025 07:27:16.093] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_2
+[16Jan2025 07:27:16.093] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_4
+[16Jan2025 07:27:16.094] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_6
+[16Jan2025 07:27:16.096] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_5
+[16Jan2025 07:27:16.107] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_7
+[16Jan2025 07:27:16.120] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_5
+[16Jan2025 07:27:16.133] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_3
+[16Jan2025 07:27:16.141] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_6
+[16Jan2025 07:27:16.146] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_2
+[16Jan2025 07:27:16.187] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_inner_top_0
+[16Jan2025 07:27:16.210] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_0
+[16Jan2025 07:27:16.218] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_1
+[16Jan2025 07:27:16.256] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_inner_part_0
+[16Jan2025 07:27:16.265] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_1
+[16Jan2025 07:27:16.266] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_6
+[16Jan2025 07:27:16.271] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_3
+[16Jan2025 07:27:16.276] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_7
+[16Jan2025 07:27:16.282] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_0
+[16Jan2025 07:27:16.288] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_5
+[16Jan2025 07:27:16.290] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_2
+[16Jan2025 07:27:16.292] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_4
+[16Jan2025 07:27:16.297] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_4
+[16Jan2025 07:27:16.306] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_0
+[16Jan2025 07:27:16.316] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_2
+[16Jan2025 07:27:16.346] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_1
+[16Jan2025 07:27:16.349] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_wither_skeleton_0
+[16Jan2025 07:27:16.350] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_cave_spider_1
+[16Jan2025 07:27:16.350] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_cave_spider_0
+[16Jan2025 07:27:16.350] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_skeleton_0
+[16Jan2025 07:27:16.351] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_8
+[16Jan2025 07:27:16.352] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_6
+[16Jan2025 07:27:16.353] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_0
+[16Jan2025 07:27:16.355] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_2
+[16Jan2025 07:27:16.356] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_1
+[16Jan2025 07:27:16.357] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_3
+[16Jan2025 07:27:16.359] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_7
+[16Jan2025 07:27:16.360] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_5
+[16Jan2025 07:27:16.362] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_4
+[16Jan2025 07:27:21.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was slain by Wraith
+[16Jan2025 07:27:24.447] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 07:27:24.448] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 07:27:24.462] [Server thread/DEBUG] [twilightforest/]: Player claosgamer (c40c1013-e271-3ebd-9ba6-049ff348cd43) respawned and received items held in storage
+[16Jan2025 07:27:45.294] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[16Jan2025 07:27:45.300] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[16Jan2025 07:27:45.315] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[16Jan2025 07:28:15.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[16Jan2025 07:28:35.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Ancient Civilization]
+[16Jan2025 07:28:36.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[16Jan2025 07:29:11.830] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[16Jan2025 07:29:15.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 07:29:15.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 07:29:24.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has completed the challenge [It Spreads]
+[16Jan2025 07:29:42.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 burned to death
+[16Jan2025 07:29:42.338] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ica_1016 at X: -4973.142178412885, Y: -25.0, Z: -1569.7585276743575
+[16Jan2025 07:29:43.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16Jan2025 07:29:50.201] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 07:29:50.202] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16Jan2025 07:29:50.206] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[16Jan2025 07:29:53.682] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[16Jan2025 07:30:06.749] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1076}
+[16Jan2025 07:30:06.749] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1076}
+[16Jan2025 07:30:06.750] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1079}
+[16Jan2025 07:30:06.750] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1077}
+[16Jan2025 07:30:06.750] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1080}
+[16Jan2025 07:30:06.750] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[16Jan2025 07:30:06.750] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[16Jan2025 07:30:06.750] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1080}
+[16Jan2025 07:30:06.751] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1079}
+[16Jan2025 07:30:06.751] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1077}
+[16Jan2025 07:30:10.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[16Jan2025 07:30:16.799] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1076}
+[16Jan2025 07:30:16.799] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1079}
+[16Jan2025 07:30:16.799] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1077}
+[16Jan2025 07:30:16.799] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1080}
+[16Jan2025 07:30:18.411] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1076}
+[16Jan2025 07:30:18.411] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[16Jan2025 07:30:18.411] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[16Jan2025 07:30:18.412] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1080}
+[16Jan2025 07:30:18.412] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1079}
+[16Jan2025 07:30:18.412] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1077}
+[16Jan2025 07:30:29.416] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/taiga/base_plate
+[16Jan2025 07:30:29.433] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/savanna/base_plate
+[16Jan2025 07:30:29.440] [Worker-Main-121/DEBUG] [ModernFix/]: Structure kaisyn:outpost/camps/sparse_jungle/base_plate is being run through DFU (hash 10851b17d358ebf99da31ba24183f43e68df5b4ea88fd1dafcfeb3d7a204f71f), this will cause launch time delays
+[16Jan2025 07:30:29.703] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_slopes/base_plate
+[16Jan2025 07:30:29.724] [Worker-Main-121/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/flower_forest/base_plate is being run through DFU (hash 196870aa8df7ccddd84b916d2b639ab1bd1308f6ffa1e98f248c53e162a8daab), this will cause launch time delays
+[16Jan2025 07:30:30.136] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/pillager_outpost_ocean/base_plate
+[16Jan2025 07:30:30.170] [Worker-Main-121/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/grove/base_plate is being run through DFU (hash 8d58e65730b97353a91f7a16a6932a05206b18e0201f04d02ea0eac5c38777d4), this will cause launch time delays
+[16Jan2025 07:30:30.302] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/iberian/base_plate
+[16Jan2025 07:30:30.339] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/base_plate
+[16Jan2025 07:30:30.363] [Worker-Main-121/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/mushroom_fields/base_plate is being run through DFU (hash b760d725d73ca7044be56ac0a402541b78066fadf793e5c09d1c5e3a497cd966), this will cause launch time delays
+[16Jan2025 07:30:30.544] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/birch/base_plate
+[16Jan2025 07:30:30.553] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/pillager
+[16Jan2025 07:30:30.554] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/vindicator
+[16Jan2025 07:30:30.556] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/outpost_captain
+[16Jan2025 07:30:31.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5771ms or 115 ticks behind
+[16Jan2025 07:30:49.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Super Creeps]
+[16Jan2025 07:30:54.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7803ms or 156 ticks behind
+[16Jan2025 07:31:12.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3341ms or 66 ticks behind
+[16Jan2025 07:31:25.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:tw_mangrove/mangrove_tower_bottom
+[16Jan2025 07:31:33.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6176ms or 123 ticks behind
+[16Jan2025 07:31:35.348] [Worker-Main-120/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/WoodPalette$WoodShapes
+[16Jan2025 07:32:18.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16Jan2025 07:32:20.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was slain by juanito
+[16Jan2025 07:32:23.796] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 07:32:23.797] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16Jan2025 07:32:23.801] [Server thread/DEBUG] [twilightforest/]: Player claosgamer (c40c1013-e271-3ebd-9ba6-049ff348cd43) respawned and received items held in storage
+[16Jan2025 07:32:34.567] [Worker-Main-122/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/HugeMushroomUtil$HugeMushroomType
+[16Jan2025 07:32:35.904] [Worker-Main-131/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$HutType
+[16Jan2025 07:32:36.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3040ms or 60 ticks behind
+[16Jan2025 07:32:46.442] [Worker-Main-122/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[16Jan2025 07:32:55.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3825ms or 76 ticks behind
+[16Jan2025 07:33:38.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was shot by Skeleton
+[16Jan2025 07:33:43.887] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 07:33:43.887] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16Jan2025 07:33:43.891] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[16Jan2025 07:34:05.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 fell from a high place
+[16Jan2025 07:34:06.320] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 07:34:06.321] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 07:34:06.330] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[16Jan2025 07:34:07.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[16Jan2025 07:34:24.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[16Jan2025 07:34:55.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 07:34:55.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 07:35:09.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[16Jan2025 07:35:18.616] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[16Jan2025 07:35:18.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> xaero-waypoint:aku:A:113:96:-158:4:false:0:Internal-overworld-waypoints
+[16Jan2025 07:36:27.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/145, l='ServerLevel[world]', x=144.06, y=71.41, z=-4.87] died: Undead Knight suffocated in a wall
+[16Jan2025 07:36:50.118] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/43909, l='ServerLevel[world]', x=255.49, y=69.85, z=-178.90] died: Honeyed Archer burned to death
+[16Jan2025 07:38:27.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1027, y=81, z=-6634} BlockPos{x=1026, y=79, z=-6637}
+[16Jan2025 07:38:39.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1048, y=80, z=-6645} BlockPos{x=1045, y=78, z=-6645}
+[16Jan2025 07:39:56.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 07:39:56.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 07:40:44.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[16Jan2025 07:40:45.201] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/ai/goal/NagaMovementPattern$MovementState
+[16Jan2025 07:40:50.307] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/deposit/DepositFilterType
+[16Jan2025 07:41:06.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was exterminated by The Watcher 's laser
+[16Jan2025 07:41:08.606] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 07:41:10.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2698ms or 53 ticks behind
+[16Jan2025 07:41:13.636] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 07:41:13.636] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 07:41:13.640] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[16Jan2025 07:41:32.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Into Fire]
+[16Jan2025 07:41:53.568] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{claosgamer})
+[16Jan2025 07:42:42.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Captured!]
+[16Jan2025 07:42:57.156] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[16Jan2025 07:42:58.949] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[16Jan2025 07:43:01.654] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[16Jan2025 07:43:08.555] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[16Jan2025 07:44:03.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claosgamer lost connection: Timed out
+[16Jan2025 07:44:03.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer left the game
+[16Jan2025 07:44:04.001] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

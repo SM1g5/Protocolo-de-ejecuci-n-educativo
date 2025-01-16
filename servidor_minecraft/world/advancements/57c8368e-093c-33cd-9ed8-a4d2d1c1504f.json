@@ -14808,5 +14808,53 @@
     },
     "done": false
   },
+  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
+    "criteria": {
+      "has_item": "2025-01-16 07:39:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/maze_map": {
+    "criteria": {
+      "has_item": "2025-01-16 07:36:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-01-16 07:34:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-01-16 07:34:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2025-01-16 07:34:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
+    "criteria": {
+      "has_item": "2025-01-16 07:39:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-01-16 07:32:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2025-01-16 07:31:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

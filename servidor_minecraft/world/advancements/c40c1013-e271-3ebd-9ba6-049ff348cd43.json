@@ -2921,6 +2921,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2024-11-25 07:20:57 +0000",
+      "apple": "2025-01-16 07:26:05 +0000",
       "bread": "2024-12-05 05:28:52 +0000"
     },
     "done": false
@@ -2960,6 +2961,7 @@
       "minecraft:skeleton": "2024-11-25 07:24:36 +0000",
       "minecraft:spider": "2024-11-25 07:27:53 +0000",
       "minecraft:piglin_brute": "2024-12-05 06:23:42 +0000",
+      "minecraft:enderman": "2025-01-16 07:20:00 +0000",
       "minecraft:zombie": "2024-11-25 07:23:26 +0000"
     },
     "done": false
@@ -6235,6 +6237,116 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-16 07:36:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-01-16 07:41:32 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_feathers_decomposing": {
+    "criteria": {
+      "has_feathers": "2025-01-16 07:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-16 07:41:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-16 07:35:55 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2025-01-16 07:20:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-16 07:36:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-01-16 07:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-16 07:29:52 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2025-01-16 07:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-16 07:36:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 07:30:02 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/ender_pearl_decomposing": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-16 07:20:01 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_egg": {
+    "criteria": {
+      "has_egg": "2025-01-16 07:35:55 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/raw_meat_collection": {
+    "criteria": {
+      "has_raw_beef": "2025-01-16 07:30:02 +0000",
+      "has_raw_porkchop": "2025-01-16 07:29:52 +0000",
+      "has_raw_chicken": "2025-01-16 07:36:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-16 07:29:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-01-16 07:19:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-01-16 07:19:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-01-16 07:03:50 +0000"
@@ -6253,9 +6365,51 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-01-16 07:35:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-01-16 07:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-16 07:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-16 07:35:16 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/sugar_cane_decomposing": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-16 07:35:16 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2025-01-16 07:41:32 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-01-16 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-16 07:41:32 +0000"
     },
     "done": true
   },
@@ -6265,15 +6419,87 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/forge_eggs_decomposing": {
+    "criteria": {
+      "has_eggs": "2025-01-16 07:35:55 +0000"
+    },
+    "done": true
+  },
   "fluidtank:recipes/tank/tank_stone": {
     "criteria": {
       "has_forge_stone": "2025-01-16 07:13:38 +0000"
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/chicken_decomposing": {
+    "criteria": {
+      "has_chicken": "2025-01-16 07:36:24 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-01-16 07:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-16 07:30:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-01-16 07:29:42 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_golden_medium_pot": "2025-01-16 07:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-16 07:29:52 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_small_flowers": {
+    "criteria": {
+      "has_small_flowers": "2025-01-16 07:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-16 07:30:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-16 07:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-16 07:35:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-01-16 07:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-16 07:36:24 +0000"
     },
     "done": true
   },
@@ -6295,6 +6521,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-16 07:36:24 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/grass_block_decomposing": {
+    "criteria": {
+      "has_grass_block": "2025-01-16 07:20:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2025-01-16 07:03:50 +0000"
@@ -6307,9 +6545,63 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 07:29:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-01-16 07:36:24 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/blaze_rod_decomposing": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-16 07:41:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-01-16 07:41:32 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/porkchop_decomposing": {
+    "criteria": {
+      "has_porkchop": "2025-01-16 07:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-16 07:29:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 07:29:52 +0000"
+    },
+    "done": true
+  },
   "fluidtank:recipes/tank/tank_diamond": {
     "criteria": {
       "has_forge_gems/diamond": "2025-01-16 07:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-01-16 07:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-16 07:30:02 +0000"
     },
     "done": true
   },
@@ -6319,9 +6611,45 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-16 07:35:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2025-01-16 07:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-16 07:41:32 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/beef_decomposing": {
+    "criteria": {
+      "has_beef": "2025-01-16 07:30:02 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-01-16 07:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-16 07:30:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-16 07:35:55 +0000"
     },
     "done": true
   },
