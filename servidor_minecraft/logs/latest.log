@@ -2151,3 +2151,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [16Jan2025 08:32:12.974] [Worker-Main-121/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [16Jan2025 08:33:43.493] [Server thread/INFO] [Scaling Health/]: Blight Slug has died
 [16Jan2025 08:34:00.681] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[16Jan2025 08:36:18.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Ancient Civilization]
+[16Jan2025 08:37:05.649] [Server thread/INFO] [Scaling Health/]: Blight The Watcher was killed by AkujinPas
+[16Jan2025 08:37:05.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has completed the challenge [It Spreads]
+[16Jan2025 08:37:24.417] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Extradimensional Vessel'/138257, l='ServerLevel[world]', x=-4961.70, y=10.50, z=-1563.30]
+[16Jan2025 08:37:24.417] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/138257, l='ServerLevel[world]', x=-4961.70, y=10.50, z=-1563.30]
+[16Jan2025 08:41:46.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has completed the challenge [The Thing of Ancient Civilization]
