@@ -1847,3 +1847,78 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [16Jan2025 07:02:47.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was slain by ica_1016
 [16Jan2025 07:02:51.799] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [16Jan2025 07:02:51.800] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16Jan2025 07:03:23.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 07:03:51.806] [Worker-Main-122/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[16Jan2025 07:03:52.926] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 07:04:03.301] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/kotori316/fluidtank/fluids/PotionType
+[16Jan2025 07:04:03.518] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting lolcroc/craftingautomat/CraftingAutomatBlockEntity$CraftingFlag
+[16Jan2025 07:04:03.688] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[16Jan2025 07:04:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has completed the challenge [He Wasn't So Strong]
+[16Jan2025 07:04:11.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has completed the challenge [Titan-Forged]
+[16Jan2025 07:04:22.441] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[16Jan2025 07:04:30.449] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jan2025 07:04:42.184] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[16Jan2025 07:04:45.465] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[16Jan2025 07:05:03.198] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[16Jan2025 07:05:03.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was blown up by ica_1016
+[16Jan2025 07:05:03.226] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ica_1016 at X: 132.21735289279422, Y: 92.0, Z: -141.8595447513312
+[16Jan2025 07:05:06.762] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 07:05:06.763] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 07:05:10.395] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[16Jan2025 07:05:15.386] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/10412, l='ServerLevel[world]', x=218.50, y=46.00, z=-5692.50]
+[16Jan2025 07:05:25.533] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-56, z=2208}
+[16Jan2025 07:05:26.353] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[16Jan2025 07:05:26.354] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[16Jan2025 07:05:26.389] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[16Jan2025 07:05:26.390] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[16Jan2025 07:05:26.418] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[16Jan2025 07:05:26.419] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[16Jan2025 07:05:26.419] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[16Jan2025 07:05:26.419] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[16Jan2025 07:05:26.420] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-24, y=-57, z=2292}
+[16Jan2025 07:05:26.420] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[16Jan2025 07:05:26.421] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[16Jan2025 07:05:26.421] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[16Jan2025 07:05:26.421] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[16Jan2025 07:05:26.422] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-57, z=2292}
+[16Jan2025 07:05:26.426] [Worker-Main-120/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
+[16Jan2025 07:05:26.965] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Extradimensional Vessel'/9538, l='ServerLevel[world]', x=132.22, y=93.50, z=-141.86]
+[16Jan2025 07:05:26.966] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/9538, l='ServerLevel[world]', x=132.22, y=93.50, z=-141.86]
+[16Jan2025 07:05:27.927] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[16Jan2025 07:05:29.317] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[16Jan2025 07:05:29.317] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[16Jan2025 07:05:32.763] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[16Jan2025 07:05:47.493] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[16Jan2025 07:06:02.381] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[16Jan2025 07:07:48.475] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[16Jan2025 07:07:50.709] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by ica_1016
+[16Jan2025 07:08:37.445] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11225, l='ServerLevel[world]', x=206.39, y=76.00, z=-6004.69] died, message: 'Villager was slain by Zombie'
+[16Jan2025 07:09:07.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11300, l='ServerLevel[world]', x=231.87, y=71.00, z=-6005.53] died, message: 'Villager was slain by Zombie'
+[16Jan2025 07:09:25.993] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[16Jan2025 07:09:25.994] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[16Jan2025 07:09:25.998] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[16Jan2025 07:10:58.808] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[16Jan2025 07:11:39.780] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[16Jan2025 07:12:48.611] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[16Jan2025 07:16:18.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5009, y=59, z=-1392} BlockPos{x=-5009, y=60, z=-1395}
+[16Jan2025 07:16:34.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Alex's Caves]
+[16Jan2025 07:17:41.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.174.51.209:58437] logged in with entity id 18540 at (117.29393119731246, 95.5, -147.8669485570542)
+[16Jan2025 07:17:41.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[16Jan2025 07:17:41.756] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[16Jan2025 07:17:41.756] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[16Jan2025 07:17:41.757] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[16Jan2025 07:19:17.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Mother of Dragons]
+[16Jan2025 07:19:36.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [The Secrets of Enchanting]
+[16Jan2025 07:19:43.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16Jan2025 07:21:34.669] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[16Jan2025 07:21:54.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[16Jan2025 07:21:55.607] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/Tiers$SlotType
+[16Jan2025 07:22:49.772] [pool-10-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach]]
+[16Jan2025 07:22:49.775] [pool-10-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[16Jan2025 07:22:51.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2661ms or 53 ticks behind
+[16Jan2025 07:23:01.896] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:23:08.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16Jan2025 07:23:25.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
+[16Jan2025 07:23:36.735] [Worker-Main-131/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:23:36.736] [Worker-Main-131/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:23:36.737] [Worker-Main-131/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'

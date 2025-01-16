@@ -5478,15 +5478,27 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_counter": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_spruce_counter": "2025-01-13 08:04:14 +0000"
+      "has_chainmail_chestplate": "2025-01-13 07:20:21 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/egg_sandwich": {
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
-      "has_fried_egg": "2025-01-13 07:52:49 +0000"
+      "has_chainmail_chestplate": "2025-01-13 07:20:21 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-01-13 07:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-01-13 07:20:21 +0000"
     },
     "done": true
   },
@@ -5496,69 +5508,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/nether_star_decomposing": {
-    "criteria": {
-      "has_nether_star": "2025-01-13 08:12:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-01-13 07:36:13 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_table": {
-    "criteria": {
-      "has_spruce_table": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/spruce_banister": {
-    "criteria": {
-      "has_item": "2025-01-13 08:04:22 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_desk": {
-    "criteria": {
-      "has_planks": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_leaves": {
-    "criteria": {
-      "has_leaves": "2025-01-13 08:05:59 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_drawer": {
-    "criteria": {
-      "has_oak_drawer": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_dining_bench": {
-    "criteria": {
-      "has_spruce_dining_bench": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_shelf": {
-    "criteria": {
-      "has_oak_shelf": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2025-01-13 07:57:07 +0000"
     },
     "done": true
   },
@@ -5568,75 +5520,9 @@
     },
     "done": true
   },
-  "enigmaticlegacy:recipes/generic/heaven_scroll": {
-    "criteria": {
-      "has_items": "2025-01-13 08:12:22 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-13 07:36:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/bone_meal_decomposing": {
-    "criteria": {
-      "has_bone_meal": "2025-01-13 08:38:07 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/forge_seeds_decomposing": {
-    "criteria": {
-      "has_seeds": "2025-01-13 07:37:30 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/spider_eye_decomposing": {
-    "criteria": {
-      "has_spider_eye": "2025-01-13 07:53:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-01-13 08:00:28 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_corner_trim": {
-    "criteria": {
-      "has_spruce_corner_trim": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_counter": {
-    "criteria": {
-      "has_oak_counter": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_desk": {
-    "criteria": {
-      "has_spruce_desk": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_chainmail_chestplate": "2025-01-13 07:20:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-13 07:57:07 +0000"
     },
     "done": true
   },
@@ -5646,39 +5532,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-01-13 08:12:38 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_cherry": {
     "criteria": {
       "has_planks": "2025-01-13 07:36:13 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_seeds": {
-    "criteria": {
-      "has_seeds": "2025-01-13 07:37:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_bench": {
-    "criteria": {
-      "has_oak_bench": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-13 08:04:14 +0000"
     },
     "done": true
   },
@@ -5694,111 +5550,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/sign_post_spruce": {
-    "criteria": {
-      "has_planks": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_crate": {
-    "criteria": {
-      "has_planks": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-13 08:27:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-01-13 08:12:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-01-13 08:00:28 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_couch": {
-    "criteria": {
-      "has_oak_couch": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_chair": {
-    "criteria": {
-      "has_oak_chair": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_chestplate_repairing": {
-    "criteria": {
-      "has_chainmail_chestplate": "2025-01-13 07:20:21 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/cherry_dining_bench": {
     "criteria": {
       "has_cherry_dining_bench": "2025-01-13 07:36:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-01-13 07:57:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-01-13 07:53:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/phantom_membrane_decomposing": {
-    "criteria": {
-      "has_phantom_membrane": "2025-01-13 08:40:35 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_drawer": {
-    "criteria": {
-      "has_spruce_drawer": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/slime_ball_decomposing": {
-    "criteria": {
-      "has_slime_ball": "2025-01-13 08:00:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_cupboard": {
-    "criteria": {
-      "has_oak_cupboard": "2025-01-13 07:57:07 +0000"
     },
     "done": true
   },
@@ -5808,27 +5562,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_fancy_bed": {
-    "criteria": {
-      "has_spruce_fancy_bed": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/sign_post_cherry": {
     "criteria": {
       "has_the_recipe": "2025-01-13 07:36:13 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_cupboard": {
-    "criteria": {
-      "has_spruce_cupboard": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane_from_bio_forging": {
-    "criteria": {
-      "has_phantom_membrane": "2025-01-13 08:40:35 +0000"
     },
     "done": true
   },
@@ -5844,157 +5580,6 @@
     },
     "done": true
   },
-  "fluidtank:recipes/tank/tank_star": {
-    "criteria": {
-      "has_item_nether_star": "2025-01-13 08:12:22 +0000",
-      "has_forge_nether_stars": "2025-01-13 08:12:22 +0000"
-    },
-    "done": true
-  },
-  "fluidtank:recipes/tank/tank_wood": {
-    "criteria": {
-      "has_forge_glass": "2025-01-13 07:50:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-13 08:27:12 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_nightstand": {
-    "criteria": {
-      "has_oak_nightstand": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/relics/nether_star": {
-    "criteria": {
-      "has_items": "2025-01-13 08:12:22 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_chair": {
-    "criteria": {
-      "has_planks": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2025-01-13 08:01:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-01-13 08:38:07 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_fancy_bed": {
-    "criteria": {
-      "has_oak_fancy_bed": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_table": {
-    "criteria": {
-      "has_oak_table": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_shelf": {
-    "criteria": {
-      "has_spruce_shelf": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_corner_trim": {
-    "criteria": {
-      "has_oak_corner_trim": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/planter_rich": {
-    "criteria": {
-      "has_bone_meal": "2025-01-13 08:38:07 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_spruce": {
-    "criteria": {
-      "has_the_recipe": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_pillar_trim": {
-    "criteria": {
-      "has_spruce_pillar_trim": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/rare": {
-    "criteria": {
-      "sword": "2025-01-13 07:20:21 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_dining_bench": {
-    "criteria": {
-      "has_oak_dining_bench": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_desk": {
-    "criteria": {
-      "has_oak_desk": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane_pane_from_bio_forging": {
-    "criteria": {
-      "has_phantom_membrane": "2025-01-13 08:40:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_park_bench": {
-    "criteria": {
-      "has_planks": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/cherry_fancy_bed": {
     "criteria": {
       "has_cherry_fancy_bed": "2025-01-13 07:36:13 +0000"
@@ -6004,24 +5589,6 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-01-13 07:36:13 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/phantom_trophy": {
-    "criteria": {
-      "has_phantom_trophy": "2025-01-13 08:40:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-01-13 08:38:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-01-13 08:00:18 +0000"
     },
     "done": true
   },
@@ -6061,75 +5628,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/cherry_nightstand": {
     "criteria": {
       "has_cherry_nightstand": "2025-01-13 07:36:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_couch": {
-    "criteria": {
-      "has_spruce_couch": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "eidolon:recipes/building_blocks/smooth_stone_masonry_stonecutter_0": {
-    "criteria": {
-      "has_journal": "2025-01-13 08:27:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-13 08:27:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_pillar_trim": {
-    "criteria": {
-      "has_oak_pillar_trim": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-01-13 08:04:46 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_nightstand": {
-    "criteria": {
-      "has_spruce_nightstand": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_bench": {
-    "criteria": {
-      "has_spruce_bench": "2025-01-13 08:04:14 +0000"
     },
     "done": true
   },
@@ -6145,9 +5646,411 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/cherry_shelf": {
+    "criteria": {
+      "has_cherry_shelf": "2025-01-13 07:36:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_pillar_trim": {
+    "criteria": {
+      "has_cherry_pillar_trim": "2025-01-13 07:36:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_seeds_decomposing": {
+    "criteria": {
+      "has_seeds": "2025-01-13 07:37:30 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_seeds": {
+    "criteria": {
+      "has_seeds": "2025-01-13 07:37:30 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_wood": {
+    "criteria": {
+      "has_forge_glass": "2025-01-13 07:50:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-01-13 07:52:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/spider_eye_decomposing": {
+    "criteria": {
+      "has_spider_eye": "2025-01-13 07:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-13 07:53:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2025-01-13 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-01-13 07:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-13 08:00:18 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/gravel_decomposing": {
+    "criteria": {
+      "has_gravel": "2025-01-13 08:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-13 08:00:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-13 08:00:28 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/slime_ball_decomposing": {
+    "criteria": {
+      "has_slime_ball": "2025-01-13 08:00:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-01-13 08:00:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-01-13 08:01:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_park_bench": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-01-13 08:04:14 +0000"
     },
     "done": true
   },
@@ -6175,39 +6078,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/gravel_decomposing": {
-    "criteria": {
-      "has_gravel": "2025-01-13 08:00:18 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oak_side_table": {
-    "criteria": {
-      "has_oak_side_table": "2025-01-13 07:57:07 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cherry_shelf": {
-    "criteria": {
-      "has_cherry_shelf": "2025-01-13 07:36:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_chainmail_chestplate": "2025-01-13 07:20:21 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-01-13 08:04:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cherry_pillar_trim": {
-    "criteria": {
-      "has_cherry_pillar_trim": "2025-01-13 07:36:13 +0000"
     },
     "done": true
   },
@@ -6226,6 +6099,229 @@
   "cfm:recipes/decorations/spruce_table": {
     "criteria": {
       "has_planks": "2025-01-13 08:04:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-01-13 08:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-13 08:04:46 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_leaves": {
+    "criteria": {
+      "has_leaves": "2025-01-13 08:05:59 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/nether_star_decomposing": {
+    "criteria": {
+      "has_nether_star": "2025-01-13 08:12:22 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_items": "2025-01-13 08:12:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-13 08:12:22 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_star": {
+    "criteria": {
+      "has_item_nether_star": "2025-01-13 08:12:22 +0000",
+      "has_forge_nether_stars": "2025-01-13 08:12:22 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2025-01-13 08:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-13 08:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-13 08:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-13 08:27:12 +0000"
+    },
+    "done": true
+  },
+  "eidolon:recipes/building_blocks/smooth_stone_masonry_stonecutter_0": {
+    "criteria": {
+      "has_journal": "2025-01-13 08:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-13 08:27:12 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/bone_meal_decomposing": {
+    "criteria": {
+      "has_bone_meal": "2025-01-13 08:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-13 08:38:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-01-13 08:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-13 08:38:07 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/phantom_membrane_decomposing": {
+    "criteria": {
+      "has_phantom_membrane": "2025-01-13 08:40:35 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane_from_bio_forging": {
+    "criteria": {
+      "has_phantom_membrane": "2025-01-13 08:40:35 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane_pane_from_bio_forging": {
+    "criteria": {
+      "has_phantom_membrane": "2025-01-13 08:40:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-01-13 08:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-16 07:03:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-01-16 07:03:50 +0000"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/solid_fuel_quarry": {
+    "criteria": {
+      "has_storage_blocks/gold": "2025-01-16 07:03:50 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_gold": {
+    "criteria": {
+      "has_forge_ingots/gold": "2025-01-16 07:07:04 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-16 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-16 07:03:50 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_stone": {
+    "criteria": {
+      "has_forge_stone": "2025-01-16 07:13:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-01-16 07:03:50 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-01-16 07:04:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-01-16 07:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-16 07:07:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-01-16 07:03:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_shovel_repairing": {
+    "criteria": {
+      "has_netherite_shovel": "2025-01-16 07:04:19 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_diamond": {
+    "criteria": {
+      "has_forge_gems/diamond": "2025-01-16 07:07:17 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-01-16 07:04:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-01-16 07:03:50 +0000"
     },
     "done": true
   },

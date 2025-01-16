@@ -15182,5 +15182,125 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/full_flesh_door_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-16 07:16:34 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/packed_flesh_wall_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_stairs_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-01-16 07:12:33 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_slab_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/fibrous_flesh_slab_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_fence_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/packed_flesh_stairs_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/injector_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/packed_flesh_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/fibrous_flesh_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_door_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-01-16 07:12:33 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/fibrous_flesh_wall_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/packed_flesh_slab_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_wall_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_iris_door_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/fibrous_flesh_stairs_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-01-16 07:05:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
