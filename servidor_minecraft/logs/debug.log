@@ -12055,3 +12055,204 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [16Jan2025 07:54:33.536] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
 [16Jan2025 07:54:37.628] [Worker-Main-120/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
 [16Jan2025 07:54:37.683] [Worker-Main-120/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[16Jan2025 07:55:08.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16Jan2025 07:55:10.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 07:55:10.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 07:55:40.525] [Server thread/INFO] [Scaling Health/]: Blight Creeper was killed by Draconic Evolution Grinder
+[16Jan2025 07:56:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Suit Up]
+[16Jan2025 07:56:57.001] [pool-10-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]]
+[16Jan2025 07:56:57.125] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1995, y=67, z=-6874} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[16Jan2025 07:56:57.126] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1995, y=67, z=-6874}
+[16Jan2025 07:56:57.126] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1995, y=66, z=-6874} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[16Jan2025 07:56:57.126] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-1995, y=66, z=-6874}
+[16Jan2025 07:56:58.143] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1995, y=67, z=-6875} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[16Jan2025 07:56:58.143] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-1995, y=67, z=-6875}
+[16Jan2025 07:57:37.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was shot by Skeleton
+[16Jan2025 07:57:39.298] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 07:57:39.298] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 07:57:39.302] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[16Jan2025 07:57:46.375] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[16Jan2025 07:58:00.864] [Server thread/INFO] [Scaling Health/]: Blight Wither Skeleton was killed by Draconic Evolution Grinder
+[16Jan2025 07:58:06.961] [Worker-Main-121/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:58:06.961] [Worker-Main-121/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:58:10.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [The Lighthouse]
+[16Jan2025 07:58:13.806] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:58:13.807] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:58:13.807] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:58:25.488] [Worker-Main-121/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 07:59:19.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Spooky Scary Skeleton]
+[16Jan2025 07:59:30.627] [Worker-Main-122/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_2
+[16Jan2025 07:59:46.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[16Jan2025 08:00:09.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved too quickly! 0.013958431110452807,-12.671285123645191,-0.045216331118581365
+[16Jan2025 08:00:11.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 08:00:11.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 08:00:27.485] [Server thread/INFO] [Scaling Health/]: Blight Wither Skeleton was killed by Draconic Evolution Grinder
+[16Jan2025 08:00:45.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Disconnected
+[16Jan2025 08:00:45.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[16Jan2025 08:00:53.291] [Server thread/INFO] [Scaling Health/]: Blight Wither Skeleton was killed by Draconic Evolution Grinder
+[16Jan2025 08:02:58.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Don't Count Your Moas...]
+[16Jan2025 08:03:22.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by The Watcher
+[16Jan2025 08:03:30.860] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 08:03:30.860] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16Jan2025 08:03:30.864] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[16Jan2025 08:05:11.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 08:05:11.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 08:05:53.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 fell from a high place
+[16Jan2025 08:05:56.866] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 08:05:56.866] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 08:05:56.870] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[16Jan2025 08:06:00.893] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:06:00.895] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:06:01.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:bronze_dungeon/chest_room
+[16Jan2025 08:06:01.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:bronze_dungeon/entrance
+[16Jan2025 08:06:01.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:bronze_dungeon/end_corridor
+[16Jan2025 08:06:01.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:bronze_dungeon/square_tunnel
+[16Jan2025 08:06:01.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:bronze_dungeon/boss_room
+[16Jan2025 08:06:01.580] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:bronze_dungeon/lobby
+[16Jan2025 08:06:02.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:gold_dungeon/island
+[16Jan2025 08:06:02.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:gold_dungeon/stub
+[16Jan2025 08:06:02.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:gold_dungeon/tunnel
+[16Jan2025 08:06:02.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:gold_dungeon/boss_room
+[16Jan2025 08:06:04.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Hostile Paradise]
+[16Jan2025 08:06:04.527] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:06:04.528] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:07:22.155] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:07:22.155] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:07:43.015] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:07:43.015] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:08:02.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Tiger
+[16Jan2025 08:08:05.493] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 08:08:05.493] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 08:08:05.497] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[16Jan2025 08:08:24.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Tiger
+[16Jan2025 08:08:26.356] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 08:08:26.356] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 08:08:26.360] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[16Jan2025 08:09:54.973] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:09:54.974] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:10:04.301] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[16Jan2025 08:10:11.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 08:10:11.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 08:10:15.504] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:10:15.504] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:10:27.301] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:10:27.301] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:10:51.561] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:10:51.562] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:11:11.148] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:11:11.148] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:11:26.013] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:11:26.013] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:11:36.601] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:11:36.601] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:12:22.610] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:12:22.610] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:12:51.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Tiger
+[16Jan2025 08:12:54.015] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 08:12:54.016] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 08:12:54.019] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[16Jan2025 08:13:17.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Tiger
+[16Jan2025 08:13:17.569] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:13:17.569] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:13:20.327] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 08:13:20.327] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 08:13:20.331] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[16Jan2025 08:13:32.919] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:13:32.919] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:13:33.724] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[16Jan2025 08:14:21.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Tiger
+[16Jan2025 08:14:22.802] [Worker-Main-120/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[16Jan2025 08:14:22.803] [Worker-Main-120/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[16Jan2025 08:14:22.803] [Worker-Main-120/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[16Jan2025 08:14:23.442] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 08:14:23.442] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 08:14:23.445] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[16Jan2025 08:14:37.017] [Server thread/INFO] [Scaling Health/]: Blight Tiger was killed by ica_1016
+[16Jan2025 08:14:54.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:silver_dungeon/rear
+[16Jan2025 08:14:54.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:silver_dungeon/boss_room
+[16Jan2025 08:14:54.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:silver_dungeon/skeleton
+[16Jan2025 08:14:54.564] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:silver_dungeon/floor
+[16Jan2025 08:14:54.564] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:silver_dungeon/wall
+[16Jan2025 08:14:54.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:silver_dungeon/chest_room
+[16Jan2025 08:14:54.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:silver_dungeon/door
+[16Jan2025 08:14:54.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:silver_dungeon/staircase
+[16Jan2025 08:14:54.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:silver_dungeon/tall_staircase
+[16Jan2025 08:14:54.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aether:silver_dungeon/boss_door
+[16Jan2025 08:15:11.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 08:15:11.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 08:15:28.052] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:15:28.052] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:15:32.183] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[16Jan2025 08:16:12.617] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/fields/field_1
+[16Jan2025 08:16:12.619] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/fields/field_2
+[16Jan2025 08:17:05.358] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:17:05.358] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:17:49.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Baby Food]
+[16Jan2025 08:18:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [... Until They hatch!]
+[16Jan2025 08:18:41.948] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:18:41.948] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:18:49.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was burnt to a crisp whilst fighting The Watcher
+[16Jan2025 08:18:52.676] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 08:18:52.676] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 08:18:52.679] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[16Jan2025 08:19:32.246] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ica_1016 picking up: PermanentItemEntity['Extradimensional Vessel'/123721, l='ServerLevel[world]', x=-4973.14, y=-23.50, z=-1569.76]
+[16Jan2025 08:19:32.247] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/123721, l='ServerLevel[world]', x=-4973.14, y=-23.50, z=-1569.76]
+[16Jan2025 08:20:06.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> xaero-waypoint:Shared Location:S:-4962:-25:-1570:11:false:0:Internal-overworld-waypoints
+[16Jan2025 08:20:11.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 08:20:11.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 08:23:10.762] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:23:10.762] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / aether:the_aether]
+[16Jan2025 08:23:55.946] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:23:55.947] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:23:56.262] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:23:56.262] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / aether:the_aether] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[16Jan2025 08:23:56.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moa (vehicle of claosgamer) moved too quickly! 0.0,-320.13483200149506,0.0
+[16Jan2025 08:23:56.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moa (vehicle of claosgamer) moved too quickly! 0.0,-320.23283200149507,0.0
+[16Jan2025 08:23:56.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moa (vehicle of claosgamer) moved too quickly! 0.0,-320.330832001495,0.0
+[16Jan2025 08:23:56.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moa (vehicle of claosgamer) moved too quickly! 0.0,-320.42883200149504,0.0
+[16Jan2025 08:23:56.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moa (vehicle of claosgamer) moved too quickly! 0.0,-320.52683200149505,0.0
+[16Jan2025 08:25:11.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 08:25:11.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 08:30:11.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 08:30:11.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 08:31:10.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Zombie
+[16Jan2025 08:31:10.734] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ica_1016 at X: -4961.699999988079, Y: 9.0, Z: -1563.300000011921
+[16Jan2025 08:31:13.812] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 08:31:13.813] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 08:31:13.816] [Server thread/DEBUG] [twilightforest/]: Player ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729) respawned and received items held in storage
+[16Jan2025 08:31:19.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/passages/passage_1
+[16Jan2025 08:31:19.060] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/passages/passage_2
+[16Jan2025 08:31:51.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[16Jan2025 08:31:51.516] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_2
+[16Jan2025 08:31:51.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_0
+[16Jan2025 08:31:51.639] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_roots_0
+[16Jan2025 08:32:09.210] [Worker-Main-121/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 08:32:10.453] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 08:32:10.454] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 08:32:10.454] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 08:32:10.455] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 08:32:11.382] [Worker-Main-121/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 08:32:11.386] [Worker-Main-122/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 08:32:11.387] [Worker-Main-122/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 08:32:11.388] [Worker-Main-122/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 08:32:11.388] [Worker-Main-122/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 08:32:11.974] [Worker-Main-121/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 08:32:12.011] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 08:32:12.012] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 08:32:12.573] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_pillager_0
+[16Jan2025 08:32:12.678] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_witch_2
+[16Jan2025 08:32:12.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_field_4
+[16Jan2025 08:32:12.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_1
+[16Jan2025 08:32:12.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_field_0
+[16Jan2025 08:32:12.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_vindicator_1
+[16Jan2025 08:32:12.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_field_2
+[16Jan2025 08:32:12.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_field_3
+[16Jan2025 08:32:12.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_field_1
+[16Jan2025 08:32:12.974] [Worker-Main-121/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[16Jan2025 08:32:18.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[16Jan2025 08:32:18.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[16Jan2025 08:32:18.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[16Jan2025 08:33:43.493] [Server thread/INFO] [Scaling Health/]: Blight Slug has died
+[16Jan2025 08:34:00.681] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[16Jan2025 08:35:11.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 08:35:11.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
