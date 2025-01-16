@@ -1757,3 +1757,93 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [16Jan2025 06:22:30.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
 [16Jan2025 06:31:38.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
 [16Jan2025 06:50:35.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[16Jan2025 06:54:42.873] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[16Jan2025 06:54:42.930] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[16Jan2025 06:54:48.672] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/misc/KryptonPipelineEvent
+[16Jan2025 06:54:48.674] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/velocitypowered/natives/util/BufferPreference
+[16Jan2025 06:54:48.811] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/PlayerModelPart
+[16Jan2025 06:54:48.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.98.24.138:58071] logged in with entity id 218 at (-874.055147660869, 110.0, 243.11113480477476)
+[16Jan2025 06:54:48.839] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[16Jan2025 06:54:48.854] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/boss/KnightPhantom$Formation
+[16Jan2025 06:54:48.858] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/naga/EntityNaga$EnumNagaMovement
+[16Jan2025 06:54:48.861] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/Ancient_Remnant/Ancient_Remnant_Entity$AttackMode
+[16Jan2025 06:54:48.866] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/shadowsoffire/gateways/entity/GatewayEntity$FailureReason
+[16Jan2025 06:54:48.869] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/EntityMimicOctopus$MimicState
+[16Jan2025 06:54:48.871] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[16Jan2025 06:54:48.872] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[16Jan2025 06:54:48.879] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/Pet/The_Baby_Leviathan_Entity$AttackMode
+[16Jan2025 06:54:48.881] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/grottol/EntityGrottol$EnumDeathType
+[16Jan2025 06:54:48.882] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/EntityAmphithere$FlightBehavior
+[16Jan2025 06:54:48.883] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexmodguy/alexscaves/server/entity/living/MagnetronEntity$AttackPose
+[16Jan2025 06:54:48.885] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/The_Leviathan/The_Leviathan_Entity$AttackMode
+[16Jan2025 06:54:48.887] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ancient_Ancient_Remnant_Entity$AttackMode
+[16Jan2025 06:54:48.897] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Nameless_Sorcerer_Entity$SpellType
+[16Jan2025 06:54:48.898] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/Pet/Modern_Remnant_Entity$AttackMode
+[16Jan2025 06:54:48.930] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Face
+[16Jan2025 06:54:48.931] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$TerrainType
+[16Jan2025 06:54:48.931] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Biome
+[16Jan2025 06:54:48.932] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Feature
+[16Jan2025 06:54:48.938] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/utils/MiscUtils$Festivity
+[16Jan2025 06:54:49.017] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/brandon3055/draconicevolution/api/config/ConfigProperty$DecimalFormatter
+[16Jan2025 06:54:49.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[16Jan2025 06:54:49.026] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/RelativeMovement
+[16Jan2025 06:54:49.035] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/brandon3055/draconicevolution/api/config/ConfigProperty$BooleanFormatter
+[16Jan2025 06:54:49.038] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilitySection$AbilitySectionType
+[16Jan2025 06:54:49.045] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/ability/AbilityHandler
+[16Jan2025 06:54:49.049] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/ability/AbilityPeriod$AbilityPeriodType
+[16Jan2025 06:54:49.101] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[16Jan2025 06:54:49.101] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[16Jan2025 06:54:49.103] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[16Jan2025 06:54:49.607] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[16Jan2025 06:54:49.643] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aetherteam/nitrogen/capability/INBTSynchable$Direction
+[16Jan2025 06:54:49.649] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: false
+[16Jan2025 06:54:49.919] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting be/florens/expandability/EventResult
+[16Jan2025 06:54:50.148] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[16Jan2025 06:54:51.972] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[16Jan2025 06:54:52.102] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/IBellConnections$BellConnection
+[16Jan2025 06:55:05.496] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/network/ClientRequestSettingsPacket$Event
+[16Jan2025 06:55:05.499] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/network/ConfirmedSetting$Event
+[16Jan2025 06:55:05.678] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[16Jan2025 06:55:20.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu$Arcana
+[16Jan2025 06:57:41.381] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[16Jan2025 06:57:42.916] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/su5ed/mffs/util/Fortron$Action
+[16Jan2025 06:57:42.923] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/silentchaos512/lib/advancements/UseItemTrigger$Target
+[16Jan2025 06:57:42.928] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[16Jan2025 06:58:35.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.179.247.197:34511] logged in with entity id 820 at (293.2749146395992, 64.0, -4263.4553285789625)
+[16Jan2025 06:58:35.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[16Jan2025 06:58:35.812] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[16Jan2025 06:58:35.812] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[16Jan2025 06:58:35.813] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[16Jan2025 06:58:36.348] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[16Jan2025 06:58:37.052] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[16Jan2025 06:58:38.981] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[16Jan2025 06:58:39.615] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[16Jan2025 06:58:43.927] [Worker-Main-122/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[16Jan2025 06:58:44.668] [Worker-Main-121/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[16Jan2025 06:58:48.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/980, l='ServerLevel[world]', x=369.46, y=67.00, z=-4257.20] died, message: 'Villager was slain by Siren'
+[16Jan2025 06:58:55.501] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/998, l='ServerLevel[world]', x=369.48, y=68.00, z=-4256.21] died, message: 'Villager was slain by Siren'
+[16Jan2025 06:58:58.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: claosgamer[/127.189.82.61:39113] logged in with entity id 1115 at (1400.7768735320112, 110.0, -11172.69911927946)
+[16Jan2025 06:58:58.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer joined the game
+[16Jan2025 06:58:58.678] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to claosgamer...
+[16Jan2025 06:58:58.679] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[16Jan2025 06:58:58.679] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to claosgamer
+[16Jan2025 06:58:59.628] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[16Jan2025 06:58:59.628] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md49dc97$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[16Jan2025 06:59:00.042] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[16Jan2025 06:59:03.224] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
+[16Jan2025 06:59:06.976] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[16Jan2025 06:59:06.978] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[16Jan2025 06:59:08.075] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[16Jan2025 06:59:57.317] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[16Jan2025 07:00:00.107] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[16Jan2025 07:00:18.272] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[16Jan2025 07:00:21.594] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[16Jan2025 07:01:02.376] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[16Jan2025 07:01:32.208] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[16Jan2025 07:01:55.012] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[16Jan2025 07:01:55.864] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
+[16Jan2025 07:02:00.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Amateur Archaeologist]
+[16Jan2025 07:02:37.898] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[16Jan2025 07:02:47.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was slain by ica_1016
+[16Jan2025 07:02:51.799] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 07:02:51.800] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty

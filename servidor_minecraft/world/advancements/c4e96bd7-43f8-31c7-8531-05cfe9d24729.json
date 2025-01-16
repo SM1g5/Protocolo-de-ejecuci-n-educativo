@@ -15104,39 +15104,9 @@
     },
     "done": true
   },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-01-15 03:18:19 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/relics/golem_heart": {
-    "criteria": {
-      "has_items": "2025-01-15 03:34:55 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/glow_ink_sac_decomposing": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-01-15 03:22:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-01-15 03:17:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-01-15 03:22:49 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/biomesoplenty_flesh_tendons_decomposing": {
-    "criteria": {
-      "has_mob_sinew": "2025-01-15 05:56:40 +0000"
     },
     "done": true
   },
@@ -15152,21 +15122,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2025-01-15 03:22:39 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/mob_sinew_decomposing": {
-    "criteria": {
-      "has_mob_sinew": "2025-01-15 05:56:40 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/transportation/ghost_rail": {
     "criteria": {
       "has_item": "2025-01-15 03:17:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-01-15 03:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-01-15 03:22:39 +0000"
     },
     "done": true
   },
@@ -15176,9 +15146,39 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/glow_ink_sac_decomposing": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-15 03:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-15 03:22:49 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/golem_heart": {
+    "criteria": {
+      "has_items": "2025-01-15 03:34:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-01-15 04:15:40 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/biomesoplenty_flesh_tendons_decomposing": {
+    "criteria": {
+      "has_mob_sinew": "2025-01-15 05:56:40 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/mob_sinew_decomposing": {
+    "criteria": {
+      "has_mob_sinew": "2025-01-15 05:56:40 +0000"
     },
     "done": true
   },
