@@ -2021,3 +2021,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [16Jan2025 07:44:03.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claosgamer lost connection: Timed out
 [16Jan2025 07:44:03.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer left the game
 [16Jan2025 07:44:04.001] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Jan2025 07:44:30.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16Jan2025 07:44:31.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Zombie
+[16Jan2025 07:44:36.820] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 07:44:36.821] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 07:44:40.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: claosgamer[/127.189.82.61:56181] logged in with entity id 56889 at (130.3432474361694, 93.0, -134.46449086503395)
+[16Jan2025 07:44:40.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer joined the game
+[16Jan2025 07:44:40.545] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to claosgamer...
+[16Jan2025 07:44:40.545] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[16Jan2025 07:44:40.546] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to claosgamer
+[16Jan2025 07:45:43.178] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[16Jan2025 07:45:52.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Phantom
+[16Jan2025 07:45:54.461] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 07:45:54.461] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 07:46:01.592] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[16Jan2025 07:46:12.570] [Worker-Main-131/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-101578221,979652157,-1330566700,1401853732],type:"minecraft:entity",y_offset:0.36f}}]
+[16Jan2025 07:46:42.051] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[16Jan2025 07:46:51.386] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[16Jan2025 07:48:22.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[16Jan2025 07:50:06.416] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[16Jan2025 07:50:06.417] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[16Jan2025 07:50:07.226] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[16Jan2025 07:50:10.678] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[16Jan2025 07:50:10.728] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[16Jan2025 07:50:10.728] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[16Jan2025 07:51:13.172] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[16Jan2025 07:52:06.036] [pool-10-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga]]
+[16Jan2025 07:52:07.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
+[16Jan2025 07:52:13.157] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[16Jan2025 07:52:49.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was shot by AkujinPas
+[16Jan2025 07:52:51.916] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 07:52:51.916] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[16Jan2025 07:53:31.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bucefalo (vehicle of ica_1016) moved wrongly! 0.9839288125406256
+[16Jan2025 07:53:31.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bucefalo (vehicle of ica_1016) moved wrongly! 1.796908734286717
+[16Jan2025 07:53:31.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bucefalo (vehicle of ica_1016) moved wrongly! 2.323645762643423
+[16Jan2025 07:54:31.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was shot by AkujinPas
+[16Jan2025 07:54:33.532] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 07:54:33.533] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 07:54:37.628] [Worker-Main-120/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[16Jan2025 07:54:37.683] [Worker-Main-120/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases

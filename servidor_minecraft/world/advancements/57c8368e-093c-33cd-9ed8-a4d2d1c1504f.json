@@ -14814,6 +14814,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_the_recipe": "2025-01-16 07:43:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/maze_map": {
     "criteria": {
       "has_item": "2025-01-16 07:36:25 +0000"
