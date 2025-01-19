@@ -2074,3 +2074,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Jan2025 03:40:24.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2679ms or 53 ticks behind
 [19Jan2025 03:41:37.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! -8.512614426152481,-1.729448540913907,-15.079354988132536
 [19Jan2025 03:41:37.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2632ms or 52 ticks behind
+[19Jan2025 03:44:41.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! 6.2413964273494,-1.9195227400763883,17.34451563350183
+[19Jan2025 03:44:41.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[19Jan2025 03:45:52.433] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/obscuria/obscureapi/api/utils/Icons
+[19Jan2025 03:46:07.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Jan2025 03:46:23.883] [Worker-Main-55/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[19Jan2025 03:46:23.884] [Worker-Main-55/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[19Jan2025 03:46:23.884] [Worker-Main-55/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[19Jan2025 03:47:11.246] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[19Jan2025 03:49:56.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has reached the goal [The Cave That Time Forgot]
+[19Jan2025 03:50:25.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> a que no sabes que
+[19Jan2025 03:50:38.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> que
+[19Jan2025 03:51:05.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> ya la encontre
+[19Jan2025 03:51:17.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> a quien
+[19Jan2025 03:51:29.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/53063, l='ServerLevel[world]', x=1283.35, y=65.18, z=3000.21] died, message: 'Weaponsmith was slain by Fire Dragon'
+[19Jan2025 03:51:30.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52919, l='ServerLevel[world]', x=1282.55, y=64.00, z=3000.54] died, message: 'Villager was slain by Fire Dragon'
+[19Jan2025 03:51:46.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52585, l='ServerLevel[world]', x=1271.25, y=64.00, z=3007.53] died, message: 'Villager was burnt to a crisp whilst fighting Fire Dragon'
+[19Jan2025 03:51:59.344] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/52920, l='ServerLevel[world]', x=1284.70, y=64.00, z=3005.81] died, message: 'Armorer burned to death'
+[19Jan2025 03:52:04.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/53065, l='ServerLevel[world]', x=1294.36, y=67.72, z=3000.45] died, message: 'Weaponsmith was slain by Fire Dragon'
+[19Jan2025 03:52:14.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52928, l='ServerLevel[world]', x=1300.80, y=64.00, z=3007.48] died, message: 'Villager was slain by Fire Dragon'
+[19Jan2025 03:52:51.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> el bioma de dinosaurios
+[19Jan2025 03:53:07.138] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/52583, l='ServerLevel[world]', x=1276.50, y=63.00, z=3022.79] died, message: 'Fletcher was slain by Fire Dragon'
+[19Jan2025 03:53:21.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> pero ahorita asi como esty esta cabron ir para mi
