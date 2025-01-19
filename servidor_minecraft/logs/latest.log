@@ -1842,3 +1842,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Jan2025 20:54:49.412] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
 [19Jan2025 20:56:00.815] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
 [19Jan2025 20:56:14.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Captured!]
+[19Jan2025 20:58:43.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Timed out
+[19Jan2025 20:58:43.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[19Jan2025 21:00:10.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.98.24.138:57633] logged in with entity id 31505 at (130.33801294537668, 92.0, -139.8557287369787)
+[19Jan2025 21:00:10.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[19Jan2025 21:00:10.311] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[19Jan2025 21:00:10.312] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Jan2025 21:00:10.312] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[19Jan2025 21:06:19.582] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[19Jan2025 21:08:14.313] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi

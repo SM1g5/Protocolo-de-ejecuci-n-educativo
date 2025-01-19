@@ -15629,5 +15629,11 @@
     },
     "done": true
   },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-01-19 20:56:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
