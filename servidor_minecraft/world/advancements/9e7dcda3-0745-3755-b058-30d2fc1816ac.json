@@ -14070,13 +14070,37 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_blue_leggings": {
+  "betterdungeons:zombie_dungeon": {
     "criteria": {
-      "has_item": "2025-01-19 04:15:33 +0000"
+      "in_better_zombie_dungeon": "2025-01-19 03:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-19 03:36:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-01-19 03:49:56 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_cycad": {
+    "criteria": {
+      "has_cycad": "2025-01-19 03:53:02 +0000"
     },
     "done": true
   },
   "biomancy:recipes/biomancy/decomposing/curly_fern_decomposing": {
+    "criteria": {
+      "has_curly_fern": "2025-01-19 03:56:47 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_curly_fern": {
     "criteria": {
       "has_curly_fern": "2025-01-19 03:56:47 +0000"
     },
@@ -14094,6 +14118,30 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-01-19 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-01-19 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-01-19 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-01-19 04:15:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
     "criteria": {
       "has_dragonscales_blue": "2025-01-19 04:15:33 +0000"
@@ -14106,57 +14154,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_boots": {
-    "criteria": {
-      "has_item": "2025-01-19 04:12:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_white_to_dragonscales_white": {
-    "criteria": {
-      "has_dragonscale_white": "2025-01-19 04:16:29 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_blue_helmet": {
     "criteria": {
       "has_item": "2025-01-19 04:15:33 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_primordial_caves": {
-    "criteria": {
-      "discover": "2025-01-19 03:49:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-01-19 03:36:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_leggings": {
-    "criteria": {
-      "has_item": "2025-01-19 04:12:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
-    "criteria": {
-      "has_dragonscale_blue": "2025-01-19 04:16:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
-    "criteria": {
-      "has_dragonscales_white": "2025-01-19 04:12:50 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:zombie_dungeon": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-01-19 03:36:07 +0000"
     },
     "done": true
   },
@@ -14166,15 +14166,27 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_curly_fern": {
+  "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
     "criteria": {
-      "has_curly_fern": "2025-01-19 03:56:47 +0000"
+      "has_dragonscale_blue": "2025-01-19 04:16:20 +0000"
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_cycad": {
+  "iceandfire:recipes/misc/dragonscale_white_to_dragonscales_white": {
     "criteria": {
-      "has_cycad": "2025-01-19 03:53:02 +0000"
+      "has_dragonscale_white": "2025-01-19 04:16:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2025-01-19 04:43:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-01-19 04:43:08 +0000"
     },
     "done": true
   },
