@@ -2056,3 +2056,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Jan2025 03:25:07.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> tienes lingotes de draconium?
 [19Jan2025 03:25:48.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> SI
 [19Jan2025 03:31:51.295] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/39335, l='ServerLevel[world]', x=-270.47, y=93.00, z=317.58, removed=DISCARDED]
+[19Jan2025 03:35:11.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-600, y=20, z=404} BlockPos{x=-600, y=19, z=403}
+[19Jan2025 03:35:12.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[19Jan2025 03:36:07.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [When in Rome]
+[19Jan2025 03:36:07.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Professional Dungeoneer]
+[19Jan2025 03:36:09.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Sneak 100]
+[19Jan2025 03:37:46.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Disconnected
+[19Jan2025 03:37:46.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[19Jan2025 03:37:46.544] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jan2025 03:38:41.135] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17edb682[id=<null>,name=ica_1016,properties={},legacy=false] (/127.98.24.138:56403) lost connection: Disconnected
+[19Jan2025 03:39:42.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.98.24.138:42043] logged in with entity id 43216 at (-886.2617365065936, 101.0, 235.06393943732948)
+[19Jan2025 03:39:42.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[19Jan2025 03:39:42.532] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[19Jan2025 03:39:42.533] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Jan2025 03:39:42.533] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[19Jan2025 03:40:24.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! 17.443302664568137,2.618523894685311,-0.8697415521930907
+[19Jan2025 03:40:24.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2679ms or 53 ticks behind
+[19Jan2025 03:41:37.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! -8.512614426152481,-1.729448540913907,-15.079354988132536
+[19Jan2025 03:41:37.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2632ms or 52 ticks behind
