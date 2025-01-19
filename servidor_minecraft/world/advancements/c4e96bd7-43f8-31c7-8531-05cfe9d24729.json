@@ -9858,7 +9858,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-01-13 08:27:43 +0000",
-      "minecraft:nether_wastes": "2024-11-26 06:10:22 +0000"
+      "minecraft:nether_wastes": "2024-11-26 06:10:22 +0000",
+      "minecraft:warped_forest": "2025-01-19 21:48:37 +0000"
     },
     "done": false
   },
@@ -15632,6 +15633,12 @@
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2025-01-19 20:56:14 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-01-19 21:52:18 +0000"
     },
     "done": true
   },
