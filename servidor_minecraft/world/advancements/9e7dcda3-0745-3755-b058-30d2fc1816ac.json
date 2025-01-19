@@ -1296,6 +1296,7 @@
       "minecraft:windswept_savanna": "2024-12-05 06:45:09 +0000",
       "minecraft:warm_ocean": "2024-12-05 06:41:37 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-13 06:59:19 +0000",
+      "minecraft:flower_forest": "2025-01-19 03:21:31 +0000",
       "minecraft:frozen_peaks": "2024-12-14 05:21:03 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-25 07:58:03 +0000",
       "minecraft:deep_dark": "2024-11-25 06:03:59 +0000",
@@ -14024,21 +14025,15 @@
     },
     "done": true
   },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+  "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
-      "location1": "2025-01-19 02:38:39 +0000"
+      "killed_fire_dragon": "2025-01-19 02:37:55 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/tide_teal_chestplate": {
     "criteria": {
       "has_item": "2025-01-19 02:38:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2025-01-19 02:37:55 +0000"
     },
     "done": true
   },
@@ -14063,6 +14058,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
     "criteria": {
       "has_sea_serpent_scales_teal": "2025-01-19 02:38:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-01-19 02:38:39 +0000"
     },
     "done": true
   },
