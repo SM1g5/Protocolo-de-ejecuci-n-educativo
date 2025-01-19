@@ -364,6 +364,8 @@
       "pumpkin_patch": "2024-11-29 05:42:18 +0000",
       "grassland": "2024-11-22 07:53:20 +0000",
       "prairie": "2024-11-23 06:17:38 +0000",
+      "snowy_coniferous_forest": "2025-01-19 22:36:50 +0000",
+      "snowy_fir_clearing": "2025-01-19 22:36:26 +0000",
       "tundra": "2024-11-25 01:32:42 +0000",
       "glowing_grotto": "2024-11-23 06:44:45 +0000",
       "undergrowth": "2025-01-13 08:27:38 +0000",
@@ -15644,9 +15646,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_brown_mushroom_block": {
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
     "criteria": {
-      "has_brown_mushroom_block": "2025-01-19 22:14:47 +0000"
+      "bosses_of_mass_destruction:gauntlet": "2025-01-19 22:05:34 +0000"
     },
     "done": true
   },
@@ -15668,9 +15670,9 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_brown_mushroom_block": {
     "criteria": {
-      "bosses_of_mass_destruction:gauntlet": "2025-01-19 22:05:34 +0000"
+      "has_brown_mushroom_block": "2025-01-19 22:14:47 +0000"
     },
     "done": true
   },
