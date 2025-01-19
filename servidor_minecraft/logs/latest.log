@@ -1878,3 +1878,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Jan2025 22:02:25.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/52759, l='ServerLevel[world]', x=-870.61, y=122.25, z=136.65] died: Honeyed Archer suffocated in a wall
 [19Jan2025 22:02:44.527] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [19Jan2025 22:05:34.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Through the Gauntlet]
+[19Jan2025 22:10:25.563] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[19Jan2025 22:10:27.057] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[19Jan2025 22:10:27.059] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[19Jan2025 22:10:32.412] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[19Jan2025 22:11:05.953] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[19Jan2025 22:13:32.033] [Worker-Main-178/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[19Jan2025 22:14:23.712] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult

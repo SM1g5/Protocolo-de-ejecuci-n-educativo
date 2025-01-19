@@ -11487,3 +11487,96 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Jan2025 22:05:34.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Through the Gauntlet]
 [19Jan2025 22:08:18.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jan2025 22:08:19.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 22:10:25.563] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[19Jan2025 22:10:25.747] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=141, y=54, z=288} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[19Jan2025 22:10:25.748] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=141, y=54, z=288} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[19Jan2025 22:10:26.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[19Jan2025 22:10:26.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_skeleton_ranged_0
+[19Jan2025 22:10:26.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_0
+[19Jan2025 22:10:26.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_4
+[19Jan2025 22:10:26.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[19Jan2025 22:10:26.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_1
+[19Jan2025 22:10:26.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_1
+[19Jan2025 22:10:26.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_7
+[19Jan2025 22:10:26.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_5
+[19Jan2025 22:10:26.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[19Jan2025 22:10:26.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_6
+[19Jan2025 22:10:26.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[19Jan2025 22:10:27.057] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[19Jan2025 22:10:27.059] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[19Jan2025 22:10:32.412] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[19Jan2025 22:10:55.064] [Server thread/DEBUG] [mixin/]: Mixing PistonStructureResolverMixin from botania_xplat.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[19Jan2025 22:10:55.064] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_handler.PistonHandlerMixin from lithium.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[19Jan2025 22:10:55.064] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[19Jan2025 22:11:05.953] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[19Jan2025 22:13:19.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 22:13:19.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 22:13:31.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[19Jan2025 22:13:31.906] [Worker-Main-178/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[19Jan2025 22:13:31.912] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[19Jan2025 22:13:31.993] [Worker-Main-178/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[19Jan2025 22:13:32.033] [Worker-Main-178/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[19Jan2025 22:13:32.066] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[19Jan2025 22:13:32.099] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[19Jan2025 22:13:32.142] [Worker-Main-178/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Jan2025 22:13:32.142] [Worker-Main-178/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Jan2025 22:13:32.143] [Worker-Main-178/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Jan2025 22:13:32.143] [Worker-Main-178/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Jan2025 22:13:32.143] [Worker-Main-178/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Jan2025 22:13:32.143] [Worker-Main-178/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Jan2025 22:13:32.143] [Worker-Main-178/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Jan2025 22:13:32.143] [Worker-Main-178/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[19Jan2025 22:13:32.145] [Worker-Main-178/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[19Jan2025 22:13:32.147] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.147] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.147] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.147] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.147] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.147] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.147] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.147] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.147] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.147] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.147] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.147] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.147] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.147] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.148] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.148] [Worker-Main-178/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[19Jan2025 22:13:32.467] [Worker-Main-249/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[19Jan2025 22:13:32.468] [Worker-Main-249/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[19Jan2025 22:13:32.468] [Worker-Main-249/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[19Jan2025 22:13:32.471] [Worker-Main-249/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[19Jan2025 22:13:32.471] [Worker-Main-249/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[19Jan2025 22:13:35.542] [Worker-Main-195/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[19Jan2025 22:13:35.543] [Worker-Main-195/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[19Jan2025 22:13:36.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[19Jan2025 22:13:36.174] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[19Jan2025 22:13:36.177] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[19Jan2025 22:13:42.987] [Worker-Main-250/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[19Jan2025 22:13:43.720] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_2
+[19Jan2025 22:13:43.731] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[19Jan2025 22:13:43.739] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[19Jan2025 22:13:43.748] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[19Jan2025 22:13:43.756] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[19Jan2025 22:13:43.793] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[19Jan2025 22:13:43.805] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[19Jan2025 22:13:43.845] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[19Jan2025 22:13:43.869] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/base_plate
+[19Jan2025 22:13:43.875] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[19Jan2025 22:13:43.883] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[19Jan2025 22:13:43.900] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[19Jan2025 22:13:43.909] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[19Jan2025 22:13:43.920] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[19Jan2025 22:13:43.930] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[19Jan2025 22:13:43.961] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[19Jan2025 22:13:43.972] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[19Jan2025 22:13:43.992] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1
+[19Jan2025 22:13:44.017] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[19Jan2025 22:13:44.027] [Worker-Main-178/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[19Jan2025 22:13:44.028] [Worker-Main-178/DEBUG] [ModernFix/]: Structure kaisyn:village/beach_lighthouse/side/beach_giant_cross_1 is being run through DFU (hash 7659c15779e9dbc736b66b8b26c8faecb8e65395aba11ab073779f777fa2d1bc), this will cause launch time delays
+[19Jan2025 22:13:44.543] [Worker-Main-178/DEBUG] [ModernFix/]: Structure kaisyn:village/beach_lighthouse/side/beach_main_house_1 is being run through DFU (hash 4594af4c244c073e0d92feafaa26942b97e54f4772e4066371777b25c9c1a55f), this will cause launch time delays
+[19Jan2025 22:13:44.745] [Worker-Main-178/DEBUG] [ModernFix/]: Structure kaisyn:village/beach_lighthouse/side/beach_outdoor_shack_1 is being run through DFU (hash 02b406e3c7547d698f32f5ca8f6072ca01b8698f5fde1efc60b04098f169e61a), this will cause launch time delays
+[19Jan2025 22:14:23.712] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[19Jan2025 22:18:18.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 22:18:19.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

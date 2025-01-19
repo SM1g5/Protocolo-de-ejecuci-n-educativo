@@ -340,6 +340,7 @@
       "maple_woods": "2024-11-22 07:32:10 +0000",
       "crystalline_chasm": "2024-11-26 08:58:40 +0000",
       "orchard": "2024-11-22 08:57:22 +0000",
+      "field": "2025-01-19 22:13:40 +0000",
       "lavender_forest": "2024-11-22 09:04:39 +0000",
       "moor": "2024-12-06 07:56:49 +0000",
       "mediterranean_forest": "2024-11-23 06:05:35 +0000",
@@ -635,6 +636,7 @@
       "minecraft:dripstone_caves": "2024-11-27 06:04:16 +0000",
       "minecraft:swamp": "2024-11-23 06:21:05 +0000",
       "minecraft:grove": "2024-12-07 05:46:52 +0000",
+      "minecraft:cold_ocean": "2025-01-19 22:13:33 +0000",
       "minecraft:forest": "2024-11-22 08:19:38 +0000",
       "minecraft:lush_caves": "2024-11-25 07:05:23 +0000",
       "minecraft:ice_spikes": "2024-11-25 01:32:37 +0000",
@@ -15642,6 +15644,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_brown_mushroom_block": {
+    "criteria": {
+      "has_brown_mushroom_block": "2025-01-19 22:14:47 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/levitation_block": {
     "criteria": {
       "has_blazing_eye": "2025-01-19 22:07:03 +0000"
@@ -15651,6 +15659,12 @@
   "bosses_of_mass_destruction:recipes/blast_amplifier": {
     "criteria": {
       "has_blazing_eye": "2025-01-19 22:07:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-01-19 22:12:50 +0000"
     },
     "done": true
   },
