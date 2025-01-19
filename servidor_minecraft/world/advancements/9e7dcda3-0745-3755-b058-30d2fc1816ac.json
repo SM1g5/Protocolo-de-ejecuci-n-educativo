@@ -344,6 +344,7 @@
       "mediterranean_forest": "2024-11-27 08:46:16 +0000",
       "coniferous_forest": "2024-11-25 00:24:36 +0000",
       "spider_nest": "2024-11-25 02:40:32 +0000",
+      "forested_field": "2025-01-19 07:18:36 +0000",
       "dryland": "2024-11-28 06:29:13 +0000",
       "wasteland": "2024-12-06 05:14:30 +0000",
       "lush_desert": "2024-11-28 06:31:46 +0000",
@@ -14187,6 +14188,12 @@
   "handcrafted:recipes/misc/dripstone_corner_trim": {
     "criteria": {
       "has_dripstone_corner_trim": "2025-01-19 04:43:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-01-19 07:19:26 +0000"
     },
     "done": true
   },
