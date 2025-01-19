@@ -1822,3 +1822,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Jan2025 20:15:29.909] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
 [19Jan2025 20:15:30.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
 [19Jan2025 20:16:42.240] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[19Jan2025 20:18:11.761] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[19Jan2025 20:25:17.012] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[19Jan2025 20:26:04.126] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
