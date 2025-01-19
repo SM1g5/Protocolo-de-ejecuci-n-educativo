@@ -14070,9 +14070,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-01-19 04:15:33 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/curly_fern_decomposing": {
     "criteria": {
       "has_curly_fern": "2025-01-19 03:56:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-01-19 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-19 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-01-19 04:15:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-01-19 04:15:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-01-19 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_white_to_dragonscales_white": {
+    "criteria": {
+      "has_dragonscale_white": "2025-01-19 04:16:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-01-19 04:15:33 +0000"
     },
     "done": true
   },
@@ -14088,9 +14136,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-01-19 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
+    "criteria": {
+      "has_dragonscale_blue": "2025-01-19 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-01-19 04:12:50 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-01-19 03:36:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-19 04:15:33 +0000"
     },
     "done": true
   },
