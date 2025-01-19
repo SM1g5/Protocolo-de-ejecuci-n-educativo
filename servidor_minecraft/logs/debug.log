@@ -11301,3 +11301,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Jan2025 07:35:33.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Jan2025 07:35:34.578] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [19Jan2025 07:35:34.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] jotos
+[19Jan2025 07:38:46.096] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[19Jan2025 07:39:05.492] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[19Jan2025 07:40:33.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 07:40:33.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 07:40:33.724] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_post_3
+[19Jan2025 07:40:33.805] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_post_2
+[19Jan2025 07:40:35.798] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_post_0
+[19Jan2025 07:40:36.350] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_hut_4
+[19Jan2025 07:40:38.774] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_hut_2
+[19Jan2025 07:40:38.795] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_hut_0
+[19Jan2025 07:40:38.848] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_hut_3
+[19Jan2025 07:40:42.927] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_hut_5
+[19Jan2025 07:40:48.443] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:forlorn_hut_1
+[19Jan2025 07:42:25.299] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[19Jan2025 07:43:34.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[19Jan2025 07:43:37.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has reached the goal [Forlornliest Day of My Life]
+[19Jan2025 07:45:33.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 07:45:33.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 07:45:45.765] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[19Jan2025 07:45:54.977] [Server thread/INFO] [torcherino-api/]: [Torcherino] ica_1016(c4e96bd7-43f8-31c7-8531-05cfe9d24729) placed a torcherino:compressed_torcherino at -864, 111, 282.

@@ -1928,3 +1928,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Jan2025 07:35:18.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
 [19Jan2025 07:35:34.578] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [19Jan2025 07:35:34.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] jotos
+[19Jan2025 07:42:25.299] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[19Jan2025 07:43:34.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[19Jan2025 07:43:37.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has reached the goal [Forlornliest Day of My Life]
+[19Jan2025 07:45:45.765] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[19Jan2025 07:45:54.977] [Server thread/INFO] [torcherino-api/]: [Torcherino] ica_1016(c4e96bd7-43f8-31c7-8531-05cfe9d24729) placed a torcherino:compressed_torcherino at -864, 111, 282.
