@@ -2613,6 +2613,7 @@
       "minecraft:ghast": "2024-11-25 08:45:52 +0000",
       "minecraft:hoglin": "2024-11-25 01:36:12 +0000",
       "minecraft:guardian": "2024-11-29 07:27:12 +0000",
+      "minecraft:vindicator": "2025-01-19 02:39:28 +0000",
       "minecraft:magma_cube": "2024-12-30 04:10:46 +0000",
       "minecraft:spider": "2024-11-22 08:37:01 +0000",
       "minecraft:piglin_brute": "2024-11-26 08:15:18 +0000",
@@ -14020,6 +14021,48 @@
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-01-16 07:31:48 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-01-19 02:38:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-19 02:38:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-19 02:37:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-01-19 02:38:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-01-19 02:38:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-01-19 02:38:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-01-19 02:38:09 +0000"
     },
     "done": true
   },
