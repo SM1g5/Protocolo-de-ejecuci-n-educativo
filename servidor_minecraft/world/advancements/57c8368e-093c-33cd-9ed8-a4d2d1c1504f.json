@@ -14810,51 +14810,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+  "aether:recipes/tools/golden_hoe_repairing": {
     "criteria": {
-      "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
+      "has_golden_hoe": "2025-01-16 07:31:48 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
+  "twilightforest:recipes/decorations/berry_torch": {
     "criteria": {
-      "has_item": "2025-01-16 07:39:30 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_harbinger": {
-    "criteria": {
-      "theharbinger": "2025-01-16 08:41:46 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/uncrafting_table": {
-    "criteria": {
-      "has_the_recipe": "2025-01-16 07:43:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/maze_map": {
-    "criteria": {
-      "has_item": "2025-01-16 07:36:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-01-16 08:41:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
+      "has_item": "2025-01-16 07:32:00 +0000"
     },
     "done": true
   },
@@ -14864,69 +14828,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-01-16 08:41:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_cut_copper": "2025-01-16 08:41:54 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-01-16 07:58:10 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2025-01-16 08:33:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_cut_copper": "2025-01-16 08:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
-    "criteria": {
-      "has_waxed_cut_copper": "2025-01-16 08:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-01-16 08:08:47 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/food/food/smelted_meef": {
     "criteria": {
       "has_food": "2025-01-16 07:34:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-01-16 08:41:47 +0000"
     },
     "done": true
   },
@@ -14936,27 +14840,51 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/maze_map": {
+    "criteria": {
+      "has_item": "2025-01-16 07:36:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
+    "criteria": {
+      "has_item": "2025-01-16 07:39:30 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
     "criteria": {
       "has_item": "2025-01-16 07:39:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
+  "twilightforest:recipes/decorations/uncrafting_table": {
     "criteria": {
-      "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
+      "has_the_recipe": "2025-01-16 07:43:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+  "dungeons_arise:find_lighthouse": {
     "criteria": {
-      "has_waxed_cut_copper": "2025-01-16 08:41:54 +0000"
+      "location0": "2025-01-16 07:58:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
+      "has_snowball": "2025-01-16 08:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-16 08:08:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-16 08:33:21 +0000"
     },
     "done": true
   },
@@ -14966,9 +14894,51 @@
     },
     "done": true
   },
-  "botania:recipes/transportation/ghost_rail": {
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "has_item": "2025-01-16 08:41:47 +0000"
+      "kill_mob_near_sculk_catalyst": "2025-01-16 08:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
     },
     "done": true
   },
@@ -14981,18 +14951,6 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-16 08:38:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-01-16 08:37:05 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/berry_torch": {
-    "criteria": {
-      "has_item": "2025-01-16 07:32:00 +0000"
     },
     "done": true
   },
@@ -15014,15 +14972,57 @@
     },
     "done": true
   },
-  "aether:recipes/tools/golden_hoe_repairing": {
+  "cataclysm:kill_harbinger": {
     "criteria": {
-      "has_golden_hoe": "2025-01-16 07:31:48 +0000"
+      "theharbinger": "2025-01-16 08:41:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
-      "has_snowball": "2025-01-16 08:08:47 +0000"
+      "has_rail": "2025-01-16 08:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-16 08:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-16 08:41:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-01-16 08:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-01-16 08:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-01-16 08:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-01-16 08:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-01-16 08:41:54 +0000"
     },
     "done": true
   },

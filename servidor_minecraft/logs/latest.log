@@ -1849,3 +1849,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Jan2025 06:43:14.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4749, y=-2, z=4212} BlockPos{x=4706, y=10, z=4180}
 [19Jan2025 06:43:19.035] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
 [19Jan2025 06:43:27.466] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[19Jan2025 06:45:15.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Enderman
+[19Jan2025 06:45:15.118] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ica_1016 at X: 130.20217764296578, Y: 95.5, Z: -147.42138106369114
+[19Jan2025 06:45:17.182] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Jan2025 06:45:17.183] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[19Jan2025 06:45:22.824] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player AkujinPas picking up: PermanentItemEntity['Extradimensional Vessel'/11567, l='ServerLevel[world]', x=130.20, y=97.00, z=-147.42]
+[19Jan2025 06:45:22.824] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/11567, l='ServerLevel[world]', x=130.20, y=97.00, z=-147.42]
+[19Jan2025 06:45:24.487] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[19Jan2025 06:45:58.191] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[19Jan2025 06:46:03.625] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[19Jan2025 06:46:07.409] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[19Jan2025 06:46:26.649] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[19Jan2025 06:46:33.367] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[19Jan2025 06:47:09.363] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[19Jan2025 06:47:54.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Timed out
+[19Jan2025 06:47:54.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[19Jan2025 06:47:54.261] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jan2025 06:48:21.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.98.24.138:57483] logged in with entity id 16871 at (133.51140560250187, 95.5, -147.86678788830946)
+[19Jan2025 06:48:21.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[19Jan2025 06:48:21.836] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[19Jan2025 06:48:21.836] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Jan2025 06:48:21.837] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[19Jan2025 06:48:41.856] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[19Jan2025 06:50:28.057] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
+[19Jan2025 06:51:17.294] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[19Jan2025 06:53:19.246] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
