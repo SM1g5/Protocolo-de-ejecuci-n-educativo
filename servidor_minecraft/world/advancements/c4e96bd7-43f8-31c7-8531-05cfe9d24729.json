@@ -15642,5 +15642,23 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-01-19 22:07:03 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-01-19 22:07:03 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2025-01-19 22:05:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

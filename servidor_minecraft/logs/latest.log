@@ -1868,3 +1868,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Jan2025 21:56:01.464] [Server thread/INFO] [Scaling Health/]: Blight Strider has died
 [19Jan2025 21:58:04.464] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
 [19Jan2025 21:58:20.851] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[19Jan2025 22:01:01.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Timed out
+[19Jan2025 22:01:01.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[19Jan2025 22:01:27.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.98.24.138:36447] logged in with entity id 51829 at (-873.3999293147731, 110.1212968405392, 244.81585730114628)
+[19Jan2025 22:01:27.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[19Jan2025 22:01:27.178] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[19Jan2025 22:01:27.178] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Jan2025 22:01:27.179] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[19Jan2025 22:02:25.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/52759, l='ServerLevel[world]', x=-870.61, y=122.25, z=136.65] died: Honeyed Archer suffocated in a wall
+[19Jan2025 22:02:44.527] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[19Jan2025 22:05:34.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Through the Gauntlet]
