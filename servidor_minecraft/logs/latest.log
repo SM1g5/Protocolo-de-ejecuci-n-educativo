@@ -1830,3 +1830,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Jan2025 20:30:43.466] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [19Jan2025 20:30:43.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Don't Count Your Moas...]
 [19Jan2025 20:32:24.326] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[19Jan2025 20:41:25.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Timed out
+[19Jan2025 20:41:25.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[19Jan2025 20:42:26.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.98.24.138:44137] logged in with entity id 19158 at (-867.4793504273912, 110.0, 279.71994284369066)
+[19Jan2025 20:42:26.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[19Jan2025 20:42:26.891] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[19Jan2025 20:42:26.892] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Jan2025 20:42:26.893] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
